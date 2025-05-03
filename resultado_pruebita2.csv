@@ -1,5 +1,5 @@
 Country;Continent;Rank;Title;Artists;Album;Explicit;Duration
-Global;Global;1;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
+Global;Global;1;Rain On Me (with Ariana Grande);0;182
 Global;Global;2;Blinding Lights;The Weeknd;After Hours;0;200
 Global;Global;3;ROCKSTAR (feat. Roddy Ricch);DaBaby, Roddy Ricch;BLAME IT ON BABY;1;181
 Global;Global;4;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
@@ -20,7 +20,7 @@ Global;Global;18;In Your Eyes;The Weeknd;After Hours;1;237
 Global;Global;19;Sunday Best;Surfaces;Where the Light Is;0;158
 Global;Global;20;Say So;Doja Cat;Hot Pink;1;237
 Global;Global;21;Falling;Trevor Daniel;Nicotine;0;159
-Global;Global;22;Savage Remix (feat. BeyoncÈ);Megan Thee Stallion, BeyoncÈ;Savage Remix (feat. BeyoncÈ);1;242
+Global;Global;22;Savage Remix (feat. Beyonc√©);Megan Thee Stallion, Beyonc√©;Savage Remix (feat. Beyonc√©);1;242
 Global;Global;23;Safaera;Bad Bunny, Jowell & Randy, Nengo Flow;YHLQMDLG;1;295
 Global;Global;24;Someone You Loved;Lewis Capaldi;Divinely Uninspired To A Hellish Extent;0;182
 Global;Global;25;Yo Perreo Sola;Bad Bunny;YHLQMDLG;0;172
@@ -45,7 +45,7 @@ Global;Global;43;Before You Go;Lewis Capaldi;Divinely Uninspired To A Hellish Ex
 Global;Global;44;Memories;Maroon 5;Memories;0;189
 Global;Global;45;After Party;Don Toliver;Heaven Or Hell;1;167
 Global;Global;46;bad guy;Billie Eilish;WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?;0;194
-Global;Global;47;SeÒorita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
+Global;Global;47;Se√±orita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
 Global;Global;48;Daechwita;Agust D;D-2;1;225
 Global;Global;49;MAMACITA;Black Eyed Peas, Ozuna, J. Rey Soul;MAMACITA;1;249
 Global;Global;50;Favorito;Camilo;Por Primera Vez;0;209
@@ -54,50 +54,50 @@ Argentina;South America;2;Favorito;Camilo;Por Primera Vez;0;209
 Argentina;South America;3;PORFA;Feid, Justin Quiles;FERXXO (VOL 1: M.O.R);0;232
 Argentina;South America;4;Yo Perreo Sola;Bad Bunny;YHLQMDLG;0;172
 Argentina;South America;5;C.R.O: Bzrp Music Session, Vol. 29;Bizarrap, C.R.O;C.R.O: Bzrp Music Session, Vol. 29;0;146
-Argentina;South America;6;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
+Argentina;South America;6;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
 Argentina;South America;7;Rojo;J Balvin;Colores;0;150
 Argentina;South America;8;Safaera;Bad Bunny, Jowell & Randy, Nengo Flow;YHLQMDLG;1;295
 Argentina;South America;9;Tattoo;Rauw Alejandro;Tattoo;0;202
-Argentina;South America;10;Inolvidable;Ovy On The Drums, BeÈle;Inolvidable;0;225
+Argentina;South America;10;Inolvidable;Ovy On The Drums, Be√©le;Inolvidable;0;225
 Argentina;South America;11;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
-Argentina;South America;12;Hola - Remix;Dalex, Lenny Tav·rez, Chencho Corleone, Juhn, DÌmelo Flow;Hola (Remix);0;249
+Argentina;South America;12;Hola - Remix;Dalex, Lenny Tav√°rez, Chencho Corleone, Juhn, D√≠melo Flow;Hola (Remix);0;249
 Argentina;South America;13;Por Primera Vez;Camilo, Evaluna Montaner;Por Primera Vez;0;182
 Argentina;South America;14;Diosa;Myke Towers;Easy Money Baby;1;214
 Argentina;South America;15;La Jeepeta - Remix;Nio Garcia, Anuel AA, Myke Towers, Brray, Juanka;La Jeepeta (Remix);1;345
-Argentina;South America;16;RelaciÛn;Sech;1 of 1;0;184
+Argentina;South America;16;Relaci√≥n;Sech;1 of 1;0;184
 Argentina;South America;17;Morado;J Balvin;Colores;0;200
-Argentina;South America;18;Sigues Con El;DÌmelo Flow, Arcangel, Sech;Sigues Con El;0;226
+Argentina;South America;18;Sigues Con El;D√≠melo Flow, Arcangel, Sech;Sigues Con El;0;226
 Argentina;South America;19;Blinding Lights;The Weeknd;After Hours;0;200
 Argentina;South America;20;Tak Tiki Tak;Harry Nach;Tak Tiki Tak;1;212
 Argentina;South America;21;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 Argentina;South America;22;Fantasias;Rauw Alejandro, Farruko;Fantasias;0;199
-Argentina;South America;23;Loco;BeÈle;Loco;0;204
+Argentina;South America;23;Loco;Be√©le;Loco;0;204
 Argentina;South America;24;Locura;Cali Y El Dandee, Sebastian Yatra;Colegio;0;209
 Argentina;South America;25;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
 Argentina;South America;26;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
-Argentina;South America;27;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
+Argentina;South America;27;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
 Argentina;South America;28;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Argentina;South America;29;Amarillo;J Balvin;Colores;0;157
 Argentina;South America;30;ALMA DINAMITA;WOS;Tres Puntos Suspensivos;0;173
 Argentina;South America;31;Ignorantes;Bad Bunny, Sech;YHLQMDLG;1;210
 Argentina;South America;32;El Efecto - Remix;Rauw Alejandro, Chencho Corleone, KEVVO, Bryant Myers, Lyanno, Dalex;El Efecto (Remix);1;289
 Argentina;South America;33;High;Maria Becerra;High;1;187
-Argentina;South America;34;Ya No M·s;Fer Palacio, DJ Alex, Santiago Saez;Ya No M·s;0;158
+Argentina;South America;34;Ya No M√°s;Fer Palacio, DJ Alex, Santiago Saez;Ya No M√°s;0;158
 Argentina;South America;35;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
 Argentina;South America;36;Flasheaste Amor;Agapornis, Hernan y La Champion's Liga, Lauro;Flasheaste Amor;0;175
 Argentina;South America;37;Como Llora;Juanfran;Como Llora;0;187
-Argentina;South America;38;Si Me Dices Que SÌ;Reik, Farruko, Camilo;Si Me Dices Que SÌ;0;211
-Argentina;South America;39;Tutu;Camilo, Pedro CapÛ;Por Primera Vez;0;179
-Argentina;South America;40;MuÈvelo;Nicky Jam, Daddy Yankee;MuÈvelo;0;194
-Argentina;South America;41;DÛnde Est·s;KHEA;DÛnde Est·s;0;153
+Argentina;South America;38;Si Me Dices Que S√≠;Reik, Farruko, Camilo;Si Me Dices Que S√≠;0;211
+Argentina;South America;39;Tutu;Camilo, Pedro Cap√≥;Por Primera Vez;0;179
+Argentina;South America;40;Mu√©velo;Nicky Jam, Daddy Yankee;Mu√©velo;0;194
+Argentina;South America;41;D√≥nde Est√°s;KHEA;D√≥nde Est√°s;0;153
 Argentina;South America;42;Recuerdo;TINI, Mau y Ricky;Recuerdo;0;200
 Argentina;South America;43;Bounce;Cazzu;Bonus Trap;0;133
 Argentina;South America;44;La Cama - Remix;Lunay, Myke Towers, Ozuna, Chencho Corleone, Rauw Alejandro;La Cama (Remix);0;330
 Argentina;South America;45;BYE ME FUI;Bad Bunny;LAS QUE NO IBAN A SALIR;1;178
-Argentina;South America;46;La Pared 360;Lenny Tav·rez, Justin Quiles;La Pared 360;1;154
+Argentina;South America;46;La Pared 360;Lenny Tav√°rez, Justin Quiles;La Pared 360;1;154
 Argentina;South America;47;Moon;Maria Becerra, DANI;Moon;0;202
-Argentina;South America;48;Bellaquita - Remix;Dalex, Lenny Tav·rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo AviÛn;1;304
-Argentina;South America;49;ALGO DEL VACÕO;WOS, Manu Oliva;Tres Puntos Suspensivos;0;213
+Argentina;South America;48;Bellaquita - Remix;Dalex, Lenny Tav√°rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo Avi√≥n;1;304
+Argentina;South America;49;ALGO DEL VAC√çO;WOS, Manu Oliva;Tres Puntos Suspensivos;0;213
 Argentina;South America;50;Par-Tusa;El Dipy;Par-Tusa;1;190
 Australia;Australia;1;ROCKSTAR (feat. Roddy Ricch);DaBaby, Roddy Ricch;BLAME IT ON BABY;1;181
 Australia;Australia;2;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
@@ -119,7 +119,7 @@ Australia;Australia;17;In Your Eyes;The Weeknd;After Hours;1;237
 Australia;Australia;18;Be Kind (with Halsey);Marshmello, Halsey;Be Kind (with Halsey);0;172
 Australia;Australia;19;Boss Bitch;Doja Cat;Boss Bitch;0;134
 Australia;Australia;20;Pump It Up;Endor;Pump It Up;0;150
-Australia;Australia;21;Savage Remix (feat. BeyoncÈ);Megan Thee Stallion, BeyoncÈ;Savage Remix (feat. BeyoncÈ);1;242
+Australia;Australia;21;Savage Remix (feat. Beyonc√©);Megan Thee Stallion, Beyonc√©;Savage Remix (feat. Beyonc√©);1;242
 Australia;Australia;22;Breaking Me;Topic, A7S;Breaking Me;0;166
 Australia;Australia;23;GOOBA;6ix9ine;GOOBA;1;132
 Australia;Australia;24;WHATS POPPIN;Jack Harlow;Sweet Action;1;139
@@ -177,7 +177,7 @@ Austria;Europe;25;Maison;Luciano;Maison;0;193
 Austria;Europe;26;90-60-111;Shirin David;90-60-111;1;141
 Austria;Europe;27;Fingertips;Tom Gregory;Fingertips;0;165
 Austria;Europe;28;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
-Austria;Europe;29;Ich w¸rd' l¸gen;KAYEF;Struggle Is Real;0;163
+Austria;Europe;29;Ich w√ºrd' l√ºgen;KAYEF;Struggle Is Real;0;163
 Austria;Europe;30;Shotz Fired;Bonez MC;Shotz Fired;1;179
 Austria;Europe;31;Falling;Trevor Daniel;Nicotine;0;159
 Austria;Europe;32;The Passenger (LaLaLa);LUM!X, MOKABY & D.T.E, Gabry Ponte;The Passenger (LaLaLa);0;159
@@ -256,18 +256,18 @@ Bolivia;South America;4;Bajo La Mesa;Morat, Sebastian Yatra;Bajo La Mesa;0;157
 Bolivia;South America;5;Yo Perreo Sola;Bad Bunny;YHLQMDLG;0;172
 Bolivia;South America;6;Safaera;Bad Bunny, Jowell & Randy, Nengo Flow;YHLQMDLG;1;295
 Bolivia;South America;7;Tattoo;Rauw Alejandro;Tattoo;0;202
-Bolivia;South America;8;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
-Bolivia;South America;9;Hola - Remix;Dalex, Lenny Tav·rez, Chencho Corleone, Juhn, DÌmelo Flow;Hola (Remix);0;249
+Bolivia;South America;8;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
+Bolivia;South America;9;Hola - Remix;Dalex, Lenny Tav√°rez, Chencho Corleone, Juhn, D√≠melo Flow;Hola (Remix);0;249
 Bolivia;South America;10;PORFA;Feid, Justin Quiles;FERXXO (VOL 1: M.O.R);0;232
-Bolivia;South America;11;RelaciÛn;Sech;1 of 1;0;184
+Bolivia;South America;11;Relaci√≥n;Sech;1 of 1;0;184
 Bolivia;South America;12;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
 Bolivia;South America;13;Pa' Olvidarme De Ella;Piso 21, Christian Nodal;Pa' Olvidarme De Ella;1;227
-Bolivia;South America;14;Sigues Con El;DÌmelo Flow, Arcangel, Sech;Sigues Con El;0;226
+Bolivia;South America;14;Sigues Con El;D√≠melo Flow, Arcangel, Sech;Sigues Con El;0;226
 Bolivia;South America;15;Locura;Cali Y El Dandee, Sebastian Yatra;Colegio;0;209
 Bolivia;South America;16;Ignorantes;Bad Bunny, Sech;YHLQMDLG;1;210
 Bolivia;South America;17;Diosa;Myke Towers;Easy Money Baby;1;214
 Bolivia;South America;18;Morado;J Balvin;Colores;0;200
-Bolivia;South America;19;Jangueo;Alex Rose, Rafa Pabˆn;LOST;0;259
+Bolivia;South America;19;Jangueo;Alex Rose, Rafa Pab√∂n;LOST;0;259
 Bolivia;South America;20;BYE ME FUI;Bad Bunny;LAS QUE NO IBAN A SALIR;1;178
 Bolivia;South America;21;Amarillo;J Balvin;Colores;0;157
 Bolivia;South America;22;Por Primera Vez;Camilo, Evaluna Montaner;Por Primera Vez;0;182
@@ -277,78 +277,78 @@ Bolivia;South America;25;Fantasias;Rauw Alejandro, Farruko;Fantasias;0;199
 Bolivia;South America;26;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 Bolivia;South America;27;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 Bolivia;South America;28;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
-Bolivia;South America;29;Si Veo a Tu Mam·;Bad Bunny;YHLQMDLG;0;170
-Bolivia;South America;30;Tutu;Camilo, Pedro CapÛ;Por Primera Vez;0;179
-Bolivia;South America;31;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
-Bolivia;South America;32;LA CANCI”N;J Balvin, Bad Bunny;OASIS;0;242
+Bolivia;South America;29;Si Veo a Tu Mam√°;Bad Bunny;YHLQMDLG;0;170
+Bolivia;South America;30;Tutu;Camilo, Pedro Cap√≥;Por Primera Vez;0;179
+Bolivia;South America;31;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
+Bolivia;South America;32;LA CANCI√ìN;J Balvin, Bad Bunny;OASIS;0;242
 Bolivia;South America;33;El Efecto;Rauw Alejandro, Chencho Corleone;El Efecto;0;217
-Bolivia;South America;34;QuiÈreme Mientras Se Pueda;Manuel Turizo;QuiÈreme Mientras Se Pueda;0;191
-Bolivia;South America;35;Si Me Dices Que SÌ;Reik, Farruko, Camilo;Si Me Dices Que SÌ;0;211
+Bolivia;South America;34;Qui√©reme Mientras Se Pueda;Manuel Turizo;Qui√©reme Mientras Se Pueda;0;191
+Bolivia;South America;35;Si Me Dices Que S√≠;Reik, Farruko, Camilo;Si Me Dices Que S√≠;0;211
 Bolivia;South America;36;Sigues Con El - Remix;Arcangel, Sech, Romeo Santos;Sigues Con El (Remix);0;189
 Bolivia;South America;37;Djadja;Aya Nakamura;NAKAMURA;0;171
-Bolivia;South America;38;La DifÌcil;Camilo;Por Primera Vez;0;158
+Bolivia;South America;38;La Dif√≠cil;Camilo;Por Primera Vez;0;158
 Bolivia;South America;39;No Me Conoce - Remix;Jhay Cortez, J Balvin, Bad Bunny;Famouz;0;309
 Bolivia;South America;40;La Mitad;Camilo, Christian Nodal;Por Primera Vez;0;177
 Bolivia;South America;41;Vete;Bad Bunny;YHLQMDLG;1;192
 Bolivia;South America;42;ADMV;Maluma;ADMV;0;193
 Bolivia;South America;43;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
-Bolivia;South America;44;CANCI”N CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
+Bolivia;South America;44;CANCI√ìN CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
 Bolivia;South America;45;El Efecto - Remix;Rauw Alejandro, Chencho Corleone, KEVVO, Bryant Myers, Lyanno, Dalex;El Efecto (Remix);1;289
-Bolivia;South America;46;Detente;Mike BahÌa, Danny Ocean;Navegando;0;181
+Bolivia;South America;46;Detente;Mike Bah√≠a, Danny Ocean;Navegando;0;181
 Bolivia;South America;47;Desconocidos;Mau y Ricky, Manuel Turizo, Camilo;Para Aventuras y Curiosidades;1;204
 Bolivia;South America;48;China;Anuel AA, Daddy Yankee, KAROL G, J Balvin, Ozuna;China;0;301
 Bolivia;South America;49;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
-Bolivia;South America;50;Bellaquita - Remix;Dalex, Lenny Tav·rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo AviÛn;1;304
+Bolivia;South America;50;Bellaquita - Remix;Dalex, Lenny Tav√°rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo Avi√≥n;1;304
 Brazil;South America;1;A Gente Fez Amor - Ao Vivo;Gusttavo Lima;O Embaixador in Cariri (Ao Vivo);0;237
 Brazil;South America;2;Saudade Sua;Gusttavo Lima;Saudade Sua;0;210
 Brazil;South America;3;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
-Brazil;South America;4;Liberdade ProvisÛria - Ao Vivo;Henrique & Juliano;Ao Vivo no Ibirapuera, Vol. 1;0;187
-Brazil;South America;5;BRABA;LuÌsa Sonza;BRABA;0;129
+Brazil;South America;4;Liberdade Provis√≥ria - Ao Vivo;Henrique & Juliano;Ao Vivo no Ibirapuera, Vol. 1;0;187
+Brazil;South America;5;BRABA;Lu√≠sa Sonza;BRABA;0;129
 Brazil;South America;6;Tudo no Sigilo;Vytinho NG, MC Bianca;Tudo no Sigilo;1;156
-Brazil;South America;7;·gua com aÁ˙car - ao vivo;Luan Santana;VIVA (Ao Vivo);0;249
+Brazil;South America;7;√°gua com a√ß√∫car - ao vivo;Luan Santana;VIVA (Ao Vivo);0;249
 Brazil;South America;8;Ranking;Jorge & Mateus;T. E. P., EP 1;0;166
-Brazil;South America;9;Graveto - Ao Vivo;MarÌlia MendonÁa;Graveto (Ao Vivo);0;170
-Brazil;South America;10;Litr„o - Ao Vivo;Matheus & Kauan;10 Anos Na Praia (Ao Vivo / Vol. 1);0;170
+Brazil;South America;9;Graveto - Ao Vivo;Mar√≠lia Mendon√ßa;Graveto (Ao Vivo);0;170
+Brazil;South America;10;Litr√£o - Ao Vivo;Matheus & Kauan;10 Anos Na Praia (Ao Vivo / Vol. 1);0;170
 Brazil;South America;11;Volta por Baixo - Ao Vivo;Henrique & Juliano;Ao Vivo no Ibirapuera, Vol. 1;0;192
-Brazil;South America;12;S de Saudade;LuÌza & MaurÌlio, ZÈ Neto & Cristiano;S de Saudade;0;174
-Brazil;South America;13;Na Raba Toma Tap„o;Niack;Na Raba Toma Tap„o;0;165
+Brazil;South America;12;S de Saudade;Lu√≠za & Maur√≠lio, Z√© Neto & Cristiano;S de Saudade;0;174
+Brazil;South America;13;Na Raba Toma Tap√£o;Niack;Na Raba Toma Tap√£o;0;165
 Brazil;South America;14;Te Prometo;Dennis DJ, Mc Don Juan;Te Prometo;0;161
 Brazil;South America;15;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 Brazil;South America;16;Tudo Aconteceu;MC Du Black, Delacruz;Tudo Aconteceu;1;155
-Brazil;South America;17;Barzinho AleatÛrio - Ao Vivo;ZÈ Neto & Cristiano;Por Mais Beijos Ao Vivo, Ep1 - Ao Vivo;0;158
+Brazil;South America;17;Barzinho Aleat√≥rio - Ao Vivo;Z√© Neto & Cristiano;Por Mais Beijos Ao Vivo, Ep1 - Ao Vivo;0;158
 Brazil;South America;18;Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix;Maverick Sabre, Jorja Smith, Vintage Culture, Slow Motion;Slow Down (feat. Jorja Smith) [Vintage Culture & Slow Motion Remix];0;181
-Brazil;South America;19;Mentira - Ao Vivo;Felipe Ara˙jo;Felipe Ara˙jo In BrasÌlia (Ao Vivo / Vol.1);0;193
+Brazil;South America;19;Mentira - Ao Vivo;Felipe Ara√∫jo;Felipe Ara√∫jo In Bras√≠lia (Ao Vivo / Vol.1);0;193
 Brazil;South America;20;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
-Brazil;South America;21;Despedida - Ao Vivo;Wesley Safad„o, ZÈ Neto & Cristiano;Garota Vip Rio de Janeiro (Deluxe) (ao Vivo);0;202
+Brazil;South America;21;Despedida - Ao Vivo;Wesley Safad√£o, Z√© Neto & Cristiano;Garota Vip Rio de Janeiro (Deluxe) (ao Vivo);0;202
 Brazil;South America;22;Com ou Sem Mim - Ao Vivo;Gustavo Mioto;Ao Vivo em Fortaleza, Pt. 1;0;201
 Brazil;South America;23;Cheirosa - Ao Vivo;Jorge & Mateus;Cheirosa (Ao Vivo);0;181
-Brazil;South America;24;Supera - Ao Vivo;MarÌlia MendonÁa;Todos Os Cantos, Vol. 3 (ao Vivo);0;147
-Brazil;South America;25;SENTAD√O;Pedro Sampaio, Felipe Original, JS o M„o de Ouro;SENTAD√O;0;143
-Brazil;South America;26;AÌ Eu Bebo - Ao Vivo;Maiara & Maraisa;Aqui Em Casa (ao Vivo);0;173
-Brazil;South America;27;Bebi Minha Bicicleta (CoraÁ„o Falido) - Ao Vivo;ZÈ Neto & Cristiano;Por Mais Beijos Ao Vivo, Ep1 - Ao Vivo;0;181
+Brazil;South America;24;Supera - Ao Vivo;Mar√≠lia Mendon√ßa;Todos Os Cantos, Vol. 3 (ao Vivo);0;147
+Brazil;South America;25;SENTAD√ÉO;Pedro Sampaio, Felipe Original, JS o M√£o de Ouro;SENTAD√ÉO;0;143
+Brazil;South America;26;A√≠ Eu Bebo - Ao Vivo;Maiara & Maraisa;Aqui Em Casa (ao Vivo);0;173
+Brazil;South America;27;Bebi Minha Bicicleta (Cora√ß√£o Falido) - Ao Vivo;Z√© Neto & Cristiano;Por Mais Beijos Ao Vivo, Ep1 - Ao Vivo;0;181
 Brazil;South America;28;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
 Brazil;South America;29;3 Batidas - Ao Vivo;Guilherme & Benuto;3 Batidas (Ao Vivo);0;157
 Brazil;South America;30;Briga Feia - Ao Vivo;Henrique & Juliano;Ao Vivo no Ibirapuera, Vol. 1;0;194
-Brazil;South America;31;Vira Homem;MarÌlia MendonÁa;Vira Homem;0;196
-Brazil;South America;32;¡udio - Ao Vivo em BrasÌlia;Diego & Victor Hugo;Diego & Victor Hugo Ao Vivo em BrasÌlia - EP1;0;190
+Brazil;South America;31;Vira Homem;Mar√≠lia Mendon√ßa;Vira Homem;0;196
+Brazil;South America;32;√Åudio - Ao Vivo em Bras√≠lia;Diego & Victor Hugo;Diego & Victor Hugo Ao Vivo em Bras√≠lia - EP1;0;190
 Brazil;South America;33;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 Brazil;South America;34;Blinding Lights;The Weeknd;After Hours;0;200
-Brazil;South America;35;BalanÁa (feat. Pedro Sampaio e FP do Trem Bala);WC no Beat, Pedro Sampaio, FP do Trem Bala;BalanÁa (feat. Pedro Sampaio e FP do Trem Bala);0;126
+Brazil;South America;35;Balan√ßa (feat. Pedro Sampaio e FP do Trem Bala);WC no Beat, Pedro Sampaio, FP do Trem Bala;Balan√ßa (feat. Pedro Sampaio e FP do Trem Bala);0;126
 Brazil;South America;36;menina solta;Giulia Be;menina solta;0;150
-Brazil;South America;37;RelÛgio Parado (Ao Vivo);Diego & Arnaldo;RelÛgio Parado (Ao Vivo);0;180
+Brazil;South America;37;Rel√≥gio Parado (Ao Vivo);Diego & Arnaldo;Rel√≥gio Parado (Ao Vivo);0;180
 Brazil;South America;38;Vem Me Satisfazer;MC Ingryd, DJ Henrique da VK;Vem Me Satisfazer;0;188
-Brazil;South America;39;Segunda TaÁa;Jo„o Bosco & Vinicius, Matheus;Segunda TaÁa;0;180
+Brazil;South America;39;Segunda Ta√ßa;Jo√£o Bosco & Vinicius, Matheus;Segunda Ta√ßa;0;180
 Brazil;South America;40;Quem Traiu Levou - Ao Vivo;Gusttavo Lima;O Embaixador in Cariri (Ao Vivo);0;154
-Brazil;South America;41;boa memÛria - ao vivo;Luan Santana;VIVA (Ao Vivo);0;214
+Brazil;South America;41;boa mem√≥ria - ao vivo;Luan Santana;VIVA (Ao Vivo);0;214
 Brazil;South America;42;Amor de Fim de Noite;Orochi, Papatinho;Celebridade;1;221
 Brazil;South America;43;Viva Voz - Ao Vivo;Lauana Prado;Livre (Ao Vivo / Vol.1);0;164
 Brazil;South America;44;Break My Heart;Dua Lipa;Future Nostalgia;0;221
-Brazil;South America;45;Tijol„o - Ao Vivo;Jorge & Mateus;Tijol„o (ao Vivo);0;175
+Brazil;South America;45;Tijol√£o - Ao Vivo;Jorge & Mateus;Tijol√£o (ao Vivo);0;175
 Brazil;South America;46;Toosie Slide;Drake;Dark Lane Demo Tapes;1;247
-Brazil;South America;47;N„o Vai Embora;Dilsinho, LuÌsa Sonza, Malibu;N„o Vai Embora;0;205
-Brazil;South America;48;Tudo Ok;Thiaguinho MT, Mila, JS o M„o de Ouro;Tudo Ok;0;178
-Brazil;South America;49;Pipa Voada (feat. Emicida);Rashid, Lukinhas, Emicida;T„o Real;0;185
-Brazil;South America;50;Ent„o Toma - Ao Vivo;Matheus & Kauan;Ent„o Toma (Ao Vivo);0;161
+Brazil;South America;47;N√£o Vai Embora;Dilsinho, Lu√≠sa Sonza, Malibu;N√£o Vai Embora;0;205
+Brazil;South America;48;Tudo Ok;Thiaguinho MT, Mila, JS o M√£o de Ouro;Tudo Ok;0;178
+Brazil;South America;49;Pipa Voada (feat. Emicida);Rashid, Lukinhas, Emicida;T√£o Real;0;185
+Brazil;South America;50;Ent√£o Toma - Ao Vivo;Matheus & Kauan;Ent√£o Toma (Ao Vivo);0;161
 Bulgaria;Europe;1;GOOBA;6ix9ine;GOOBA;1;132
 Bulgaria;Europe;2;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Bulgaria;Europe;3;THE SCOTTS;THE SCOTTS, Travis Scott, Kid Cudi;THE SCOTTS;1;165
@@ -380,7 +380,7 @@ Bulgaria;Europe;28;ily (i love you baby) (feat. Emilee);Surf Mesa, Emilee;ily (i
 Bulgaria;Europe;29;Boss Bitch;Doja Cat;Boss Bitch;0;134
 Bulgaria;Europe;30;Physical;Dua Lipa;Future Nostalgia;0;193
 Bulgaria;Europe;31;OUT WEST (feat. Young Thug);JACKBOYS, Travis Scott, Young Thug;JACKBOYS;1;157
-Bulgaria;Europe;32;Savage Remix (feat. BeyoncÈ);Megan Thee Stallion, BeyoncÈ;Savage Remix (feat. BeyoncÈ);1;242
+Bulgaria;Europe;32;Savage Remix (feat. Beyonc√©);Megan Thee Stallion, Beyonc√©;Savage Remix (feat. Beyonc√©);1;242
 Bulgaria;Europe;33;Savage;Megan Thee Stallion;Suga;1;155
 Bulgaria;Europe;34;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
 Bulgaria;Europe;35;Say So;Doja Cat;Hot Pink;1;237
@@ -394,7 +394,7 @@ Bulgaria;Europe;42;Burn It;Agust D, MAX;D-2;0;192
 Bulgaria;Europe;43;KISLOROD;V:RGO;ENERGY EP;1;187
 Bulgaria;Europe;44;Piyan;Preslava;Da gori v lyubov;0;227
 Bulgaria;Europe;45;everything i wanted;Billie Eilish;everything i wanted;0;245
-Bulgaria;Europe;46;SeÒorita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
+Bulgaria;Europe;46;Se√±orita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
 Bulgaria;Europe;47;Adore You;Harry Styles;Fine Line;0;207
 Bulgaria;Europe;48;Don Omar;EMIL TRF;Don Omar;0;177
 Bulgaria;Europe;49;Strange;Agust D, RM;D-2;0;196
@@ -418,7 +418,7 @@ Canada;North America;16;Sunday Best;Surfaces;Where the Light Is;0;158
 Canada;North America;17;ily (i love you baby) (feat. Emilee);Surf Mesa, Emilee;ily (i love you baby) (feat. Emilee);0;176
 Canada;North America;18;WHATS POPPIN;Jack Harlow;Sweet Action;1;139
 Canada;North America;19;Be Kind (with Halsey);Marshmello, Halsey;Be Kind (with Halsey);0;172
-Canada;North America;20;Savage Remix (feat. BeyoncÈ);Megan Thee Stallion, BeyoncÈ;Savage Remix (feat. BeyoncÈ);1;242
+Canada;North America;20;Savage Remix (feat. Beyonc√©);Megan Thee Stallion, Beyonc√©;Savage Remix (feat. Beyonc√©);1;242
 Canada;North America;21;Say So (feat. Nicki Minaj);Doja Cat, Nicki Minaj;Say So (feat. Nicki Minaj);1;206
 Canada;North America;22;Circles;Post Malone;Hollywood's Bleeding;0;215
 Canada;North America;23;After Party;Don Toliver;Heaven Or Hell;1;167
@@ -449,36 +449,36 @@ Canada;North America;47;Play Date;Melanie Martinez;Cry Baby (Deluxe Edition);1;1
 Canada;North America;48;Memories;Maroon 5;Memories;0;189
 Canada;North America;49;WUNNA;Gunna;WUNNA;1;158
 Canada;North America;50;SICKO MODE;Travis Scott;ASTROWORLD;1;312
-Chile;South America;1;C”MO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C”MO SE SIENTE (Remix);1;227
+Chile;South America;1;C√ìMO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C√ìMO SE SIENTE (Remix);1;227
 Chile;South America;2;Safaera;Bad Bunny, Jowell & Randy, Nengo Flow;YHLQMDLG;1;295
 Chile;South America;3;Yo Perreo Sola;Bad Bunny;YHLQMDLG;0;172
-Chile;South America;4;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
+Chile;South America;4;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
 Chile;South America;5;PORFA;Feid, Justin Quiles;FERXXO (VOL 1: M.O.R);0;232
 Chile;South America;6;La Jeepeta - Remix;Nio Garcia, Anuel AA, Myke Towers, Brray, Juanka;La Jeepeta (Remix);1;345
-Chile;South America;7;M¡S DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
+Chile;South America;7;M√ÅS DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
 Chile;South America;8;BYE ME FUI;Bad Bunny;LAS QUE NO IBAN A SALIR;1;178
-Chile;South America;9;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
+Chile;South America;9;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
 Chile;South America;10;BAD CON NICKY;Bad Bunny, Nicky Jam;LAS QUE NO IBAN A SALIR;1;202
 Chile;South America;11;Rojo;J Balvin;Colores;0;150
 Chile;South America;12;Ignorantes;Bad Bunny, Sech;YHLQMDLG;1;210
 Chile;South America;13;Favorito;Camilo;Por Primera Vez;0;209
 Chile;South America;14;El Efecto - Remix;Rauw Alejandro, Chencho Corleone, KEVVO, Bryant Myers, Lyanno, Dalex;El Efecto (Remix);1;289
-Chile;South America;15;CANCI”N CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
+Chile;South America;15;CANCI√ìN CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
 Chile;South America;16;Diosa;Myke Towers;Easy Money Baby;1;214
-Chile;South America;17;RelaciÛn;Sech;1 of 1;0;184
+Chile;South America;17;Relaci√≥n;Sech;1 of 1;0;184
 Chile;South America;18;Tattoo;Rauw Alejandro;Tattoo;0;202
 Chile;South America;19;La Santa;Bad Bunny, Daddy Yankee;YHLQMDLG;1;206
-Chile;South America;20;Sigues Con El;DÌmelo Flow, Arcangel, Sech;Sigues Con El;0;226
-Chile;South America;21;Hola - Remix;Dalex, Lenny Tav·rez, Chencho Corleone, Juhn, DÌmelo Flow;Hola (Remix);0;249
-Chile;South America;22;Jangueo;Alex Rose, Rafa Pabˆn;LOST;0;259
+Chile;South America;20;Sigues Con El;D√≠melo Flow, Arcangel, Sech;Sigues Con El;0;226
+Chile;South America;21;Hola - Remix;Dalex, Lenny Tav√°rez, Chencho Corleone, Juhn, D√≠melo Flow;Hola (Remix);0;249
+Chile;South America;22;Jangueo;Alex Rose, Rafa Pab√∂n;LOST;0;259
 Chile;South America;23;Blinding Lights;The Weeknd;After Hours;0;200
 Chile;South America;24;PA' ROMPERLA;Bad Bunny, Don Omar;LAS QUE NO IBAN A SALIR;1;194
 Chile;South America;25;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
 Chile;South America;26;A Tu Merced;Bad Bunny;YHLQMDLG;0;175
 Chile;South America;27;Tak Tiki Tak;Harry Nach;Tak Tiki Tak;1;212
 Chile;South America;28;La Cama - Remix;Lunay, Myke Towers, Ozuna, Chencho Corleone, Rauw Alejandro;La Cama (Remix);0;330
-Chile;South America;29;Si Veo a Tu Mam·;Bad Bunny;YHLQMDLG;0;170
-Chile;South America;30;ConfÌa;Sech, Daddy Yankee;1 of 1;0;202
+Chile;South America;29;Si Veo a Tu Mam√°;Bad Bunny;YHLQMDLG;0;170
+Chile;South America;30;Conf√≠a;Sech, Daddy Yankee;1 of 1;0;202
 Chile;South America;31;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Chile;South America;32;Vete;Bad Bunny;YHLQMDLG;1;192
 Chile;South America;33;Locura;Cali Y El Dandee, Sebastian Yatra;Colegio;0;209
@@ -486,11 +486,11 @@ Chile;South America;34;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / D
 Chile;South America;35;Morado;J Balvin;Colores;0;200
 Chile;South America;36;Keii;Anuel AA;Keii;0;210
 Chile;South America;37;Girl;Myke Towers;Easy Money Baby;1;186
-Chile;South America;38;Bellaquita - Remix;Dalex, Lenny Tav·rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo AviÛn;1;304
+Chile;South America;38;Bellaquita - Remix;Dalex, Lenny Tav√°rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo Avi√≥n;1;304
 Chile;South America;39;Sigues Con El - Remix;Arcangel, Sech, Romeo Santos;Sigues Con El (Remix);0;189
 Chile;South America;40;BENDICIONES;Bad Bunny;LAS QUE NO IBAN A SALIR;0;155
 Chile;South America;41;Goteo;Paloma Mami;Goteo;0;159
-Chile;South America;42;Sola & VacÌa;Casper Magico, Anuel AA;Sola & VacÌa;1;182
+Chile;South America;42;Sola & Vac√≠a;Casper Magico, Anuel AA;Sola & Vac√≠a;1;182
 Chile;South America;43;Fantasias;Rauw Alejandro, Farruko;Fantasias;0;199
 Chile;South America;44;Amarillo;J Balvin;Colores;0;157
 Chile;South America;45;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
@@ -507,47 +507,47 @@ Colombia;South America;5;Yo Perreo Sola;Bad Bunny;YHLQMDLG;0;172
 Colombia;South America;6;Favorito;Camilo;Por Primera Vez;0;209
 Colombia;South America;7;Tattoo;Rauw Alejandro;Tattoo;0;202
 Colombia;South America;8;Morado;J Balvin;Colores;0;200
-Colombia;South America;9;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
+Colombia;South America;9;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
 Colombia;South America;10;Azul;J Balvin;Colores;0;205
 Colombia;South America;11;Bajo La Mesa;Morat, Sebastian Yatra;Bajo La Mesa;0;157
 Colombia;South America;12;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
-Colombia;South America;13;Hola - Remix;Dalex, Lenny Tav·rez, Chencho Corleone, Juhn, DÌmelo Flow;Hola (Remix);0;249
-Colombia;South America;14;Sigues Con El;DÌmelo Flow, Arcangel, Sech;Sigues Con El;0;226
-Colombia;South America;15;RelaciÛn;Sech;1 of 1;0;184
+Colombia;South America;13;Hola - Remix;Dalex, Lenny Tav√°rez, Chencho Corleone, Juhn, D√≠melo Flow;Hola (Remix);0;249
+Colombia;South America;14;Sigues Con El;D√≠melo Flow, Arcangel, Sech;Sigues Con El;0;226
+Colombia;South America;15;Relaci√≥n;Sech;1 of 1;0;184
 Colombia;South America;16;Blinding Lights;The Weeknd;After Hours;0;200
 Colombia;South America;17;Ignorantes;Bad Bunny, Sech;YHLQMDLG;1;210
 Colombia;South America;18;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Colombia;South America;19;Los Besos;Greeicy;Los Besos;0;202
 Colombia;South America;20;Diosa;Myke Towers;Easy Money Baby;1;214
 Colombia;South America;21;Blanco;J Balvin;Colores;0;145
-Colombia;South America;22;Si Veo a Tu Mam·;Bad Bunny;YHLQMDLG;0;170
+Colombia;South America;22;Si Veo a Tu Mam√°;Bad Bunny;YHLQMDLG;0;170
 Colombia;South America;23;Fantasias;Rauw Alejandro, Farruko;Fantasias;0;199
 Colombia;South America;24;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 Colombia;South America;25;Negro;J Balvin;Colores;0;182
 Colombia;South America;26;BYE ME FUI;Bad Bunny;LAS QUE NO IBAN A SALIR;1;178
-Colombia;South America;27;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
+Colombia;South America;27;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
 Colombia;South America;28;Locura;Cali Y El Dandee, Sebastian Yatra;Colegio;0;209
-Colombia;South America;29;C”MO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C”MO SE SIENTE (Remix);1;227
-Colombia;South America;30;QuiÈreme Mientras Se Pueda;Manuel Turizo;QuiÈreme Mientras Se Pueda;0;191
-Colombia;South America;31;LA CANCI”N;J Balvin, Bad Bunny;OASIS;0;242
+Colombia;South America;29;C√ìMO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C√ìMO SE SIENTE (Remix);1;227
+Colombia;South America;30;Qui√©reme Mientras Se Pueda;Manuel Turizo;Qui√©reme Mientras Se Pueda;0;191
+Colombia;South America;31;LA CANCI√ìN;J Balvin, Bad Bunny;OASIS;0;242
 Colombia;South America;32;No Me Conoce - Remix;Jhay Cortez, J Balvin, Bad Bunny;Famouz;0;309
 Colombia;South America;33;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 Colombia;South America;34;PA' ROMPERLA;Bad Bunny, Don Omar;LAS QUE NO IBAN A SALIR;1;194
 Colombia;South America;35;BORRAXXA;Feid, Manuel Turizo;FERXXO (VOL 1: M.O.R);0;223
 Colombia;South America;36;ADMV;Maluma;ADMV;0;193
 Colombia;South America;37;Gris;J Balvin;Colores;0;176
-Colombia;South America;38;M¡S DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
+Colombia;South America;38;M√ÅS DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
 Colombia;South America;39;Por Primera Vez;Camilo, Evaluna Montaner;Por Primera Vez;0;182
 Colombia;South America;40;Vete;Bad Bunny;YHLQMDLG;1;192
-Colombia;South America;41;Bellaquita - Remix;Dalex, Lenny Tav·rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo AviÛn;1;304
-Colombia;South America;42;Loco - Remix;Farruko, BeÈle, Natti Natasha, Manuel Turizo;Loco (Remix);0;248
-Colombia;South America;43;Tutu;Camilo, Pedro CapÛ;Por Primera Vez;0;179
-Colombia;South America;44;Quizas;Rich Music LTD, Sech, Dalex, Justin Quiles, Lenny Tav·rez, Feid, Wisin, Zion;The Academy;1;216
+Colombia;South America;41;Bellaquita - Remix;Dalex, Lenny Tav√°rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo Avi√≥n;1;304
+Colombia;South America;42;Loco - Remix;Farruko, Be√©le, Natti Natasha, Manuel Turizo;Loco (Remix);0;248
+Colombia;South America;43;Tutu;Camilo, Pedro Cap√≥;Por Primera Vez;0;179
+Colombia;South America;44;Quizas;Rich Music LTD, Sech, Dalex, Justin Quiles, Lenny Tav√°rez, Feid, Wisin, Zion;The Academy;1;216
 Colombia;South America;45;RITMO (Bad Boys For Life);Black Eyed Peas, J Balvin;RITMO (Bad Boys For Life);1;221
-Colombia;South America;46;CANCI”N CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
+Colombia;South America;46;CANCI√ìN CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
 Colombia;South America;47;Callaita;Bad Bunny, Tainy;Callaita;1;250
 Colombia;South America;48;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
-Colombia;South America;49;ConfÌa;Sech, Daddy Yankee;1 of 1;0;202
+Colombia;South America;49;Conf√≠a;Sech, Daddy Yankee;1 of 1;0;202
 Colombia;South America;50;BAD CON NICKY;Bad Bunny, Nicky Jam;LAS QUE NO IBAN A SALIR;1;202
 Costa Rica;North America;1;Rojo;J Balvin;Colores;0;150
 Costa Rica;North America;2;Safaera;Bad Bunny, Jowell & Randy, Nengo Flow;YHLQMDLG;1;295
@@ -560,19 +560,19 @@ Costa Rica;North America;8;Blinding Lights;The Weeknd;After Hours;0;200
 Costa Rica;North America;9;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
 Costa Rica;North America;10;Amarillo;J Balvin;Colores;0;157
 Costa Rica;North America;11;Fantasias;Rauw Alejandro, Farruko;Fantasias;0;199
-Costa Rica;North America;12;Hola - Remix;Dalex, Lenny Tav·rez, Chencho Corleone, Juhn, DÌmelo Flow;Hola (Remix);0;249
+Costa Rica;North America;12;Hola - Remix;Dalex, Lenny Tav√°rez, Chencho Corleone, Juhn, D√≠melo Flow;Hola (Remix);0;249
 Costa Rica;North America;13;Diosa;Myke Towers;Easy Money Baby;1;214
-Costa Rica;North America;14;Sigues Con El;DÌmelo Flow, Arcangel, Sech;Sigues Con El;0;226
-Costa Rica;North America;15;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
+Costa Rica;North America;14;Sigues Con El;D√≠melo Flow, Arcangel, Sech;Sigues Con El;0;226
+Costa Rica;North America;15;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
 Costa Rica;North America;16;Ignorantes;Bad Bunny, Sech;YHLQMDLG;1;210
 Costa Rica;North America;17;Morado;J Balvin;Colores;0;200
 Costa Rica;North America;18;PORFA;Feid, Justin Quiles;FERXXO (VOL 1: M.O.R);0;232
-Costa Rica;North America;19;RelaciÛn;Sech;1 of 1;0;184
+Costa Rica;North America;19;Relaci√≥n;Sech;1 of 1;0;184
 Costa Rica;North America;20;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 Costa Rica;North America;21;Pa' Olvidarme De Ella;Piso 21, Christian Nodal;Pa' Olvidarme De Ella;1;227
-Costa Rica;North America;22;Si Veo a Tu Mam·;Bad Bunny;YHLQMDLG;0;170
-Costa Rica;North America;23;Jangueo;Alex Rose, Rafa Pabˆn;LOST;0;259
-Costa Rica;North America;24;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
+Costa Rica;North America;22;Si Veo a Tu Mam√°;Bad Bunny;YHLQMDLG;0;170
+Costa Rica;North America;23;Jangueo;Alex Rose, Rafa Pab√∂n;LOST;0;259
+Costa Rica;North America;24;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
 Costa Rica;North America;25;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 Costa Rica;North America;26;Vete;Bad Bunny;YHLQMDLG;1;192
 Costa Rica;North America;27;Por Primera Vez;Camilo, Evaluna Montaner;Por Primera Vez;0;182
@@ -581,7 +581,7 @@ Costa Rica;North America;29;No Me Conoce - Remix;Jhay Cortez, J Balvin, Bad Bunn
 Costa Rica;North America;30;Azul;J Balvin;Colores;0;205
 Costa Rica;North America;31;BYE ME FUI;Bad Bunny;LAS QUE NO IBAN A SALIR;1;178
 Costa Rica;North America;32;El Efecto;Rauw Alejandro, Chencho Corleone;El Efecto;0;217
-Costa Rica;North America;33;LA CANCI”N;J Balvin, Bad Bunny;OASIS;0;242
+Costa Rica;North America;33;LA CANCI√ìN;J Balvin, Bad Bunny;OASIS;0;242
 Costa Rica;North America;34;Bajo La Mesa;Morat, Sebastian Yatra;Bajo La Mesa;0;157
 Costa Rica;North America;35;Negro;J Balvin;Colores;0;182
 Costa Rica;North America;36;Blanco;J Balvin;Colores;0;145
@@ -590,15 +590,15 @@ Costa Rica;North America;38;death bed (coffee for your head) (feat. beabadoobee)
 Costa Rica;North America;39;THE SCOTTS;THE SCOTTS, Travis Scott, Kid Cudi;THE SCOTTS;1;165
 Costa Rica;North America;40;La Santa;Bad Bunny, Daddy Yankee;YHLQMDLG;1;206
 Costa Rica;North America;41;El Efecto - Remix;Rauw Alejandro, Chencho Corleone, KEVVO, Bryant Myers, Lyanno, Dalex;El Efecto (Remix);1;289
-Costa Rica;North America;42;Mejor;Dalex, Sech;Modo AviÛn;1;201
+Costa Rica;North America;42;Mejor;Dalex, Sech;Modo Avi√≥n;1;201
 Costa Rica;North America;43;SICKO MODE;Travis Scott;ASTROWORLD;1;312
 Costa Rica;North America;44;China;Anuel AA, Daddy Yankee, KAROL G, J Balvin, Ozuna;China;0;301
-Costa Rica;North America;45;Tutu;Camilo, Pedro CapÛ;Por Primera Vez;0;179
-Costa Rica;North America;46;C”MO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C”MO SE SIENTE (Remix);1;227
+Costa Rica;North America;45;Tutu;Camilo, Pedro Cap√≥;Por Primera Vez;0;179
+Costa Rica;North America;46;C√ìMO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C√ìMO SE SIENTE (Remix);1;227
 Costa Rica;North America;47;goosebumps;Travis Scott;Birds In The Trap Sing McKnight;1;243
 Costa Rica;North America;48;A Tu Merced;Bad Bunny;YHLQMDLG;0;175
 Costa Rica;North America;49;The Box;Roddy Ricch;Please Excuse Me For Being Antisocial;1;196
-Costa Rica;North America;50;CANCI”N CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
+Costa Rica;North America;50;CANCI√ìN CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
 Czech Republic;Europe;1;Blinding Lights;The Weeknd;After Hours;0;200
 Czech Republic;Europe;2;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
 Czech Republic;Europe;3;GOOBA;6ix9ine;GOOBA;1;132
@@ -607,13 +607,13 @@ Czech Republic;Europe;5;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande
 Czech Republic;Europe;6;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
 Czech Republic;Europe;7;ROCKSTAR (feat. Roddy Ricch);DaBaby, Roddy Ricch;BLAME IT ON BABY;1;181
 Czech Republic;Europe;8;THE SCOTTS;THE SCOTTS, Travis Scott, Kid Cudi;THE SCOTTS;1;165
-Czech Republic;Europe;9;Aû na m?sÌc;Viktor Sheen, Nik Tendo, Calin, Hasan;?ernobÌlej sv?t;1;208
+Czech Republic;Europe;9;A¬û na m?s√≠c;Viktor Sheen, Nik Tendo, Calin, Hasan;?ernob√≠lej sv?t;1;208
 Czech Republic;Europe;10;Jsme jenom fakani;CA$HANOVA BULHAR;rap disco revoluce;1;268
 Czech Republic;Europe;11;Hadi;CA$HANOVA BULHAR;rap disco revoluce;1;233
 Czech Republic;Europe;12;Oblivion;Viktor Sheen, Nik Tendo;Oblivion;1;169
 Czech Republic;Europe;13;Someone You Loved;Lewis Capaldi;Divinely Uninspired To A Hellish Extent;0;182
 Czech Republic;Europe;14;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
-Czech Republic;Europe;15;NenÌ Limit;Nik Tendo;RESTART;0;120
+Czech Republic;Europe;15;Nen√≠ Limit;Nik Tendo;RESTART;0;120
 Czech Republic;Europe;16;Ride It;Regard;Ride It;0;157
 Czech Republic;Europe;17;Toosie Slide;Drake;Dark Lane Demo Tapes;1;247
 Czech Republic;Europe;18;The Box;Roddy Ricch;Please Excuse Me For Being Antisocial;1;196
@@ -622,10 +622,10 @@ Czech Republic;Europe;20;Boss Bitch;Doja Cat;Boss Bitch;0;134
 Czech Republic;Europe;21;Sex Disco Revoluce;CA$HANOVA BULHAR;rap disco revoluce;1;199
 Czech Republic;Europe;22;Breaking Me;Topic, A7S;Breaking Me;0;166
 Czech Republic;Europe;23;Blueberry Faygo;Lil Mosey;Certified Hitmaker;1;162
-Czech Republic;Europe;24;Hrajeö Si Na Co;Nik Tendo, Viktor Sheen;RESTART;1;144
+Czech Republic;Europe;24;Hraje¬ö Si Na Co;Nik Tendo, Viktor Sheen;RESTART;1;144
 Czech Republic;Europe;25;Falling;Trevor Daniel;Nicotine;0;159
 Czech Republic;Europe;26;Supalonely;BENEE, Gus Dapperton;STELLA & STEVE;1;223
-Czech Republic;Europe;27;SeÒorita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
+Czech Republic;Europe;27;Se√±orita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
 Czech Republic;Europe;28;LALALA;Grey, Psycho Rhyme;LALALA;1;146
 Czech Republic;Europe;29;Svaz ceskych bohemu;Wohnout;Nasim klientum;0;256
 Czech Republic;Europe;30;ily (i love you baby) (feat. Emilee);Surf Mesa, Emilee;ily (i love you baby) (feat. Emilee);0;176
@@ -639,7 +639,7 @@ Czech Republic;Europe;37;Totti;CA$HANOVA BULHAR;rap disco revoluce;1;183
 Czech Republic;Europe;38;Circles;Post Malone;Hollywood's Bleeding;0;215
 Czech Republic;Europe;39;goosebumps;Travis Scott;Birds In The Trap Sing McKnight;1;243
 Czech Republic;Europe;40;ROXANNE;Arizona Zervas;ROXANNE;1;163
-Czech Republic;Europe;41;Zrovna jÌ to najelo;CA$HANOVA BULHAR, Labello;TIMBERLAKETRAPPED;1;161
+Czech Republic;Europe;41;Zrovna j√≠ to najelo;CA$HANOVA BULHAR, Labello;TIMBERLAKETRAPPED;1;161
 Czech Republic;Europe;42;Break My Heart;Dua Lipa;Future Nostalgia;0;221
 Czech Republic;Europe;43;HIGHEST IN THE ROOM;Travis Scott;HIGHEST IN THE ROOM;1;175
 Czech Republic;Europe;44;Hranice;Ektor;Hranice;1;129
@@ -656,10 +656,10 @@ Denmark;Europe;4;Blinding Lights;The Weeknd;After Hours;0;200
 Denmark;Europe;5;Avatar;NODE, Larry 44;Avatar;1;156
 Denmark;Europe;6;SPORT;TopGunn, Branco;SAS;0;162
 Denmark;Europe;7;GOOBA;6ix9ine;GOOBA;1;132
-Denmark;Europe;8;Sol Over K¯benhavn (feat. KESI);Citybois, KESI;BOIS FOREVER;0;185
+Denmark;Europe;8;Sol Over K√∏benhavn (feat. KESI);Citybois, KESI;BOIS FOREVER;0;185
 Denmark;Europe;9;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
-Denmark;Europe;10;TÊttere End Vi Tror;P3, Tessa, Christopher, Lukas Graham, Jada, Benjamin Hav, Clara, Don Stefano, Mads Langer;TÊttere End Vi Tror;0;271
-Denmark;Europe;11;Glo PÂ Mig;Tessa;Glo PÂ Mig;1;161
+Denmark;Europe;10;T√¶ttere End Vi Tror;P3, Tessa, Christopher, Lukas Graham, Jada, Benjamin Hav, Clara, Don Stefano, Mads Langer;T√¶ttere End Vi Tror;0;271
+Denmark;Europe;11;Glo P√• Mig;Tessa;Glo P√• Mig;1;161
 Denmark;Europe;12;Toosie Slide;Drake;Dark Lane Demo Tapes;1;247
 Denmark;Europe;13;Klovne;RH;Klovne;0;133
 Denmark;Europe;14;Rover (feat. DTG);S1mba, DTG;Rover (feat. DTG);1;167
@@ -675,11 +675,11 @@ Denmark;Europe;23;Gonzo;Suspekt;Sindssyge Ting;1;172
 Denmark;Europe;24;NO SKRUB$;TopGunn, Medina;SAS;0;162
 Denmark;Europe;25;Blitz, Baby;Jung;Blitz;0;197
 Denmark;Europe;26;Blueberry Faygo;Lil Mosey;Certified Hitmaker;1;162
-Denmark;Europe;27;SÂ'n der;Tessa;SÂ'n der;1;155
+Denmark;Europe;27;S√•'n der;Tessa;S√•'n der;1;155
 Denmark;Europe;28;Ben;Tessa;Ben;1;176
 Denmark;Europe;29;Gelato;Benny Jamz;Gelato;0;179
 Denmark;Europe;30;Intentions (feat. Quavo);Justin Bieber, Quavo;Changes;0;212
-Denmark;Europe;31;Smid T¯jet;Jimilian;Smid T¯jet;1;167
+Denmark;Europe;31;Smid T√∏jet;Jimilian;Smid T√∏jet;1;167
 Denmark;Europe;32;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
 Denmark;Europe;33;ily (i love you baby) (feat. Emilee);Surf Mesa, Emilee;ily (i love you baby) (feat. Emilee);0;176
 Denmark;Europe;34;Burnout;Calby;Burnout;0;197
@@ -698,45 +698,45 @@ Denmark;Europe;46;Say So;Doja Cat;Hot Pink;1;237
 Denmark;Europe;47;Gutterne;Specktors, Nonsens;4 LIFE;0;148
 Denmark;Europe;48;Break My Heart;Dua Lipa;Future Nostalgia;0;221
 Denmark;Europe;49;Slip Away;Phlake, Mercedes the Virus;The Illegal Download Of Your Soul;0;195
-Denmark;Europe;50;KÊrlighed G¯r Blind;Citybois;BOIS FOREVER;0;188
+Denmark;Europe;50;K√¶rlighed G√∏r Blind;Citybois;BOIS FOREVER;0;188
 Dominican Republic;North America;1;Safaera;Bad Bunny, Jowell & Randy, Nengo Flow;YHLQMDLG;1;295
 Dominican Republic;North America;2;Yo Perreo Sola;Bad Bunny;YHLQMDLG;0;172
-Dominican Republic;North America;3;C”MO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C”MO SE SIENTE (Remix);1;227
+Dominican Republic;North America;3;C√ìMO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C√ìMO SE SIENTE (Remix);1;227
 Dominican Republic;North America;4;BYE ME FUI;Bad Bunny;LAS QUE NO IBAN A SALIR;1;178
 Dominican Republic;North America;5;Tattoo;Rauw Alejandro;Tattoo;0;202
 Dominican Republic;North America;6;Ignorantes;Bad Bunny, Sech;YHLQMDLG;1;210
-Dominican Republic;North America;7;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
-Dominican Republic;North America;8;RelaciÛn;Sech;1 of 1;0;184
-Dominican Republic;North America;9;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
+Dominican Republic;North America;7;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
+Dominican Republic;North America;8;Relaci√≥n;Sech;1 of 1;0;184
+Dominican Republic;North America;9;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
 Dominican Republic;North America;10;Diosa;Myke Towers;Easy Money Baby;1;214
-Dominican Republic;North America;11;Hola - Remix;Dalex, Lenny Tav·rez, Chencho Corleone, Juhn, DÌmelo Flow;Hola (Remix);0;249
+Dominican Republic;North America;11;Hola - Remix;Dalex, Lenny Tav√°rez, Chencho Corleone, Juhn, D√≠melo Flow;Hola (Remix);0;249
 Dominican Republic;North America;12;Rojo;J Balvin;Colores;0;150
 Dominican Republic;North America;13;La Santa;Bad Bunny, Daddy Yankee;YHLQMDLG;1;206
 Dominican Republic;North America;14;Favorito;Camilo;Por Primera Vez;0;209
-Dominican Republic;North America;15;CANCI”N CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
+Dominican Republic;North America;15;CANCI√ìN CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
 Dominican Republic;North America;16;PAM;Justin Quiles, Daddy Yankee, El Alfa;PAM;1;201
 Dominican Republic;North America;17;Vete;Bad Bunny;YHLQMDLG;1;192
-Dominican Republic;North America;18;Si Veo a Tu Mam·;Bad Bunny;YHLQMDLG;0;170
-Dominican Republic;North America;19;M¡S DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
+Dominican Republic;North America;18;Si Veo a Tu Mam√°;Bad Bunny;YHLQMDLG;0;170
+Dominican Republic;North America;19;M√ÅS DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
 Dominican Republic;North America;20;BENDICIONES;Bad Bunny;LAS QUE NO IBAN A SALIR;0;155
 Dominican Republic;North America;21;A Correr los Lakers;El Alfa;El Androide;0;176
 Dominican Republic;North America;22;PA' ROMPERLA;Bad Bunny, Don Omar;LAS QUE NO IBAN A SALIR;1;194
 Dominican Republic;North America;23;Fantasias;Rauw Alejandro, Farruko;Fantasias;0;199
 Dominican Republic;North America;24;Un Dia Si;El Alfa, Farruko, Myke Towers;El Androide;0;164
-Dominican Republic;North America;25;Sigues Con El;DÌmelo Flow, Arcangel, Sech;Sigues Con El;0;226
+Dominican Republic;North America;25;Sigues Con El;D√≠melo Flow, Arcangel, Sech;Sigues Con El;0;226
 Dominican Republic;North America;26;BAD CON NICKY;Bad Bunny, Nicky Jam;LAS QUE NO IBAN A SALIR;1;202
 Dominican Republic;North America;27;Sigues Con El - Remix;Arcangel, Sech, Romeo Santos;Sigues Con El (Remix);0;189
 Dominican Republic;North America;28;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
 Dominican Republic;North America;29;RONCA FREESTYLE;Bad Bunny;LAS QUE NO IBAN A SALIR;1;150
 Dominican Republic;North America;30;Besalo;El Alfa, Rauw Alejandro;El Androide;0;163
-Dominican Republic;North America;31;Loco - Remix;Farruko, BeÈle, Natti Natasha, Manuel Turizo;Loco (Remix);0;248
+Dominican Republic;North America;31;Loco - Remix;Farruko, Be√©le, Natti Natasha, Manuel Turizo;Loco (Remix);0;248
 Dominican Republic;North America;32;Medusa;Jhay Cortez, Anuel AA, J Balvin;Medusa;1;305
 Dominican Republic;North America;33;No Me Conoce - Remix;Jhay Cortez, J Balvin, Bad Bunny;Famouz;0;309
 Dominican Republic;North America;34;PORFA;Feid, Justin Quiles;FERXXO (VOL 1: M.O.R);0;232
-Dominican Republic;North America;35;LA CANCI”N;J Balvin, Bad Bunny;OASIS;0;242
+Dominican Republic;North America;35;LA CANCI√ìN;J Balvin, Bad Bunny;OASIS;0;242
 Dominican Republic;North America;36;Adicto (with Anuel AA & Ozuna);Tainy, Anuel AA, Ozuna;Adicto (with Anuel AA & Ozuna);0;270
-Dominican Republic;North America;37;Bellaquita - Remix;Dalex, Lenny Tav·rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo AviÛn;1;304
-Dominican Republic;North America;38;ConfÌa;Sech, Daddy Yankee;1 of 1;0;202
+Dominican Republic;North America;37;Bellaquita - Remix;Dalex, Lenny Tav√°rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo Avi√≥n;1;304
+Dominican Republic;North America;38;Conf√≠a;Sech, Daddy Yankee;1 of 1;0;202
 Dominican Republic;North America;39;A Tu Merced;Bad Bunny;YHLQMDLG;0;175
 Dominican Republic;North America;40;Girl;Myke Towers;Easy Money Baby;1;186
 Dominican Republic;North America;41;25-ago;Bad Bunny;YHLQMDLG;0;243
@@ -755,21 +755,21 @@ Ecuador;South America;3;Rojo;J Balvin;Colores;0;150
 Ecuador;South America;4;Favorito;Camilo;Por Primera Vez;0;209
 Ecuador;South America;5;PORFA;Feid, Justin Quiles;FERXXO (VOL 1: M.O.R);0;232
 Ecuador;South America;6;Blinding Lights;The Weeknd;After Hours;0;200
-Ecuador;South America;7;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
-Ecuador;South America;8;RelaciÛn;Sech;1 of 1;0;184
+Ecuador;South America;7;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
+Ecuador;South America;8;Relaci√≥n;Sech;1 of 1;0;184
 Ecuador;South America;9;Tattoo;Rauw Alejandro;Tattoo;0;202
 Ecuador;South America;10;Morado;J Balvin;Colores;0;200
 Ecuador;South America;11;Amarillo;J Balvin;Colores;0;157
 Ecuador;South America;12;Bajo La Mesa;Morat, Sebastian Yatra;Bajo La Mesa;0;157
 Ecuador;South America;13;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
-Ecuador;South America;14;Hola - Remix;Dalex, Lenny Tav·rez, Chencho Corleone, Juhn, DÌmelo Flow;Hola (Remix);0;249
+Ecuador;South America;14;Hola - Remix;Dalex, Lenny Tav√°rez, Chencho Corleone, Juhn, D√≠melo Flow;Hola (Remix);0;249
 Ecuador;South America;15;Ignorantes;Bad Bunny, Sech;YHLQMDLG;1;210
-Ecuador;South America;16;Jangueo;Alex Rose, Rafa Pabˆn;LOST;0;259
-Ecuador;South America;17;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
-Ecuador;South America;18;Si Veo a Tu Mam·;Bad Bunny;YHLQMDLG;0;170
+Ecuador;South America;16;Jangueo;Alex Rose, Rafa Pab√∂n;LOST;0;259
+Ecuador;South America;17;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
+Ecuador;South America;18;Si Veo a Tu Mam√°;Bad Bunny;YHLQMDLG;0;170
 Ecuador;South America;19;Diosa;Myke Towers;Easy Money Baby;1;214
 Ecuador;South America;20;BYE ME FUI;Bad Bunny;LAS QUE NO IBAN A SALIR;1;178
-Ecuador;South America;21;Sigues Con El;DÌmelo Flow, Arcangel, Sech;Sigues Con El;0;226
+Ecuador;South America;21;Sigues Con El;D√≠melo Flow, Arcangel, Sech;Sigues Con El;0;226
 Ecuador;South America;22;Azul;J Balvin;Colores;0;205
 Ecuador;South America;23;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 Ecuador;South America;24;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
@@ -780,23 +780,23 @@ Ecuador;South America;28;Sigues Con El - Remix;Arcangel, Sech, Romeo Santos;Sigu
 Ecuador;South America;29;Locura;Cali Y El Dandee, Sebastian Yatra;Colegio;0;209
 Ecuador;South America;30;El Efecto;Rauw Alejandro, Chencho Corleone;El Efecto;0;217
 Ecuador;South America;31;Por Primera Vez;Camilo, Evaluna Montaner;Por Primera Vez;0;182
-Ecuador;South America;32;C”MO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C”MO SE SIENTE (Remix);1;227
-Ecuador;South America;33;LA CANCI”N;J Balvin, Bad Bunny;OASIS;0;242
+Ecuador;South America;32;C√ìMO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C√ìMO SE SIENTE (Remix);1;227
+Ecuador;South America;33;LA CANCI√ìN;J Balvin, Bad Bunny;OASIS;0;242
 Ecuador;South America;34;Los Besos;Greeicy;Los Besos;0;202
-Ecuador;South America;35;CANCI”N CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
+Ecuador;South America;35;CANCI√ìN CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
 Ecuador;South America;36;La Santa;Bad Bunny, Daddy Yankee;YHLQMDLG;1;206
 Ecuador;South America;37;Vete;Bad Bunny;YHLQMDLG;1;192
 Ecuador;South America;38;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
-Ecuador;South America;39;Detente;Mike BahÌa, Danny Ocean;Navegando;0;181
+Ecuador;South America;39;Detente;Mike Bah√≠a, Danny Ocean;Navegando;0;181
 Ecuador;South America;40;A Tu Merced;Bad Bunny;YHLQMDLG;0;175
-Ecuador;South America;41;Si Me Dices Que SÌ;Reik, Farruko, Camilo;Si Me Dices Que SÌ;0;211
-Ecuador;South America;42;Tutu;Camilo, Pedro CapÛ;Por Primera Vez;0;179
+Ecuador;South America;41;Si Me Dices Que S√≠;Reik, Farruko, Camilo;Si Me Dices Que S√≠;0;211
+Ecuador;South America;42;Tutu;Camilo, Pedro Cap√≥;Por Primera Vez;0;179
 Ecuador;South America;43;Blanco;J Balvin;Colores;0;145
 Ecuador;South America;44;Callaita;Bad Bunny, Tainy;Callaita;1;250
 Ecuador;South America;45;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
 Ecuador;South America;46;Negro;J Balvin;Colores;0;182
 Ecuador;South America;47;China;Anuel AA, Daddy Yankee, KAROL G, J Balvin, Ozuna;China;0;301
-Ecuador;South America;48;QuiÈreme Mientras Se Pueda;Manuel Turizo;QuiÈreme Mientras Se Pueda;0;191
+Ecuador;South America;48;Qui√©reme Mientras Se Pueda;Manuel Turizo;Qui√©reme Mientras Se Pueda;0;191
 Ecuador;South America;49;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Ecuador;South America;50;ADMV;Maluma;ADMV;0;193
 El Salvador;North America;1;Safaera;Bad Bunny, Jowell & Randy, Nengo Flow;YHLQMDLG;1;295
@@ -805,61 +805,61 @@ El Salvador;North America;3;Yo Perreo Sola;Bad Bunny;YHLQMDLG;0;172
 El Salvador;North America;4;Favorito;Camilo;Por Primera Vez;0;209
 El Salvador;North America;5;Tattoo;Rauw Alejandro;Tattoo;0;202
 El Salvador;North America;6;Blinding Lights;The Weeknd;After Hours;0;200
-El Salvador;North America;7;Hola - Remix;Dalex, Lenny Tav·rez, Chencho Corleone, Juhn, DÌmelo Flow;Hola (Remix);0;249
+El Salvador;North America;7;Hola - Remix;Dalex, Lenny Tav√°rez, Chencho Corleone, Juhn, D√≠melo Flow;Hola (Remix);0;249
 El Salvador;North America;8;BYE ME FUI;Bad Bunny;LAS QUE NO IBAN A SALIR;1;178
-El Salvador;North America;9;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
-El Salvador;North America;10;Si Veo a Tu Mam·;Bad Bunny;YHLQMDLG;0;170
-El Salvador;North America;11;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
+El Salvador;North America;9;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
+El Salvador;North America;10;Si Veo a Tu Mam√°;Bad Bunny;YHLQMDLG;0;170
+El Salvador;North America;11;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
 El Salvador;North America;12;Ignorantes;Bad Bunny, Sech;YHLQMDLG;1;210
 El Salvador;North America;13;Fantasias;Rauw Alejandro, Farruko;Fantasias;0;199
 El Salvador;North America;14;La Santa;Bad Bunny, Daddy Yankee;YHLQMDLG;1;206
 El Salvador;North America;15;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
-El Salvador;North America;16;Sigues Con El;DÌmelo Flow, Arcangel, Sech;Sigues Con El;0;226
-El Salvador;North America;17;CANCI”N CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
+El Salvador;North America;16;Sigues Con El;D√≠melo Flow, Arcangel, Sech;Sigues Con El;0;226
+El Salvador;North America;17;CANCI√ìN CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
 El Salvador;North America;18;Vete;Bad Bunny;YHLQMDLG;1;192
-El Salvador;North America;19;C”MO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C”MO SE SIENTE (Remix);1;227
+El Salvador;North America;19;C√ìMO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C√ìMO SE SIENTE (Remix);1;227
 El Salvador;North America;20;Diosa;Myke Towers;Easy Money Baby;1;214
 El Salvador;North America;21;No Me Conoce - Remix;Jhay Cortez, J Balvin, Bad Bunny;Famouz;0;309
-El Salvador;North America;22;LA CANCI”N;J Balvin, Bad Bunny;OASIS;0;242
+El Salvador;North America;22;LA CANCI√ìN;J Balvin, Bad Bunny;OASIS;0;242
 El Salvador;North America;23;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
 El Salvador;North America;24;Morado;J Balvin;Colores;0;200
 El Salvador;North America;25;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 El Salvador;North America;26;PORFA;Feid, Justin Quiles;FERXXO (VOL 1: M.O.R);0;232
 El Salvador;North America;27;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
 El Salvador;North America;28;Pa' Olvidarme De Ella;Piso 21, Christian Nodal;Pa' Olvidarme De Ella;1;227
-El Salvador;North America;29;RelaciÛn;Sech;1 of 1;0;184
+El Salvador;North America;29;Relaci√≥n;Sech;1 of 1;0;184
 El Salvador;North America;30;Amarillo;J Balvin;Colores;0;157
 El Salvador;North America;31;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
-El Salvador;North America;32;Jangueo;Alex Rose, Rafa Pabˆn;LOST;0;259
+El Salvador;North America;32;Jangueo;Alex Rose, Rafa Pab√∂n;LOST;0;259
 El Salvador;North America;33;PA' ROMPERLA;Bad Bunny, Don Omar;LAS QUE NO IBAN A SALIR;1;194
 El Salvador;North America;34;Callaita;Bad Bunny, Tainy;Callaita;1;250
 El Salvador;North America;35;El Efecto - Remix;Rauw Alejandro, Chencho Corleone, KEVVO, Bryant Myers, Lyanno, Dalex;El Efecto (Remix);1;289
 El Salvador;North America;36;BAD CON NICKY;Bad Bunny, Nicky Jam;LAS QUE NO IBAN A SALIR;1;202
 El Salvador;North America;37;A Tu Merced;Bad Bunny;YHLQMDLG;0;175
-El Salvador;North America;38;M¡S DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
+El Salvador;North America;38;M√ÅS DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
 El Salvador;North America;39;Bajo La Mesa;Morat, Sebastian Yatra;Bajo La Mesa;0;157
 El Salvador;North America;40;Adicto (with Anuel AA & Ozuna);Tainy, Anuel AA, Ozuna;Adicto (with Anuel AA & Ozuna);0;270
 El Salvador;North America;41;Sigues Con El - Remix;Arcangel, Sech, Romeo Santos;Sigues Con El (Remix);0;189
-El Salvador;North America;42;Bellaquita - Remix;Dalex, Lenny Tav·rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo AviÛn;1;304
+El Salvador;North America;42;Bellaquita - Remix;Dalex, Lenny Tav√°rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo Avi√≥n;1;304
 El Salvador;North America;43;El Efecto;Rauw Alejandro, Chencho Corleone;El Efecto;0;217
 El Salvador;North America;44;Por Primera Vez;Camilo, Evaluna Montaner;Por Primera Vez;0;182
-El Salvador;North America;45;QuÈ MaldiciÛn;Banda MS de Sergio Liz·rraga, Snoop Dogg;QuÈ MaldiciÛn;0;203
+El Salvador;North America;45;Qu√© Maldici√≥n;Banda MS de Sergio Liz√°rraga, Snoop Dogg;Qu√© Maldici√≥n;0;203
 El Salvador;North America;46;Azul;J Balvin;Colores;0;205
-El Salvador;North America;47;Tutu;Camilo, Pedro CapÛ;Por Primera Vez;0;179
+El Salvador;North America;47;Tutu;Camilo, Pedro Cap√≥;Por Primera Vez;0;179
 El Salvador;North America;48;China;Anuel AA, Daddy Yankee, KAROL G, J Balvin, Ozuna;China;0;301
-El Salvador;North America;49;QuiÈreme Mientras Se Pueda;Manuel Turizo;QuiÈreme Mientras Se Pueda;0;191
-El Salvador;North America;50;Quizas;Rich Music LTD, Sech, Dalex, Justin Quiles, Lenny Tav·rez, Feid, Wisin, Zion;The Academy;1;216
+El Salvador;North America;49;Qui√©reme Mientras Se Pueda;Manuel Turizo;Qui√©reme Mientras Se Pueda;0;191
+El Salvador;North America;50;Quizas;Rich Music LTD, Sech, Dalex, Justin Quiles, Lenny Tav√°rez, Feid, Wisin, Zion;The Academy;1;216
 Estonia;Europe;1;Croissantid;Nublu;Croissantid;0;156
 Estonia;Europe;2;Blinding Lights;The Weeknd;After Hours;0;200
 Estonia;Europe;3;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
 Estonia;Europe;4;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Estonia;Europe;5;ROCKSTAR (feat. Roddy Ricch);DaBaby, Roddy Ricch;BLAME IT ON BABY;1;181
-Estonia;Europe;6;Young Boy;NOÀP;Young Boy;0;153
+Estonia;Europe;6;Young Boy;NO√ãP;Young Boy;0;153
 Estonia;Europe;7;GOOBA;6ix9ine;GOOBA;1;132
-Estonia;Europe;8;Alusp¸kse;5MIINUST, Nublu;Alusp¸kse;0;210
+Estonia;Europe;8;Alusp√ºkse;5MIINUST, Nublu;Alusp√ºkse;0;210
 Estonia;Europe;9;ily (i love you baby) (feat. Emilee);Surf Mesa, Emilee;ily (i love you baby) (feat. Emilee);0;176
-Estonia;Europe;10;f¸r Oksana;Nublu, gameboy tetris;f¸r Oksana;0;194
-Estonia;Europe;11;Paaristıuked;5MIINUST, Villemdrillem;Paaristıuked;0;213
+Estonia;Europe;10;f√ºr Oksana;Nublu, gameboy tetris;f√ºr Oksana;0;194
+Estonia;Europe;11;Paarist√µuked;5MIINUST, Villemdrillem;Paarist√µuked;0;213
 Estonia;Europe;12;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
 Estonia;Europe;13;Toosie Slide;Drake;Dark Lane Demo Tapes;1;247
 Estonia;Europe;14;THE SCOTTS;THE SCOTTS, Travis Scott, Kid Cudi;THE SCOTTS;1;165
@@ -884,7 +884,7 @@ Estonia;Europe;32;Kuule;Karl-Erik Taukar;Kuule;0;200
 Estonia;Europe;33;WHATS POPPIN;Jack Harlow;Sweet Action;1;139
 Estonia;Europe;34;Circles;Post Malone;Hollywood's Bleeding;0;215
 Estonia;Europe;35;Play Date;Melanie Martinez;Cry Baby (Deluxe Edition);1;179
-Estonia;Europe;36;ˆˆlaps!;Nublu;Mind on Mitu;0;192
+Estonia;Europe;36;√∂√∂laps!;Nublu;Mind on Mitu;0;192
 Estonia;Europe;37;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 Estonia;Europe;38;Party Girl;StaySolidRocky;Party Girl;0;147
 Estonia;Europe;39;Tsirkus;5MIINUST, Nublu, PLUUTO;Tsirkus;0;281
@@ -895,18 +895,18 @@ Estonia;Europe;43;Life Is Good (feat. Drake);Future, Drake;High Off Life;1;237
 Estonia;Europe;44;everything i wanted;Billie Eilish;everything i wanted;0;245
 Estonia;Europe;45;Intentions (feat. Quavo);Justin Bieber, Quavo;Changes;0;212
 Estonia;Europe;46;goosebumps;Travis Scott;Birds In The Trap Sing McKnight;1;243
-Estonia;Europe;47;Ma Kuulsin Seda L‰bi Viinamarjav‰‰di;Reket;Kulutuli;0;188
+Estonia;Europe;47;Ma Kuulsin Seda L√§bi Viinamarjav√§√§di;Reket;Kulutuli;0;188
 Estonia;Europe;48;Ride It;Regard;Ride It;0;157
 Estonia;Europe;49;Say So (feat. Nicki Minaj);Doja Cat, Nicki Minaj;Say So (feat. Nicki Minaj);1;206
 Estonia;Europe;50;HIGHEST IN THE ROOM;Travis Scott;HIGHEST IN THE ROOM;1;175
-Finland;Europe;1;T‰ss‰kˆ t‰‰ oli? (feat. Leavings-Orkesteri);Arttu Wiskari, Leavings-Orkesteri;T‰ss‰kˆ t‰‰ oli? (feat. Leavings-Orkesteri);0;222
+Finland;Europe;1;T√§ss√§k√∂ t√§√§ oli? (feat. Leavings-Orkesteri);Arttu Wiskari, Leavings-Orkesteri;T√§ss√§k√∂ t√§√§ oli? (feat. Leavings-Orkesteri);0;222
 Finland;Europe;2;Blinding Lights;The Weeknd;After Hours;0;200
 Finland;Europe;3;Penelope (feat. Clever);william, Clever;Penelope (feat. Clever);0;183
 Finland;Europe;4;GOOBA;6ix9ine;GOOBA;1;132
 Finland;Europe;5;Christian Rapper;Devo;Christian Rapper;0;152
 Finland;Europe;6;Believe Me - Remastered;Devo, Janni;Believe Me (Remastered);1;182
-Finland;Europe;7;Yhten‰ sunnuntaina;Erin;Yhten‰ sunnuntaina;0;219
-Finland;Europe;8;Liian v‰h‰n, liian myˆh‰‰n;Evelina;Liian v‰h‰n, liian myˆh‰‰n;0;195
+Finland;Europe;7;Yhten√§ sunnuntaina;Erin;Yhten√§ sunnuntaina;0;219
+Finland;Europe;8;Liian v√§h√§n, liian my√∂h√§√§n;Evelina;Liian v√§h√§n, liian my√∂h√§√§n;0;195
 Finland;Europe;9;ROCKSTAR (feat. Roddy Ricch);DaBaby, Roddy Ricch;BLAME IT ON BABY;1;181
 Finland;Europe;10;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Finland;Europe;11;100%;Keko Salata, BESS, Sexmane;100%;0;203
@@ -914,7 +914,7 @@ Finland;Europe;12;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix)
 Finland;Europe;13;Tivolit;BEHM;Tivolit;0;211
 Finland;Europe;14;100;Kube;100;0;167
 Finland;Europe;15;Boss Bitch;Doja Cat;Boss Bitch;0;134
-Finland;Europe;16;Ep‰rˆim‰tt‰ hetkeek‰‰n;Elastinen, Jenni Vartiainen;Ep‰rˆim‰tt‰ hetkeek‰‰n;0;200
+Finland;Europe;16;Ep√§r√∂im√§tt√§ hetkeek√§√§n;Elastinen, Jenni Vartiainen;Ep√§r√∂im√§tt√§ hetkeek√§√§n;0;200
 Finland;Europe;17;THE SCOTTS;THE SCOTTS, Travis Scott, Kid Cudi;THE SCOTTS;1;165
 Finland;Europe;18;Breaking Me;Topic, A7S;Breaking Me;0;166
 Finland;Europe;19;Kings & Queens;Ava Max;Kings & Queens;0;162
@@ -924,40 +924,40 @@ Finland;Europe;22;Ikuinen vappu;JVG;RATA/RAITTI;0;187
 Finland;Europe;23;Break My Heart;Dua Lipa;Future Nostalgia;0;221
 Finland;Europe;24;LINKO;Lord Est, MEGA-Ertsi;LINKO;0;192
 Finland;Europe;25;Blueberry Faygo;Lil Mosey;Certified Hitmaker;1;162
-Finland;Europe;26;Tuhansien L‰rvien Maa;Petri NygÂrd;Tuhansien L‰rvien Maa;0;157
+Finland;Europe;26;Tuhansien L√§rvien Maa;Petri Nyg√•rd;Tuhansien L√§rvien Maa;0;157
 Finland;Europe;27;Supalonely;BENEE, Gus Dapperton;STELLA & STEVE;1;223
 Finland;Europe;28;Parempi yksin - Recorded At Spotify Studios, Stockholm;Pyhimys;Spotify Singles;0;182
 Finland;Europe;29;Stuck with U (with Justin Bieber);Ariana Grande, Justin Bieber;Stuck with U;0;228
 Finland;Europe;30;In Your Eyes;The Weeknd;After Hours;1;237
-Finland;Europe;31;Valons‰teet;Vesta;Valons‰teet;0;229
+Finland;Europe;31;Valons√§teet;Vesta;Valons√§teet;0;229
 Finland;Europe;32;Komm Komm;Capital Bra;Komm Komm;0;160
 Finland;Europe;33;Toosie Slide;Drake;Dark Lane Demo Tapes;1;247
-Finland;Europe;34;Hengit‰;Tuure Boelius;Hengit‰;0;160
+Finland;Europe;34;Hengit√§;Tuure Boelius;Hengit√§;0;160
 Finland;Europe;35;Salt;Ava Max;Salt;0;180
-Finland;Europe;36;Teipill‰ tai rakkaudella;ABREU;Teipill‰ tai rakkaudella;0;195
+Finland;Europe;36;Teipill√§ tai rakkaudella;ABREU;Teipill√§ tai rakkaudella;0;195
 Finland;Europe;37;Lose Somebody;Kygo, OneRepublic;Lose Somebody;0;199
 Finland;Europe;38;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 Finland;Europe;39;Play Date;Melanie Martinez;Cry Baby (Deluxe Edition);1;179
 Finland;Europe;40;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
 Finland;Europe;41;LA Money;ALMA;Have U Seen Her?;1;173
 Finland;Europe;42;ily (i love you baby) (feat. Emilee);Surf Mesa, Emilee;ily (i love you baby) (feat. Emilee);0;176
-Finland;Europe;43;Herkku;Seksik‰s-Suklaa, Dosdela;Herkku;0;171
+Finland;Europe;43;Herkku;Seksik√§s-Suklaa, Dosdela;Herkku;0;171
 Finland;Europe;44;KYSYMYS (feat. Pyhimys);Cledos, Pyhimys;KYSYMYS (feat. Pyhimys);0;162
 Finland;Europe;45;Cicciolina;Erika Vikman;Cicciolina;0;178
-Finland;Europe;46;Naamat;Hesaƒij‰;Naamat;0;184
+Finland;Europe;46;Naamat;Hesa√Ñij√§;Naamat;0;184
 Finland;Europe;47;Be Kind (with Halsey);Marshmello, Halsey;Be Kind (with Halsey);0;172
 Finland;Europe;48;Physical;Dua Lipa;Future Nostalgia;0;193
 Finland;Europe;49;WHATS POPPIN;Jack Harlow;Sweet Action;1;139
 Finland;Europe;50;Haituvat;Jukka Poika, Janna;Haituvat;0;188
 France;Europe;1;Angela;Hatik;Chaise pliante;1;236
-France;Europe;2;JAUN…;Booba, Zed;JAUN…;1;215
+France;Europe;2;JAUN√â;Booba, Zed;JAUN√â;1;215
 France;Europe;3;Blinding Lights;The Weeknd;After Hours;0;200
 France;Europe;4;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
 France;Europe;5;Mele?im;Soolking, Dadju;Vintage;0;220
-France;Europe;6;Lettre ‡ une femme;Ninho;M.I.L.S 3;1;157
+France;Europe;6;Lettre √† une femme;Ninho;M.I.L.S 3;1;157
 France;Europe;7;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
 France;Europe;8;ily (i love you baby) (feat. Emilee);Surf Mesa, Emilee;ily (i love you baby) (feat. Emilee);0;176
-France;Europe;9;6.3;Naps, Ninho;CarrÈ VIP;1;212
+France;Europe;9;6.3;Naps, Ninho;Carr√© VIP;1;212
 France;Europe;10;Sousou;Jul;Sousou;1;237
 France;Europe;11;Bro Bro;Zola;Bro Bro;1;144
 France;Europe;12;Blanche;Maes, Booba;Les derniers salopards;1;193
@@ -972,13 +972,13 @@ France;Europe;20;Ride It;Regard;Ride It;0;157
 France;Europe;21;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 France;Europe;22;Zipette;Ninho;M.I.L.S 3;1;211
 France;Europe;23;THE SCOTTS;THE SCOTTS, Travis Scott, Kid Cudi;THE SCOTTS;1;165
-France;Europe;24;Ne reviens pas;Gradur, Heuss L'enfoirÈ;Zone 59;1;188
+France;Europe;24;Ne reviens pas;Gradur, Heuss L'enfoir√©;Zone 59;1;188
 France;Europe;25;GOOBA;6ix9ine;GOOBA;1;132
 France;Europe;26;Dybala;Maes, Jul;Les derniers salopards;1;211
-France;Europe;27;1Ëre fois;Imen Es, Alonzo;Nos vies;0;175
+France;Europe;27;1√®re fois;Imen Es, Alonzo;Nos vies;0;175
 France;Europe;28;The Box;Roddy Ricch;Please Excuse Me For Being Antisocial;1;196
-France;Europe;29;La vie qu'on mËne;Ninho;Destin;0;193
-France;Europe;30;93% [Tijuana];GLK, Landy, DA Uzi, Hornet La Frappe;IndÈcis;1;222
+France;Europe;29;La vie qu'on m√®ne;Ninho;Destin;0;193
+France;Europe;30;93% [Tijuana];GLK, Landy, DA Uzi, Hornet La Frappe;Ind√©cis;1;222
 France;Europe;31;ROCKSTAR (feat. Roddy Ricch);DaBaby, Roddy Ricch;BLAME IT ON BABY;1;181
 France;Europe;32;MD (feat. Niska);4Keus, Niska;Vie d'artiste;1;210
 France;Europe;33;Salt;Ava Max;Salt;0;180
@@ -987,12 +987,12 @@ France;Europe;35;Falling;Trevor Daniel;Nicotine;0;159
 France;Europe;36;In Your Eyes;The Weeknd;After Hours;1;237
 France;Europe;37;Breaking Me;Topic, A7S;Breaking Me;0;166
 France;Europe;38;Supalonely;BENEE, Gus Dapperton;STELLA & STEVE;1;223
-France;Europe;39;Moulaga;Heuss L'enfoirÈ, Jul;Moulaga;1;179
+France;Europe;39;Moulaga;Heuss L'enfoir√©, Jul;Moulaga;1;179
 France;Europe;40;Some Say;Nea;Some Say;0;175
 France;Europe;41;Infinity - Dubdogz & Bhaskar Edit;Dubdogz, Bhaskar;Infinity (Dubdogz & Bhaskar Edit);0;196
 France;Europe;42;Train de vie (feat. PLK);Leto, PLK;Virus: avant l'album;1;187
 France;Europe;43;Prison pour mineurs;Hatik;Prison pour mineurs;1;94
-France;Europe;44;Pirate;Ninho, Hˆs Copperfield;Pirate;1;245
+France;Europe;44;Pirate;Ninho, H√∂s Copperfield;Pirate;1;245
 France;Europe;45;Physical;Dua Lipa;Future Nostalgia;0;193
 France;Europe;46;Fait d'or;Jul;Fait d'or;1;315
 France;Europe;47;So Maness;Soso Maness;So Maness;1;159
@@ -1016,10 +1016,10 @@ Germany;Europe;14;GEHT NICH GIBS NICH;KC Rebell, Summer Cem;GEHT NICH GIBS NICH;
 Germany;Europe;15;Roller;Apache 207;Platte;1;157
 Germany;Europe;16;Late Night;Luciano;Late Night;0;200
 Germany;Europe;17;Breaking Me;Topic, A7S;Breaking Me;0;166
-Germany;Europe;18;Ich w¸rd' l¸gen;KAYEF;Struggle Is Real;0;163
+Germany;Europe;18;Ich w√ºrd' l√ºgen;KAYEF;Struggle Is Real;0;163
 Germany;Europe;19;Maison;Luciano;Maison;0;193
 Germany;Europe;20;WEISSER RAUCH;FOURTY;WEISSER RAUCH;0;182
-Germany;Europe;21;Tr‰nen aus Kajal;C…LINE;Tr‰nen aus Kajal;0;151
+Germany;Europe;21;Tr√§nen aus Kajal;C√âLINE;Tr√§nen aus Kajal;0;151
 Germany;Europe;22;Never Let Me Down;VIZE, Tom Gregory;Never Let Me Down;0;153
 Germany;Europe;23;90-60-111;Shirin David;90-60-111;1;141
 Germany;Europe;24;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
@@ -1043,10 +1043,10 @@ Germany;Europe;41;H <3 T E L;Dardan, Monet192;H <3 T E L;0;164
 Germany;Europe;42;Namen;Kontra K;Namen;1;198
 Germany;Europe;43;Conan x Xenia;Haftbefehl, Shirin David;Conan x Xenia;1;200
 Germany;Europe;44;Sehe schwarz;Ra'is, XATAR;Sehe schwarz;1;187
-Germany;Europe;45;Rollercoaster;badmÛmzjay;Rollercoaster;1;165
+Germany;Europe;45;Rollercoaster;badm√≥mzjay;Rollercoaster;1;165
 Germany;Europe;46;200 km/h;Apache 207;Platte;1;163
 Germany;Europe;47;The Passenger (LaLaLa);LUM!X, MOKABY & D.T.E, Gabry Ponte;The Passenger (LaLaLa);0;159
-Germany;Europe;48;R¸ckspiegel;Sinan-G;R¸ckspiegel;0;153
+Germany;Europe;48;R√ºckspiegel;Sinan-G;R√ºckspiegel;0;153
 Germany;Europe;49;Stuck with U (with Justin Bieber);Ariana Grande, Justin Bieber;Stuck with U;0;228
 Germany;Europe;50;What's Luv;Shindy;Byzantinische Rose;1;133
 Greece;Europe;1;Millionaire;Snik;TOPBOY;1;155
@@ -1059,7 +1059,7 @@ Greece;Europe;7;PTSD;Snik;TOPBOY;1;178
 Greece;Europe;8;Highway;Snik;TOPBOY;1;117
 Greece;Europe;9;Sinefa;Snik;TOPBOY;1;163
 Greece;Europe;10;Rockstar;Snik;TOPBOY;1;133
-Greece;Europe;11;Colpo Grosso;Snik, GuË Pequeno, Noizy, Capo Plaza;TOPBOY;1;273
+Greece;Europe;11;Colpo Grosso;Snik, Gu√® Pequeno, Noizy, Capo Plaza;TOPBOY;1;273
 Greece;Europe;12;Drip;Snik, Mad Clip;TOPBOY;1;147
 Greece;Europe;13;Medusa;Snik;TOPBOY;1;172
 Greece;Europe;14;Kilo;Snik;TOPBOY;1;180
@@ -1106,26 +1106,26 @@ Guatemala;North America;4;Favorito;Camilo;Por Primera Vez;0;209
 Guatemala;North America;5;Tattoo;Rauw Alejandro;Tattoo;0;202
 Guatemala;North America;6;Ignorantes;Bad Bunny, Sech;YHLQMDLG;1;210
 Guatemala;North America;7;Blinding Lights;The Weeknd;After Hours;0;200
-Guatemala;North America;8;Si Veo a Tu Mam·;Bad Bunny;YHLQMDLG;0;170
+Guatemala;North America;8;Si Veo a Tu Mam√°;Bad Bunny;YHLQMDLG;0;170
 Guatemala;North America;9;Fantasias;Rauw Alejandro, Farruko;Fantasias;0;199
-Guatemala;North America;10;Sigues Con El;DÌmelo Flow, Arcangel, Sech;Sigues Con El;0;226
-Guatemala;North America;11;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
-Guatemala;North America;12;Hola - Remix;Dalex, Lenny Tav·rez, Chencho Corleone, Juhn, DÌmelo Flow;Hola (Remix);0;249
+Guatemala;North America;10;Sigues Con El;D√≠melo Flow, Arcangel, Sech;Sigues Con El;0;226
+Guatemala;North America;11;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
+Guatemala;North America;12;Hola - Remix;Dalex, Lenny Tav√°rez, Chencho Corleone, Juhn, D√≠melo Flow;Hola (Remix);0;249
 Guatemala;North America;13;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
-Guatemala;North America;14;Jangueo;Alex Rose, Rafa Pabˆn;LOST;0;259
-Guatemala;North America;15;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
+Guatemala;North America;14;Jangueo;Alex Rose, Rafa Pab√∂n;LOST;0;259
+Guatemala;North America;15;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
 Guatemala;North America;16;Pa' Olvidarme De Ella;Piso 21, Christian Nodal;Pa' Olvidarme De Ella;1;227
 Guatemala;North America;17;BYE ME FUI;Bad Bunny;LAS QUE NO IBAN A SALIR;1;178
 Guatemala;North America;18;Vete;Bad Bunny;YHLQMDLG;1;192
-Guatemala;North America;19;LA CANCI”N;J Balvin, Bad Bunny;OASIS;0;242
+Guatemala;North America;19;LA CANCI√ìN;J Balvin, Bad Bunny;OASIS;0;242
 Guatemala;North America;20;Diosa;Myke Towers;Easy Money Baby;1;214
 Guatemala;North America;21;Morado;J Balvin;Colores;0;200
 Guatemala;North America;22;No Me Conoce - Remix;Jhay Cortez, J Balvin, Bad Bunny;Famouz;0;309
 Guatemala;North America;23;La Santa;Bad Bunny, Daddy Yankee;YHLQMDLG;1;206
-Guatemala;North America;24;CANCI”N CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
+Guatemala;North America;24;CANCI√ìN CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
 Guatemala;North America;25;PORFA;Feid, Justin Quiles;FERXXO (VOL 1: M.O.R);0;232
-Guatemala;North America;26;C”MO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C”MO SE SIENTE (Remix);1;227
-Guatemala;North America;27;QuÈ MaldiciÛn;Banda MS de Sergio Liz·rraga, Snoop Dogg;QuÈ MaldiciÛn;0;203
+Guatemala;North America;26;C√ìMO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C√ìMO SE SIENTE (Remix);1;227
+Guatemala;North America;27;Qu√© Maldici√≥n;Banda MS de Sergio Liz√°rraga, Snoop Dogg;Qu√© Maldici√≥n;0;203
 Guatemala;North America;28;Sigues Con El - Remix;Arcangel, Sech, Romeo Santos;Sigues Con El (Remix);0;189
 Guatemala;North America;29;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Guatemala;North America;30;Amarillo;J Balvin;Colores;0;157
@@ -1133,17 +1133,17 @@ Guatemala;North America;31;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 Guatemala;North America;32;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 Guatemala;North America;33;Callaita;Bad Bunny, Tainy;Callaita;1;250
 Guatemala;North America;34;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
-Guatemala;North America;35;RelaciÛn;Sech;1 of 1;0;184
+Guatemala;North America;35;Relaci√≥n;Sech;1 of 1;0;184
 Guatemala;North America;36;Azul;J Balvin;Colores;0;205
 Guatemala;North America;37;PA' ROMPERLA;Bad Bunny, Don Omar;LAS QUE NO IBAN A SALIR;1;194
 Guatemala;North America;38;Adicto (with Anuel AA & Ozuna);Tainy, Anuel AA, Ozuna;Adicto (with Anuel AA & Ozuna);0;270
-Guatemala;North America;39;QuiÈreme Mientras Se Pueda;Manuel Turizo;QuiÈreme Mientras Se Pueda;0;191
+Guatemala;North America;39;Qui√©reme Mientras Se Pueda;Manuel Turizo;Qui√©reme Mientras Se Pueda;0;191
 Guatemala;North America;40;Bajo La Mesa;Morat, Sebastian Yatra;Bajo La Mesa;0;157
 Guatemala;North America;41;Por Primera Vez;Camilo, Evaluna Montaner;Por Primera Vez;0;182
-Guatemala;North America;42;Se Me OlvidÛ;Christian Nodal;Se Me OlvidÛ;0;159
-Guatemala;North America;43;Tutu;Camilo, Pedro CapÛ;Por Primera Vez;0;179
+Guatemala;North America;42;Se Me Olvid√≥;Christian Nodal;Se Me Olvid√≥;0;159
+Guatemala;North America;43;Tutu;Camilo, Pedro Cap√≥;Por Primera Vez;0;179
 Guatemala;North America;44;BAD CON NICKY;Bad Bunny, Nicky Jam;LAS QUE NO IBAN A SALIR;1;202
-Guatemala;North America;45;M¡S DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
+Guatemala;North America;45;M√ÅS DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
 Guatemala;North America;46;Si Te Vas;Sech, Ozuna;1 of 1;0;204
 Guatemala;North America;47;El Efecto - Remix;Rauw Alejandro, Chencho Corleone, KEVVO, Bryant Myers, Lyanno, Dalex;El Efecto (Remix);1;289
 Guatemala;North America;48;China;Anuel AA, Daddy Yankee, KAROL G, J Balvin, Ozuna;China;0;301
@@ -1152,63 +1152,63 @@ Guatemala;North America;50;El Efecto;Rauw Alejandro, Chencho Corleone;El Efecto;
 Honduras;North America;1;Safaera;Bad Bunny, Jowell & Randy, Nengo Flow;YHLQMDLG;1;295
 Honduras;North America;2;Yo Perreo Sola;Bad Bunny;YHLQMDLG;0;172
 Honduras;North America;3;Rojo;J Balvin;Colores;0;150
-Honduras;North America;4;C”MO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C”MO SE SIENTE (Remix);1;227
+Honduras;North America;4;C√ìMO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C√ìMO SE SIENTE (Remix);1;227
 Honduras;North America;5;Ignorantes;Bad Bunny, Sech;YHLQMDLG;1;210
 Honduras;North America;6;BYE ME FUI;Bad Bunny;LAS QUE NO IBAN A SALIR;1;178
-Honduras;North America;7;Si Veo a Tu Mam·;Bad Bunny;YHLQMDLG;0;170
+Honduras;North America;7;Si Veo a Tu Mam√°;Bad Bunny;YHLQMDLG;0;170
 Honduras;North America;8;Favorito;Camilo;Por Primera Vez;0;209
 Honduras;North America;9;Blinding Lights;The Weeknd;After Hours;0;200
 Honduras;North America;10;La Santa;Bad Bunny, Daddy Yankee;YHLQMDLG;1;206
-Honduras;North America;11;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
+Honduras;North America;11;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
 Honduras;North America;12;Tattoo;Rauw Alejandro;Tattoo;0;202
-Honduras;North America;13;CANCI”N CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
+Honduras;North America;13;CANCI√ìN CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
 Honduras;North America;14;Vete;Bad Bunny;YHLQMDLG;1;192
 Honduras;North America;15;Diosa;Myke Towers;Easy Money Baby;1;214
-Honduras;North America;16;Hola - Remix;Dalex, Lenny Tav·rez, Chencho Corleone, Juhn, DÌmelo Flow;Hola (Remix);0;249
-Honduras;North America;17;LA CANCI”N;J Balvin, Bad Bunny;OASIS;0;242
+Honduras;North America;16;Hola - Remix;Dalex, Lenny Tav√°rez, Chencho Corleone, Juhn, D√≠melo Flow;Hola (Remix);0;249
+Honduras;North America;17;LA CANCI√ìN;J Balvin, Bad Bunny;OASIS;0;242
 Honduras;North America;18;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
-Honduras;North America;19;Sigues Con El;DÌmelo Flow, Arcangel, Sech;Sigues Con El;0;226
+Honduras;North America;19;Sigues Con El;D√≠melo Flow, Arcangel, Sech;Sigues Con El;0;226
 Honduras;North America;20;A Tu Merced;Bad Bunny;YHLQMDLG;0;175
 Honduras;North America;21;No Me Conoce - Remix;Jhay Cortez, J Balvin, Bad Bunny;Famouz;0;309
 Honduras;North America;22;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
-Honduras;North America;23;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
+Honduras;North America;23;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
 Honduras;North America;24;BAD CON NICKY;Bad Bunny, Nicky Jam;LAS QUE NO IBAN A SALIR;1;202
 Honduras;North America;25;Morado;J Balvin;Colores;0;200
 Honduras;North America;26;Fantasias;Rauw Alejandro, Farruko;Fantasias;0;199
 Honduras;North America;27;PA' ROMPERLA;Bad Bunny, Don Omar;LAS QUE NO IBAN A SALIR;1;194
-Honduras;North America;28;M¡S DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
-Honduras;North America;29;RelaciÛn;Sech;1 of 1;0;184
+Honduras;North America;28;M√ÅS DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
+Honduras;North America;29;Relaci√≥n;Sech;1 of 1;0;184
 Honduras;North America;30;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 Honduras;North America;31;Amarillo;J Balvin;Colores;0;157
 Honduras;North America;32;Pa' Olvidarme De Ella;Piso 21, Christian Nodal;Pa' Olvidarme De Ella;1;227
 Honduras;North America;33;PORFA;Feid, Justin Quiles;FERXXO (VOL 1: M.O.R);0;232
 Honduras;North America;34;Callaita;Bad Bunny, Tainy;Callaita;1;250
 Honduras;North America;35;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
-Honduras;North America;36;Jangueo;Alex Rose, Rafa Pabˆn;LOST;0;259
+Honduras;North America;36;Jangueo;Alex Rose, Rafa Pab√∂n;LOST;0;259
 Honduras;North America;37;BENDICIONES;Bad Bunny;LAS QUE NO IBAN A SALIR;0;155
 Honduras;North America;38;El Efecto - Remix;Rauw Alejandro, Chencho Corleone, KEVVO, Bryant Myers, Lyanno, Dalex;El Efecto (Remix);1;289
 Honduras;North America;39;Bajo La Mesa;Morat, Sebastian Yatra;Bajo La Mesa;0;157
 Honduras;North America;40;Adicto (with Anuel AA & Ozuna);Tainy, Anuel AA, Ozuna;Adicto (with Anuel AA & Ozuna);0;270
 Honduras;North America;41;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
-Honduras;North America;42;Bellaquita - Remix;Dalex, Lenny Tav·rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo AviÛn;1;304
+Honduras;North America;42;Bellaquita - Remix;Dalex, Lenny Tav√°rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo Avi√≥n;1;304
 Honduras;North America;43;Azul;J Balvin;Colores;0;205
 Honduras;North America;44;Toosie Slide;Drake;Dark Lane Demo Tapes;1;247
-Honduras;North America;45;QuÈ MaldiciÛn;Banda MS de Sergio Liz·rraga, Snoop Dogg;QuÈ MaldiciÛn;0;203
+Honduras;North America;45;Qu√© Maldici√≥n;Banda MS de Sergio Liz√°rraga, Snoop Dogg;Qu√© Maldici√≥n;0;203
 Honduras;North America;46;Sigues Con El - Remix;Arcangel, Sech, Romeo Santos;Sigues Con El (Remix);0;189
 Honduras;North America;47;Si Te Vas;Sech, Ozuna;1 of 1;0;204
-Honduras;North America;48;ConfÌa;Sech, Daddy Yankee;1 of 1;0;202
+Honduras;North America;48;Conf√≠a;Sech, Daddy Yankee;1 of 1;0;202
 Honduras;North America;49;Infeliz;Arcangel, Bad Bunny;Historias de un Capricornio;0;221
 Honduras;North America;50;Pero Ya No;Bad Bunny;YHLQMDLG;0;160
 Hong Kong;Asia;1;Flossin';Big Loso;Flossin';1;119
 Hong Kong;Asia;2;Y Ahora (feat. Alex Rose, Nengo Flow, Randy Nota Loka & Dalex);DNA, Alex Rose, Nengo Flow, Randy Nota Loka, Dalex;Y Ahora (feat. Alex Rose, Nengo Flow, Randy Nota Loka & Dalex);1;317
-Hong Kong;Asia;3;X Celos;Dami·n V;X Celos;0;147
+Hong Kong;Asia;3;X Celos;Dami√°n V;X Celos;0;147
 Hong Kong;Asia;4;Guaya Pared (feat. J-King y Maximan);DNA, J-King, Maximan;Guaya Pared (feat. J-King & Maximan);1;207
-Hong Kong;Asia;5;Loveless;YNW Jordan, KolÈ, Young Fay;Loveless;1;175
+Hong Kong;Asia;5;Loveless;YNW Jordan, Kol√©, Young Fay;Loveless;1;175
 Hong Kong;Asia;6;Static Interruptions;Floating in Space - Project;Static Interruptions;0;349
 Hong Kong;Asia;7;Soak up the Drip;PBE PLUTO;Soak up the Drip;1;192
 Hong Kong;Asia;8;Lento y Sensual;Jt el Utility;Lento y Sensual;0;171
 Hong Kong;Asia;9;Booty;Windy Guai;Booty;0;189
-Hong Kong;Asia;10;"Piano Sonata No. 8 in C Minor, Op. 13, ""PathÈtique"": II. Adagio cantabile";Shunji Itani;Beethoveniana Nr.1;0;268
+Hong Kong;Asia;10;"Piano Sonata No. 8 in C Minor, Op. 13, ""Path√©tique"": II. Adagio cantabile";Shunji Itani;Beethoveniana Nr.1;0;268
 Hong Kong;Asia;11;Tanha Nazar;Sirvan Khosravi;Tanha Nazar;0;235
 Hong Kong;Asia;12;Emotional;MariKuroso, Olivier Decrouille;JOY;0;282
 Hong Kong;Asia;13;Yesteday;Thee JAE;Yesteday;1;255
@@ -1241,7 +1241,7 @@ Hong Kong;Asia;39;Your Time;DeAnna Stealth;Your Time;0;189
 Hong Kong;Asia;40;?????;Dear Jane;?????;0;232
 Hong Kong;Asia;41;Press Play;JSnake, Nelis Joustra, Ray Bryan;Press Play;1;185
 Hong Kong;Asia;42;Stuck with U (with Justin Bieber);Ariana Grande, Justin Bieber;Stuck with U;0;228
-Hong Kong;Asia;43;Se acabÛ;Molina Molina;Se acabÛ;0;182
+Hong Kong;Asia;43;Se acab√≥;Molina Molina;Se acab√≥;0;182
 Hong Kong;Asia;44;Tik Tik Tok;Marli Space;Tik Tik Tok;0;168
 Hong Kong;Asia;45;All Night;Mukaybin Mukayze;All Night;0;175
 Hong Kong;Asia;46;"?????????(???""???""???)";831;"?????????(???""???""???)";0;239
@@ -1280,9 +1280,9 @@ Hungary;Europe;28;ROXANNE;Arizona Zervas;ROXANNE;1;163
 Hungary;Europe;29;Lose Control;MEDUZA, Becky Hill, Goodboys;Lose Control;0;168
 Hungary;Europe;30;Supalonely;BENEE, Gus Dapperton;STELLA & STEVE;1;223
 Hungary;Europe;31;Physical;Dua Lipa;Future Nostalgia;0;193
-Hungary;Europe;32;SeÒorita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
+Hungary;Europe;32;Se√±orita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
 Hungary;Europe;33;Circles;Post Malone;Hollywood's Bleeding;0;215
-Hungary;Europe;34;MostantÛl;R·cz Gergı, Orsovai Reni;MostantÛl;0;211
+Hungary;Europe;34;Mostant√≥l;R√°cz Gerg√µ, Orsovai Reni;Mostant√≥l;0;211
 Hungary;Europe;35;Someone You Loved;Lewis Capaldi;Divinely Uninspired To A Hellish Extent;0;182
 Hungary;Europe;36;Memories;Maroon 5;Memories;0;189
 Hungary;Europe;37;Life Is Good (feat. Drake);Future, Drake;High Off Life;1;237
@@ -1290,65 +1290,65 @@ Hungary;Europe;38;Kings & Queens;Ava Max;Kings & Queens;0;162
 Hungary;Europe;39;Party Girl;StaySolidRocky;Party Girl;0;147
 Hungary;Europe;40;Watermelon Sugar;Harry Styles;Fine Line;0;174
 Hungary;Europe;41;Be Kind (with Halsey);Marshmello, Halsey;Be Kind (with Halsey);0;172
-Hungary;Europe;42;Lej;Dzs˙dlÛ, Lil Frakk;FotofÛbia;0;168
+Hungary;Europe;42;Lej;Dzs√∫dl√≥, Lil Frakk;Fotof√≥bia;0;168
 Hungary;Europe;43;Salt;Ava Max;Salt;0;180
 Hungary;Europe;44;Play Date;Melanie Martinez;Cry Baby (Deluxe Edition);1;179
 Hungary;Europe;45;In Your Eyes;The Weeknd;After Hours;1;237
 Hungary;Europe;46;Sunday Best;Surfaces;Where the Light Is;0;158
-Hungary;Europe;47;Fek¸dj ide;ByeAlex Ès a Slepp;Fek¸dj ide;0;151
+Hungary;Europe;47;Fek√ºdj ide;ByeAlex √©s a Slepp;Fek√ºdj ide;0;151
 Hungary;Europe;48;Intentions (feat. Quavo);Justin Bieber, Quavo;Changes;0;212
 Hungary;Europe;49;Say So;Doja Cat;Hot Pink;1;237
 Hungary;Europe;50;Lose Somebody;Kygo, OneRepublic;Lose Somebody;0;199
 Iceland;Europe;1;ROCKSTAR (feat. Roddy Ricch);DaBaby, Roddy Ricch;BLAME IT ON BABY;1;181
 Iceland;Europe;2;Blinding Lights;The Weeknd;After Hours;0;200
-Iceland;Europe;3;Deyja Fyrir Stelpurnar MÌnar;ClubDub, Ra:tio;…g Myndi Deyja Fyrir Stelpurnar MÌnar;0;192
-Iceland;Europe;4;Esjan;BRÕET;Esjan;0;254
-Iceland;Europe;5;ﬁa bera sig allir vel;Helgi Bjˆrnsson;ﬁa bera sig allir vel;0;247
-Iceland;Europe;6;Think About Things;Dai Freyr;Think About Things;0;173
+Iceland;Europe;3;Deyja Fyrir Stelpurnar M√≠nar;ClubDub, Ra:tio;√âg Myndi Deyja Fyrir Stelpurnar M√≠nar;0;192
+Iceland;Europe;4;Esjan;BR√çET;Esjan;0;254
+Iceland;Europe;5;√ûa√∞ bera sig allir vel;Helgi Bj√∂rnsson;√ûa√∞ bera sig allir vel;0;247
+Iceland;Europe;6;Think About Things;Da√∞i Freyr;Think About Things;0;173
 Iceland;Europe;7;In Your Eyes;The Weeknd;After Hours;1;237
-Iceland;Europe;8;Õ kvˆld er gigg;IngÛ Veurgu;Õ kvˆld er gigg;0;195
+Iceland;Europe;8;√ç kv√∂ld er gigg;Ing√≥ Ve√∞urgu√∞;√ç kv√∂ld er gigg;0;195
 Iceland;Europe;9;THE SCOTTS;THE SCOTTS, Travis Scott, Kid Cudi;THE SCOTTS;1;165
 Iceland;Europe;10;GOOBA;6ix9ine;GOOBA;1;132
 Iceland;Europe;11;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
-Iceland;Europe;12;Heyru Mig;BRÕET;Heyru Mig;0;180
+Iceland;Europe;12;Heyr√∞u Mig;BR√çET;Heyr√∞u Mig;0;180
 Iceland;Europe;13;Toosie Slide;Drake;Dark Lane Demo Tapes;1;247
 Iceland;Europe;14;Stuck with U (with Justin Bieber);Ariana Grande, Justin Bieber;Stuck with U;0;228
 Iceland;Europe;15;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
-Iceland;Europe;16;Haltu Kjafti;Birgir H·kon, M Can, Tommy;Haltu Kjafti;0;128
-Iceland;Europe;17;PÌla (feat. Lil Binni);Joey Christ, Lil Binni;PÌla (feat. Lil Binni);0;155
-Iceland;Europe;18;”ska mÈr;JÛiPÈ, KrÛli;Õ mijum kjarnorkuvetri;0;173
-Iceland;Europe;19;Enginn eins og ˛˙;Auur;Enginn eins og ˛˙;0;181
+Iceland;Europe;16;Haltu Kjafti;Birgir H√°kon, M Can, Tommy;Haltu Kjafti;0;128
+Iceland;Europe;17;P√≠la (feat. Lil Binni);Joey Christ, Lil Binni;P√≠la (feat. Lil Binni);0;155
+Iceland;Europe;18;√ìska m√©r;J√≥iP√©, Kr√≥li;√ç mi√∞jum kjarnorkuvetri;0;173
+Iceland;Europe;19;Enginn eins og √æ√∫;Au√∞ur;Enginn eins og √æ√∫;0;181
 Iceland;Europe;20;Breaking Me;Topic, A7S;Breaking Me;0;166
 Iceland;Europe;21;Boss Bitch;Doja Cat;Boss Bitch;0;134
 Iceland;Europe;22;Supalonely;BENEE, Gus Dapperton;STELLA & STEVE;1;223
 Iceland;Europe;23;Blueberry Faygo;Lil Mosey;Certified Hitmaker;1;162
 Iceland;Europe;24;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
-Iceland;Europe;25;Sumarglein (feat. Gummi TÛta & IngÛ Veurgu);Doctor Victor, IngÛ Veurgu, Gummi TÛta;Sumarglein (feat. Gummi TÛta & IngÛ Veurgu);0;184
-Iceland;Europe;26;Einn Tveir;Huginn, Fririk DÛr;Einn Tveir;0;200
+Iceland;Europe;25;Sumargle√∞in (feat. Gummi T√≥ta & Ing√≥ Ve√∞urgu√∞);Doctor Victor, Ing√≥ Ve√∞urgu√∞, Gummi T√≥ta;Sumargle√∞in (feat. Gummi T√≥ta & Ing√≥ Ve√∞urgu√∞);0;184
+Iceland;Europe;26;Einn Tveir;Huginn, Fri√∞rik D√≥r;Einn Tveir;0;200
 Iceland;Europe;27;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
-Iceland;Europe;28;Malbik;EmmsjÈ Gauti, KrÛli;Malbik;0;195
+Iceland;Europe;28;Malbik;Emmsj√© Gauti, Kr√≥li;Malbik;0;195
 Iceland;Europe;29;Intentions (feat. Quavo);Justin Bieber, Quavo;Changes;0;212
-Iceland;Europe;30;…g Er Svo Flottur;SÈra Bjˆssi;…g Er Svo Flottur;1;182
+Iceland;Europe;30;√âg Er Svo Flottur;S√©ra Bj√∂ssi;√âg Er Svo Flottur;1;182
 Iceland;Europe;31;After Party;Don Toliver;Heaven Or Hell;1;167
 Iceland;Europe;32;Break My Heart;Dua Lipa;Future Nostalgia;0;221
 Iceland;Europe;33;The Box;Roddy Ricch;Please Excuse Me For Being Antisocial;1;196
-Iceland;Europe;34;On;JÛiPÈ, KrÛli;Õ mijum kjarnorkuvetri;0;186
+Iceland;Europe;34;On;J√≥iP√©, Kr√≥li;√ç mi√∞jum kjarnorkuvetri;0;186
 Iceland;Europe;35;Say So;Doja Cat;Hot Pink;1;237
 Iceland;Europe;36;bad guy;Billie Eilish;WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?;0;194
-Iceland;Europe;37;Savage Remix (feat. BeyoncÈ);Megan Thee Stallion, BeyoncÈ;Savage Remix (feat. BeyoncÈ);1;242
+Iceland;Europe;37;Savage Remix (feat. Beyonc√©);Megan Thee Stallion, Beyonc√©;Savage Remix (feat. Beyonc√©);1;242
 Iceland;Europe;38;Life Is Good (feat. Drake);Future, Drake;High Off Life;1;237
 Iceland;Europe;39;WHATS POPPIN;Jack Harlow;Sweet Action;1;139
 Iceland;Europe;40;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
 Iceland;Europe;41;goosebumps;Travis Scott;Birds In The Trap Sing McKnight;1;243
 Iceland;Europe;42;Watermelon Sugar;Harry Styles;Fine Line;0;174
-Iceland;Europe;43;SÌan hittumst vi aftur;Helgi Bjˆrnsson;...syngur Ìslenskar dÊgurperlur ·samt gestum;0;235
+Iceland;Europe;43;S√≠√∞an hittumst vi√∞ aftur;Helgi Bj√∂rnsson;...syngur √≠slenskar d√¶gurperlur √°samt gestum;0;235
 Iceland;Europe;44;HIGHEST IN THE ROOM;Travis Scott;HIGHEST IN THE ROOM;1;175
 Iceland;Europe;45;Shallow;Lady Gaga, Bradley Cooper;A Star Is Born Soundtrack;0;215
 Iceland;Europe;46;Someone You Loved;Lewis Capaldi;Divinely Uninspired To A Hellish Extent;0;182
-Iceland;Europe;47;RÛmeÛ og J˙lÌa;Bubbi Morthens;Kona;0;297
+Iceland;Europe;47;R√≥me√≥ og J√∫l√≠a;Bubbi Morthens;Kona;0;297
 Iceland;Europe;48;Sunday Best;Surfaces;Where the Light Is;0;158
-Iceland;Europe;49;Ofboslega frÊgur;Stumenn;Hve glˆ er vor Êska;0;251
-Iceland;Europe;50;Afgan;Bubbi Morthens;Fingrafˆr;0;324
+Iceland;Europe;49;Ofbo√∞slega fr√¶gur;Stu√∞menn;Hve gl√∂√∞ er vor √¶ska;0;251
+Iceland;Europe;50;Afgan;Bubbi Morthens;Fingraf√∂r;0;324
 India;Asia;1;Shayad;Pritam, Arijit Singh;Love Aaj Kal (Original Motion Picture Soundtrack);0;247
 India;Asia;2;Play Date;Melanie Martinez;Cry Baby (Deluxe Edition);1;179
 India;Asia;3;Genda Phool (feat. Payal Dev);Badshah, Payal Dev;Genda Phool (feat. Payal Dev);0;170
@@ -1371,7 +1371,7 @@ India;Asia;19;"Humraah (From ""Malang - Unleash The Madness"")";Sachet Tandon, T
 India;Asia;20;Toosie Slide;Drake;Dark Lane Demo Tapes;1;247
 India;Asia;21;Skechers;DripReport;Skechers;1;106
 India;Asia;22;Memories;Maroon 5;Memories;0;189
-India;Asia;23;SeÒorita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
+India;Asia;23;Se√±orita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
 India;Asia;24;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 India;Asia;25;"Kaise Hua (From ""Kabir Singh"")";Vishal Mishra;"Kaise Hua (From ""Kabir Singh"")";0;234
 India;Asia;26;ily (i love you baby) (feat. Emilee);Surf Mesa, Emilee;ily (i love you baby) (feat. Emilee);0;176
@@ -1440,7 +1440,7 @@ Indonesia;Asia;38;Rayu;Marion Jola, Laleilmanino;Marion;0;221
 Indonesia;Asia;39;Bad Liar;Imagine Dragons;Origins (Deluxe);0;260
 Indonesia;Asia;40;Blueberry Faygo;Lil Mosey;Certified Hitmaker;1;162
 Indonesia;Asia;41;Can't You See Me?;TOMORROW X TOGETHER;The Dream Chapter: ETERNITY;0;201
-Indonesia;Asia;42;Savage Remix (feat. BeyoncÈ);Megan Thee Stallion, BeyoncÈ;Savage Remix (feat. BeyoncÈ);1;242
+Indonesia;Asia;42;Savage Remix (feat. Beyonc√©);Megan Thee Stallion, Beyonc√©;Savage Remix (feat. Beyonc√©);1;242
 Indonesia;Asia;43;Nyaman;Andmesh;Cinta Luar Biasa;0;226
 Indonesia;Asia;44;Halu;Feby Putri;Halu;0;265
 Indonesia;Asia;45;Sekali Ini Saja;Glenn Fredly;Selamat Pagi, Dunia!;0;235
@@ -1453,7 +1453,7 @@ Ireland;Europe;1;ROCKSTAR (feat. Roddy Ricch);DaBaby, Roddy Ricch;BLAME IT ON BA
 Ireland;Europe;2;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Ireland;Europe;3;Blinding Lights;The Weeknd;After Hours;0;200
 Ireland;Europe;4;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
-Ireland;Europe;5;Think About Things;Dai Freyr;Think About Things;0;173
+Ireland;Europe;5;Think About Things;Da√∞i Freyr;Think About Things;0;173
 Ireland;Europe;6;Toosie Slide;Drake;Dark Lane Demo Tapes;1;247
 Ireland;Europe;7;Rover (feat. DTG);S1mba, DTG;Rover (feat. DTG);1;167
 Ireland;Europe;8;Blueberry Faygo;Lil Mosey;Certified Hitmaker;1;162
@@ -1466,7 +1466,7 @@ Ireland;Europe;14;Lonely;Joel Corry;Lonely;0;190
 Ireland;Europe;15;Watermelon Sugar;Harry Styles;Fine Line;0;174
 Ireland;Europe;16;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 Ireland;Europe;17;Rain;Aitch, AJ Tracey, Tay Keith;Rain;1;183
-Ireland;Europe;18;Savage Remix (feat. BeyoncÈ);Megan Thee Stallion, BeyoncÈ;Savage Remix (feat. BeyoncÈ);1;242
+Ireland;Europe;18;Savage Remix (feat. Beyonc√©);Megan Thee Stallion, Beyonc√©;Savage Remix (feat. Beyonc√©);1;242
 Ireland;Europe;19;Supalonely;BENEE, Gus Dapperton;STELLA & STEVE;1;223
 Ireland;Europe;20;GOOBA;6ix9ine;GOOBA;1;132
 Ireland;Europe;21;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
@@ -1519,7 +1519,7 @@ Israel;Asia;17;???? ??;Nathan Goshen, Ishay Ribo;???? ?????;0;207
 Israel;Asia;18;Break My Heart;Dua Lipa;Future Nostalgia;0;221
 Israel;Asia;19;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
 Israel;Asia;20;Blueberry Faygo;Lil Mosey;Certified Hitmaker;1;162
-Israel;Asia;21;SeÒorita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
+Israel;Asia;21;Se√±orita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
 Israel;Asia;22;???? ?????;Ishay Ribo;??? ????;0;197
 Israel;Asia;23;Life Is Good (feat. Drake);Future, Drake;High Off Life;1;237
 Israel;Asia;24;Falling;Trevor Daniel;Nicotine;0;159
@@ -1588,12 +1588,12 @@ Italy;Europe;36;Boss Bitch;Doja Cat;Boss Bitch;0;134
 Italy;Europe;37;goosebumps;Travis Scott;Birds In The Trap Sing McKnight;1;243
 Italy;Europe;38;Chiasso;Random;Chiasso;0;182
 Italy;Europe;39;Ringo Starr;Pinguini Tattici Nucleari;Fuori dall'Hype Ringo Starr;0;183
-Italy;Europe;40;BANKROLL (feat. LuchË);DrefGold, Luche;ELO;1;166
+Italy;Europe;40;BANKROLL (feat. Luch√®);DrefGold, Luche;ELO;1;166
 Italy;Europe;41;SICKO MODE;Travis Scott;ASTROWORLD;1;312
 Italy;Europe;42;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Italy;Europe;43;16 Marzo (feat. Gow Tribe);Achille Lauro, Gow Tribe;16 Marzo (feat. Gow Tribe);0;233
 Italy;Europe;44;Musica (E Il Resto Scompare);Elettra Lamborghini;Twerking Queen;0;194
-Italy;Europe;45;Ti volevo dedicare (feat. J-AX & Boomdabash);Rocco Hunt, J-AX, Boomdabash;Libert‡;0;208
+Italy;Europe;45;Ti volevo dedicare (feat. J-AX & Boomdabash);Rocco Hunt, J-AX, Boomdabash;Libert√†;0;208
 Italy;Europe;46;ZERO+ZERO (feat. Lazza);DrefGold, Lazza;ELO;1;150
 Italy;Europe;47;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 Italy;Europe;48;Sono un bravo ragazzo un po' fuori di testa;Random;Sono un bravo ragazzo un po' fuori di testa;0;170
@@ -1696,7 +1696,7 @@ Latvia;Europe;44;Skechers;DripReport;Skechers;1;106
 Latvia;Europe;45;Know Your Worth;Khalid, Disclosure;Know Your Worth;0;181
 Latvia;Europe;46;Ride It;Regard;Ride It;0;157
 Latvia;Europe;47;Salt;Ava Max;Salt;0;180
-Latvia;Europe;48;Savage Remix (feat. BeyoncÈ);Megan Thee Stallion, BeyoncÈ;Savage Remix (feat. BeyoncÈ);1;242
+Latvia;Europe;48;Savage Remix (feat. Beyonc√©);Megan Thee Stallion, Beyonc√©;Savage Remix (feat. Beyonc√©);1;242
 Latvia;Europe;49;Lose Somebody;Kygo, OneRepublic;Lose Somebody;0;199
 Latvia;Europe;50;Daisies;Katy Perry;Daisies;0;173
 Lithuania;Europe;1;Blinding Lights;The Weeknd;After Hours;0;200
@@ -1732,7 +1732,7 @@ Lithuania;Europe;30;Say So;Doja Cat;Hot Pink;1;237
 Lithuania;Europe;31;YES;OG Version, Proflame;YES;1;150
 Lithuania;Europe;32;Play Date;Melanie Martinez;Cry Baby (Deluxe Edition);1;179
 Lithuania;Europe;33;Salt;Ava Max;Salt;0;180
-Lithuania;Europe;34;Savage Remix (feat. BeyoncÈ);Megan Thee Stallion, BeyoncÈ;Savage Remix (feat. BeyoncÈ);1;242
+Lithuania;Europe;34;Savage Remix (feat. Beyonc√©);Megan Thee Stallion, Beyonc√©;Savage Remix (feat. Beyonc√©);1;242
 Lithuania;Europe;35;Adore You;Harry Styles;Fine Line;0;207
 Lithuania;Europe;36;Intentions (feat. Quavo);Justin Bieber, Quavo;Changes;0;212
 Lithuania;Europe;37;Party Girl;StaySolidRocky;Party Girl;0;147
@@ -1772,7 +1772,7 @@ Luxembourg;Europe;20;RITMO (Bad Boys For Life);Black Eyed Peas, J Balvin;RITMO (
 Luxembourg;Europe;21;Godzilla (feat. Juice WRLD);Eminem, Juice WRLD;Music To Be Murdered By;1;210
 Luxembourg;Europe;22;bad guy;Billie Eilish;WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?;0;194
 Luxembourg;Europe;23;Before You Go;Lewis Capaldi;Divinely Uninspired To A Hellish Extent (Extended Edition);0;215
-Luxembourg;Europe;24;Ne reviens pas;Gradur, Heuss L'enfoirÈ;Zone 59;1;188
+Luxembourg;Europe;24;Ne reviens pas;Gradur, Heuss L'enfoir√©;Zone 59;1;188
 Luxembourg;Europe;25;Lose Control;MEDUZA, Becky Hill, Goodboys;Lose Control;0;168
 Luxembourg;Europe;26;Donuts;Gzuz;Gzuz;1;162
 Luxembourg;Europe;27;Circles;Post Malone;Hollywood's Bleeding;0;215
@@ -1781,7 +1781,7 @@ Luxembourg;Europe;29;What If I Told You That I Love You;Ali Gatie;What If I Told
 Luxembourg;Europe;30;You should be sad;Halsey;Manic;1;205
 Luxembourg;Europe;31;Gazozial;Gzuz;Gzuz;1;158
 Luxembourg;Europe;32;Someone You Loved;Lewis Capaldi;Divinely Uninspired To A Hellish Extent;0;182
-Luxembourg;Europe;33;SeÒorita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
+Luxembourg;Europe;33;Se√±orita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
 Luxembourg;Europe;34;Adore You;Harry Styles;Fine Line;0;207
 Luxembourg;Europe;35;Weiss;Samra;Weiss;0;162
 Luxembourg;Europe;36;What A Man Gotta Do;Jonas Brothers;What A Man Gotta Do;0;180
@@ -1795,9 +1795,9 @@ Luxembourg;Europe;43;AMEX BLACK;Joker Bra;AMEX BLACK;1;174
 Luxembourg;Europe;44;Physical;Dua Lipa;Physical;0;193
 Luxembourg;Europe;45;Trampoline (with ZAYN);SHAED, ZAYN;Melt (Deluxe);0;184
 Luxembourg;Europe;46;hot girl bummer;blackbear;hot girl bummer;1;185
-Luxembourg;Europe;47;Baian·;Bakermat;Baian·;0;182
+Luxembourg;Europe;47;Baian√°;Bakermat;Baian√°;0;182
 Luxembourg;Europe;48;Know Your Worth;Khalid, Disclosure;Know Your Worth;0;181
-Luxembourg;Europe;49;Kopfn¸sse;Gzuz;Gzuz;1;152
+Luxembourg;Europe;49;Kopfn√ºsse;Gzuz;Gzuz;1;152
 Luxembourg;Europe;50;Nie erwartet;Gzuz;Gzuz;1;159
 Malaysia;Asia;1;Suasana Di Hari Raya;Anuar & Ellina;Suasana Di Hari Raya;0;195
 Malaysia;Asia;2;Seloka Hari Raya;Uji Rashid, Hail Amir;Siri Bintang Pujaan;0;178
@@ -1854,11 +1854,11 @@ Malta;Europe;2;Last Christmas;Wham!;LAST CHRISTMAS;0;262
 Malta;Europe;3;It's the Most Wonderful Time of the Year;Andy Williams;The Andy Williams Christmas Album;0;151
 Malta;Europe;4;Rockin' Around The Christmas Tree;Brenda Lee;Merry Christmas From Brenda Lee;0;126
 Malta;Europe;5;Jingle Bell Rock;Bobby Helms;The Classic Years: 1956-1962;0;130
-Malta;Europe;6;It's Beginning to Look a Lot like Christmas;Michael BublÈ;Christmas (Deluxe Special Edition);0;207
-Malta;Europe;7;Feliz Navidad;JosÈ Feliciano;My Name Is JosÈ Feliciano;0;182
+Malta;Europe;6;It's Beginning to Look a Lot like Christmas;Michael Bubl√©;Christmas (Deluxe Special Edition);0;207
+Malta;Europe;7;Feliz Navidad;Jos√© Feliciano;My Name Is Jos√© Feliciano;0;182
 Malta;Europe;8;Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet);Frank Sinatra, B. Swanson Quartet;Christmas Songs by Sinatra;0;155
 Malta;Europe;9;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
-Malta;Europe;10;Holly Jolly Christmas;Michael BublÈ;Christmas (Deluxe Special Edition);0;121
+Malta;Europe;10;Holly Jolly Christmas;Michael Bubl√©;Christmas (Deluxe Special Edition);0;121
 Malta;Europe;11;Do They Know It's Christmas? - 1984 Version;Band Aid;Do They Know It's Christmas?;0;222
 Malta;Europe;12;Santa Tell Me;Ariana Grande;Santa Tell Me;0;204
 Malta;Europe;13;Happy Xmas (War Is Over) - Remastered;John Lennon, The Harlem Community Choir, The Plastic Ono Band, Yoko Ono;Power To The People - The Hits;0;213
@@ -1870,7 +1870,7 @@ Malta;Europe;18;A Holly Jolly Christmas - Single Version;Burl Ives;Christmas Eve
 Malta;Europe;19;Wonderful Christmastime - Edited Version / Remastered 2011;Paul McCartney;McCartney II;0;227
 Malta;Europe;20;White Christmas;Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra;Holiday Inn (Original Motion Picture Soundtrack);0;177
 Malta;Europe;21;Mistletoe;Justin Bieber;Under The Mistletoe (Deluxe Edition);0;182
-Malta;Europe;22;Santa Claus Is Coming to Town;Michael BublÈ;Christmas (Deluxe Special Edition);0;171
+Malta;Europe;22;Santa Claus Is Coming to Town;Michael Bubl√©;Christmas (Deluxe Special Edition);0;171
 Malta;Europe;23;Merry Christmas Everyone;Shakin' Stevens;The Hits Of Shakin' Stevens Vol II;0;223
 Malta;Europe;24;Blue Christmas;Elvis Presley;Elvis' Christmas Album;0;129
 Malta;Europe;25;Let It Snow! Let It Snow! Let It Snow!;Dean Martin;A Winter Romance;0;117
@@ -1886,16 +1886,16 @@ Malta;Europe;34;Have Yourself A Merry Little Christmas;Sam Smith;Have Yourself A
 Malta;Europe;35;My Only Wish (This Year);Britney Spears;Caroling at Christmas;0;255
 Malta;Europe;36;Run Rudolph Run - Single Version;Chuck Berry;Rock 'N' Roll Rarities;0;165
 Malta;Europe;37;I Saw Mommy Kissing Santa Claus;The Jackson 5;Christmas Album;0;181
-Malta;Europe;38;I'll Be Home for Christmas;Michael BublÈ;Christmas (Deluxe Special Edition);0;267
+Malta;Europe;38;I'll Be Home for Christmas;Michael Bubl√©;Christmas (Deluxe Special Edition);0;267
 Malta;Europe;39;Winter Wonderland;Tony Bennett;Snowfall - The Tony Bennett Christmas Album;0;133
 Malta;Europe;40;Fairytale of New York (feat. Kirsty MacColl);The Pogues, Kirsty MacColl;If I Should Fall From Grace With God (Expanded);0;272
 Malta;Europe;41;One More Sleep;Leona Lewis;Christmas, With Love;0;239
 Malta;Europe;42;Baby, It's Cold Outside;Dean Martin;A Winter Romance;0;143
 Malta;Europe;43;Circles;Post Malone;Hollywood's Bleeding;0;215
 Malta;Europe;44;Mistletoe And Holly - Remastered 1999;Frank Sinatra;A Jolly Christmas From Frank Sinatra;0;136
-Malta;Europe;45;Happy Xmas (War Is Over);CÈline Dion;These Are Special Times;0;254
+Malta;Europe;45;Happy Xmas (War Is Over);C√©line Dion;These Are Special Times;0;254
 Malta;Europe;46;Santa Baby;Ariana Grande, Liz Gillies;Christmas Kisses;0;170
-Malta;Europe;47;Santa Baby (with Henri RenÈ & His Orchestra);Eartha Kitt, Henri Rene & His Orchestra;Heavenly Eartha;0;206
+Malta;Europe;47;Santa Baby (with Henri Ren√© & His Orchestra);Eartha Kitt, Henri Rene & His Orchestra;Heavenly Eartha;0;206
 Malta;Europe;48;Blinding Lights;The Weeknd;After Hours;0;200
 Malta;Europe;49;Joy To The World;Nat King Cole;The Christmas Song (Expanded Edition);0;84
 Malta;Europe;50;Don't Start Now;Dua Lipa;Don't Start Now;0;183
@@ -1904,26 +1904,26 @@ Mexico;North America;2;Yo Perreo Sola;Bad Bunny;YHLQMDLG;0;172
 Mexico;North America;3;Blinding Lights;The Weeknd;After Hours;0;200
 Mexico;North America;4;Rojo;J Balvin;Colores;0;150
 Mexico;North America;5;Favorito;Camilo;Por Primera Vez;0;209
-Mexico;North America;6;Jangueo;Alex Rose, Rafa Pabˆn;LOST;0;259
+Mexico;North America;6;Jangueo;Alex Rose, Rafa Pab√∂n;LOST;0;259
 Mexico;North America;7;Morado;J Balvin;Colores;0;200
 Mexico;North America;8;Azul;J Balvin;Colores;0;205
 Mexico;North America;9;Tattoo;Rauw Alejandro;Tattoo;0;202
 Mexico;North America;10;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
-Mexico;North America;11;Si Veo a Tu Mam·;Bad Bunny;YHLQMDLG;0;170
-Mexico;North America;12;QuÈ MaldiciÛn;Banda MS de Sergio Liz·rraga, Snoop Dogg;QuÈ MaldiciÛn;0;203
+Mexico;North America;11;Si Veo a Tu Mam√°;Bad Bunny;YHLQMDLG;0;170
+Mexico;North America;12;Qu√© Maldici√≥n;Banda MS de Sergio Liz√°rraga, Snoop Dogg;Qu√© Maldici√≥n;0;203
 Mexico;North America;13;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
-Mexico;North America;14;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
-Mexico;North America;15;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
+Mexico;North America;14;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
+Mexico;North America;15;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
 Mexico;North America;16;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 Mexico;North America;17;El Efecto;Rauw Alejandro, Chencho Corleone;El Efecto;0;217
 Mexico;North America;18;Ignorantes;Bad Bunny, Sech;YHLQMDLG;1;210
 Mexico;North America;19;PA' ROMPERLA;Bad Bunny, Don Omar;LAS QUE NO IBAN A SALIR;1;194
 Mexico;North America;20;Amarillo;J Balvin;Colores;0;157
 Mexico;North America;21;Diosa;Myke Towers;Easy Money Baby;1;214
-Mexico;North America;22;Sigues Con El;DÌmelo Flow, Arcangel, Sech;Sigues Con El;0;226
-Mexico;North America;23;Se Me OlvidÛ;Christian Nodal;Se Me OlvidÛ;0;159
+Mexico;North America;22;Sigues Con El;D√≠melo Flow, Arcangel, Sech;Sigues Con El;0;226
+Mexico;North America;23;Se Me Olvid√≥;Christian Nodal;Se Me Olvid√≥;0;159
 Mexico;North America;24;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
-Mexico;North America;25;Hola - Remix;Dalex, Lenny Tav·rez, Chencho Corleone, Juhn, DÌmelo Flow;Hola (Remix);0;249
+Mexico;North America;25;Hola - Remix;Dalex, Lenny Tav√°rez, Chencho Corleone, Juhn, D√≠melo Flow;Hola (Remix);0;249
 Mexico;North America;26;Break My Heart;Dua Lipa;Future Nostalgia;0;221
 Mexico;North America;27;BYE ME FUI;Bad Bunny;LAS QUE NO IBAN A SALIR;1;178
 Mexico;North America;28;La Santa;Bad Bunny, Daddy Yankee;YHLQMDLG;1;206
@@ -1933,7 +1933,7 @@ Mexico;North America;31;Arriba;Natanael Cano;Arriba;1;174
 Mexico;North America;32;No Me Conoce - Remix;Jhay Cortez, J Balvin, Bad Bunny;Famouz;0;309
 Mexico;North America;33;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
 Mexico;North America;34;Pa' Olvidarme De Ella;Piso 21, Christian Nodal;Pa' Olvidarme De Ella;1;227
-Mexico;North America;35;LA CANCI”N;J Balvin, Bad Bunny;OASIS;0;242
+Mexico;North America;35;LA CANCI√ìN;J Balvin, Bad Bunny;OASIS;0;242
 Mexico;North America;36;Vete;Bad Bunny;YHLQMDLG;1;192
 Mexico;North America;37;A Tu Merced;Bad Bunny;YHLQMDLG;0;175
 Mexico;North America;38;Negro;J Balvin;Colores;0;182
@@ -1942,12 +1942,12 @@ Mexico;North America;40;ily (i love you baby) (feat. Emilee);Surf Mesa, Emilee;i
 Mexico;North America;41;Me La Avente;Carin Leon;El Malo;0;155
 Mexico;North America;42;Say So;Doja Cat;Hot Pink;1;237
 Mexico;North America;43;AYAYAY!;Christian Nodal;AYAYAY!;0;130
-Mexico;North America;44;CANCI”N CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
+Mexico;North America;44;CANCI√ìN CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
 Mexico;North America;45;Callaita;Bad Bunny, Tainy;Callaita;1;250
-Mexico;North America;46;Yo Ya No Vuelvo Contigo - En Vivo;Lenin RamÌrez, Grupo Firme;En Vivo Desde Mi Ranchito;0;240
+Mexico;North America;46;Yo Ya No Vuelvo Contigo - En Vivo;Lenin Ram√≠rez, Grupo Firme;En Vivo Desde Mi Ranchito;0;240
 Mexico;North America;47;Amor Tumbado;Natanael Cano;Mi Nuevo Yo;0;221
 Mexico;North America;48;Blanco;J Balvin;Colores;0;145
-Mexico;North America;49;C”MO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C”MO SE SIENTE (Remix);1;227
+Mexico;North America;49;C√ìMO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C√ìMO SE SIENTE (Remix);1;227
 Mexico;North America;50;Supalonely;BENEE, Gus Dapperton;STELLA & STEVE;1;223
 Netherlands;Europe;1;Gordelweg;Kevin;Gordelweg;1;155
 Netherlands;Europe;2;ROCKSTAR (feat. Roddy Ricch);DaBaby, Roddy Ricch;BLAME IT ON BABY;1;181
@@ -2014,7 +2014,7 @@ New Zealand;Australia;12;Intentions (feat. Quavo);Justin Bieber, Quavo;Changes;0
 New Zealand;Australia;13;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 New Zealand;Australia;14;Sunday Best;Surfaces;Where the Light Is;0;158
 New Zealand;Australia;15;The Box;Roddy Ricch;Please Excuse Me For Being Antisocial;1;196
-New Zealand;Australia;16;Savage Remix (feat. BeyoncÈ);Megan Thee Stallion, BeyoncÈ;Savage Remix (feat. BeyoncÈ);1;242
+New Zealand;Australia;16;Savage Remix (feat. Beyonc√©);Megan Thee Stallion, Beyonc√©;Savage Remix (feat. Beyonc√©);1;242
 New Zealand;Australia;17;Go Crazy;Chris Brown, Young Thug;Slime & B;1;176
 New Zealand;Australia;18;Long Gone;SIX60;SIX60;1;178
 New Zealand;Australia;19;GOOBA;6ix9ine;GOOBA;1;132
@@ -2053,48 +2053,48 @@ Nicaragua;North America;1;Safaera;Bad Bunny, Jowell & Randy, Nengo Flow;YHLQMDLG
 Nicaragua;North America;2;Yo Perreo Sola;Bad Bunny;YHLQMDLG;0;172
 Nicaragua;North America;3;Rojo;J Balvin;Colores;0;150
 Nicaragua;North America;4;Tattoo;Rauw Alejandro;Tattoo;0;202
-Nicaragua;North America;5;Si Veo a Tu Mam·;Bad Bunny;YHLQMDLG;0;170
+Nicaragua;North America;5;Si Veo a Tu Mam√°;Bad Bunny;YHLQMDLG;0;170
 Nicaragua;North America;6;Favorito;Camilo;Por Primera Vez;0;209
 Nicaragua;North America;7;Blinding Lights;The Weeknd;After Hours;0;200
 Nicaragua;North America;8;Ignorantes;Bad Bunny, Sech;YHLQMDLG;1;210
 Nicaragua;North America;9;Diosa;Myke Towers;Easy Money Baby;1;214
 Nicaragua;North America;10;BYE ME FUI;Bad Bunny;LAS QUE NO IBAN A SALIR;1;178
 Nicaragua;North America;11;A Tu Merced;Bad Bunny;YHLQMDLG;0;175
-Nicaragua;North America;12;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
+Nicaragua;North America;12;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
 Nicaragua;North America;13;La Santa;Bad Bunny, Daddy Yankee;YHLQMDLG;1;206
 Nicaragua;North America;14;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
-Nicaragua;North America;15;C”MO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C”MO SE SIENTE (Remix);1;227
+Nicaragua;North America;15;C√ìMO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C√ìMO SE SIENTE (Remix);1;227
 Nicaragua;North America;16;Vete;Bad Bunny;YHLQMDLG;1;192
 Nicaragua;North America;17;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
-Nicaragua;North America;18;LA CANCI”N;J Balvin, Bad Bunny;OASIS;0;242
+Nicaragua;North America;18;LA CANCI√ìN;J Balvin, Bad Bunny;OASIS;0;242
 Nicaragua;North America;19;Fantasias;Rauw Alejandro, Farruko;Fantasias;0;199
-Nicaragua;North America;20;CANCI”N CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
+Nicaragua;North America;20;CANCI√ìN CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
 Nicaragua;North America;21;Amarillo;J Balvin;Colores;0;157
 Nicaragua;North America;22;No Me Conoce - Remix;Jhay Cortez, J Balvin, Bad Bunny;Famouz;0;309
 Nicaragua;North America;23;PA' ROMPERLA;Bad Bunny, Don Omar;LAS QUE NO IBAN A SALIR;1;194
 Nicaragua;North America;24;Pa' Olvidarme De Ella;Piso 21, Christian Nodal;Pa' Olvidarme De Ella;1;227
-Nicaragua;North America;25;Sigues Con El;DÌmelo Flow, Arcangel, Sech;Sigues Con El;0;226
+Nicaragua;North America;25;Sigues Con El;D√≠melo Flow, Arcangel, Sech;Sigues Con El;0;226
 Nicaragua;North America;26;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
-Nicaragua;North America;27;Hola - Remix;Dalex, Lenny Tav·rez, Chencho Corleone, Juhn, DÌmelo Flow;Hola (Remix);0;249
+Nicaragua;North America;27;Hola - Remix;Dalex, Lenny Tav√°rez, Chencho Corleone, Juhn, D√≠melo Flow;Hola (Remix);0;249
 Nicaragua;North America;28;Morado;J Balvin;Colores;0;200
 Nicaragua;North America;29;Callaita;Bad Bunny, Tainy;Callaita;1;250
 Nicaragua;North America;30;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 Nicaragua;North America;31;BAD CON NICKY;Bad Bunny, Nicky Jam;LAS QUE NO IBAN A SALIR;1;202
-Nicaragua;North America;32;M¡S DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
+Nicaragua;North America;32;M√ÅS DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
 Nicaragua;North America;33;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
-Nicaragua;North America;34;Jangueo;Alex Rose, Rafa Pabˆn;LOST;0;259
+Nicaragua;North America;34;Jangueo;Alex Rose, Rafa Pab√∂n;LOST;0;259
 Nicaragua;North America;35;Djadja;Aya Nakamura;NAKAMURA;0;171
 Nicaragua;North America;36;China;Anuel AA, Daddy Yankee, KAROL G, J Balvin, Ozuna;China;0;301
 Nicaragua;North America;37;Medusa;Jhay Cortez, Anuel AA, J Balvin;Medusa;1;305
 Nicaragua;North America;38;BENDICIONES;Bad Bunny;LAS QUE NO IBAN A SALIR;0;155
-Nicaragua;North America;39;Bellaquita - Remix;Dalex, Lenny Tav·rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo AviÛn;1;304
-Nicaragua;North America;40;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
+Nicaragua;North America;39;Bellaquita - Remix;Dalex, Lenny Tav√°rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo Avi√≥n;1;304
+Nicaragua;North America;40;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
 Nicaragua;North America;41;RITMO (Bad Boys For Life);Black Eyed Peas, J Balvin;RITMO (Bad Boys For Life);1;221
 Nicaragua;North America;42;Pero Ya No;Bad Bunny;YHLQMDLG;0;160
 Nicaragua;North America;43;Bajo La Mesa;Morat, Sebastian Yatra;Bajo La Mesa;0;157
 Nicaragua;North America;44;Girl;Myke Towers;Easy Money Baby;1;186
 Nicaragua;North America;45;Bichiyal;Bad Bunny, Yaviah;YHLQMDLG;1;196
-Nicaragua;North America;46;Tutu;Camilo, Pedro CapÛ;Por Primera Vez;0;179
+Nicaragua;North America;46;Tutu;Camilo, Pedro Cap√≥;Por Primera Vez;0;179
 Nicaragua;North America;47;Por Primera Vez;Camilo, Evaluna Montaner;Por Primera Vez;0;182
 Nicaragua;North America;48;Azul;J Balvin;Colores;0;205
 Nicaragua;North America;49;Daechwita;Agust D;D-2;1;225
@@ -2108,8 +2108,8 @@ Norway;Europe;6;In Your Eyes;The Weeknd;After Hours;1;237
 Norway;Europe;7;GOOBA;6ix9ine;GOOBA;1;132
 Norway;Europe;8;Lose Somebody;Kygo, OneRepublic;Lose Somebody;0;199
 Norway;Europe;9;Karantene;TIX;Karantene;0;132
-Norway;Europe;10;SK≈L;TIX;SK≈L;1;130
-Norway;Europe;11;Kaller PÂ Deg;TIX;Kaller PÂ Deg;0;201
+Norway;Europe;10;SK√ÖL;TIX;SK√ÖL;1;130
+Norway;Europe;11;Kaller P√• Deg;TIX;Kaller P√• Deg;0;201
 Norway;Europe;12;Stuck with U (with Justin Bieber);Ariana Grande, Justin Bieber;Stuck with U;0;228
 Norway;Europe;13;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Norway;Europe;14;Somebody;Dagny;Somebody;0;194
@@ -2117,7 +2117,7 @@ Norway;Europe;15;THE SCOTTS;THE SCOTTS, Travis Scott, Kid Cudi;THE SCOTTS;1;165
 Norway;Europe;16;Kings & Queens;Ava Max;Kings & Queens;0;162
 Norway;Europe;17;Dommedagen 2020;TIX, Soppgirobygget;Dommedagen 2020;1;170
 Norway;Europe;18;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
-Norway;Europe;19;Hvis verden;Chris Holsten, Frida ≈nnevik;Hvis verden;0;223
+Norway;Europe;19;Hvis verden;Chris Holsten, Frida √Önnevik;Hvis verden;0;223
 Norway;Europe;20;End of Time;K-391, Alan Walker, Ahrix;End of Time;0;187
 Norway;Europe;21;Salt;Ava Max;Salt;0;180
 Norway;Europe;22;Toosie Slide;Drake;Dark Lane Demo Tapes;1;247
@@ -2143,19 +2143,19 @@ Norway;Europe;41;Haugenstua;Herman Flesvig;Haugenstua;1;149
 Norway;Europe;42;Valhalla;Ringnes-Ronny;Valhalla;0;184
 Norway;Europe;43;Be Kind (with Halsey);Marshmello, Halsey;Be Kind (with Halsey);0;172
 Norway;Europe;44;In Your Eyes (feat. Alida);Robin Schulz, Alida;In Your Eyes (feat. Alida);0;208
-Norway;Europe;45;JÊvlig;TIX;JÊvlig;1;137
+Norway;Europe;45;J√¶vlig;TIX;J√¶vlig;1;137
 Norway;Europe;46;WHATS POPPIN;Jack Harlow;Sweet Action;1;139
 Norway;Europe;47;Josefine;Herman Flesvig;Josefine;0;170
-Norway;Europe;48;Vi tar det igjen neste Âr;Kuselofte, Postgirobygget;Vi tar det igjen neste Âr;0;180
+Norway;Europe;48;Vi tar det igjen neste √•r;Kuselofte, Postgirobygget;Vi tar det igjen neste √•r;0;180
 Norway;Europe;49;The Box;Roddy Ricch;Please Excuse Me For Being Antisocial;1;196
 Norway;Europe;50;Unfamiliar;Seeb, Goodboys, HRVY;Unfamiliar;0;174
-Panama;North America;1;RelaciÛn;Sech;1 of 1;0;184
-Panama;North America;2;ConfÌa;Sech, Daddy Yankee;1 of 1;0;202
+Panama;North America;1;Relaci√≥n;Sech;1 of 1;0;184
+Panama;North America;2;Conf√≠a;Sech, Daddy Yankee;1 of 1;0;202
 Panama;North America;3;Rojo;J Balvin;Colores;0;150
 Panama;North America;4;Safaera;Bad Bunny, Jowell & Randy, Nengo Flow;YHLQMDLG;1;295
 Panama;North America;5;Bentley;Sech, Myke Towers;1 of 1;1;188
 Panama;North America;6;Yo Perreo Sola;Bad Bunny;YHLQMDLG;0;172
-Panama;North America;7;Me OlvidÈ;Sech;1 of 1;0;157
+Panama;North America;7;Me Olvid√©;Sech;1 of 1;0;157
 Panama;North America;8;Ignorantes;Bad Bunny, Sech;YHLQMDLG;1;210
 Panama;North America;9;Favorito;Camilo;Por Primera Vez;0;209
 Panama;North America;10;Casino;Sech;1 of 1;0;181
@@ -2164,17 +2164,17 @@ Panama;North America;12;BYE ME FUI;Bad Bunny;LAS QUE NO IBAN A SALIR;1;178
 Panama;North America;13;Tattoo;Rauw Alejandro;Tattoo;0;202
 Panama;North America;14;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Panama;North America;15;PORFA;Feid, Justin Quiles;FERXXO (VOL 1: M.O.R);0;232
-Panama;North America;16;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
+Panama;North America;16;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
 Panama;North America;17;Oficial;Sech, Arcangel, Gigolo Y La Exce;1 of 1;1;197
 Panama;North America;18;Si Te Vas;Sech, Ozuna;1 of 1;0;204
 Panama;North America;19;Party En Mi Casa;Boza;Sonrisas Tristes;0;157
 Panama;North America;20;Se Va Viral;Sech, Nando Boom;1 of 1;0;149
-Panama;North America;21;Hola - Remix;Dalex, Lenny Tav·rez, Chencho Corleone, Juhn, DÌmelo Flow;Hola (Remix);0;249
+Panama;North America;21;Hola - Remix;Dalex, Lenny Tav√°rez, Chencho Corleone, Juhn, D√≠melo Flow;Hola (Remix);0;249
 Panama;North America;22;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
 Panama;North America;23;Trofeo;Sech;1 of 1;0;206
-Panama;North America;24;C”MO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C”MO SE SIENTE (Remix);1;227
-Panama;North America;25;Sigues Con El;DÌmelo Flow, Arcangel, Sech;Sigues Con El;0;226
-Panama;North America;26;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
+Panama;North America;24;C√ìMO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C√ìMO SE SIENTE (Remix);1;227
+Panama;North America;25;Sigues Con El;D√≠melo Flow, Arcangel, Sech;Sigues Con El;0;226
+Panama;North America;26;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
 Panama;North America;27;Sigues Con El - Remix;Arcangel, Sech, Romeo Santos;Sigues Con El (Remix);0;189
 Panama;North America;28;Follow;KAROL G, Anuel AA;Follow;0;203
 Panama;North America;29;Blinding Lights;The Weeknd;After Hours;0;200
@@ -2182,12 +2182,12 @@ Panama;North America;30;Fantasias;Rauw Alejandro, Farruko;Fantasias;0;199
 Panama;North America;31;Vete;Bad Bunny;YHLQMDLG;1;192
 Panama;North America;32;Bajo La Mesa;Morat, Sebastian Yatra;Bajo La Mesa;0;157
 Panama;North America;33;Portarse Mal;Sech;1 of 1;0;186
-Panama;North America;34;Dale;Sech, Lenny Tav·rez;1 of 1;1;162
+Panama;North America;34;Dale;Sech, Lenny Tav√°rez;1 of 1;1;162
 Panama;North America;35;Fe;Sech;1 of 1;1;172
 Panama;North America;36;Amarillo;J Balvin;Colores;0;157
-Panama;North America;37;Si Veo a Tu Mam·;Bad Bunny;YHLQMDLG;0;170
+Panama;North America;37;Si Veo a Tu Mam√°;Bad Bunny;YHLQMDLG;0;170
 Panama;North America;38;Definitivamente;Daddy Yankee, Sech;Definitivamente;0;217
-Panama;North America;39;CANCI”N CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
+Panama;North America;39;CANCI√ìN CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
 Panama;North America;40;Tu y Yo;Sech, Zion & Lennox;1 of 1;1;226
 Panama;North America;41;En Lo Oscuro;Sech;1 of 1;0;141
 Panama;North America;42;La Santa;Bad Bunny, Daddy Yankee;YHLQMDLG;1;206
@@ -2195,14 +2195,14 @@ Panama;North America;43;Por Primera Vez;Camilo, Evaluna Montaner;Por Primera Vez
 Panama;North America;44;Uni;Sech;1 of 1;0;149
 Panama;North America;45;Fabuloso;Sech, Justin Quiles;1 of 1;0;200
 Panama;North America;46;Morado;J Balvin;Colores;0;200
-Panama;North America;47;Mejor;Dalex, Sech;Modo AviÛn;1;201
+Panama;North America;47;Mejor;Dalex, Sech;Modo Avi√≥n;1;201
 Panama;North America;48;Keii;Anuel AA;Keii;0;210
 Panama;North America;49;Arriba;Sech, Farruko;1 of 1;1;190
 Panama;North America;50;PA' ROMPERLA;Bad Bunny, Don Omar;LAS QUE NO IBAN A SALIR;1;194
 Paraguay;South America;1;Rojo;J Balvin;Colores;0;150
-Paraguay;South America;2;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
-Paraguay;South America;3;CANCI”N CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
-Paraguay;South America;4;Inolvidable;Ovy On The Drums, BeÈle;Inolvidable;0;225
+Paraguay;South America;2;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
+Paraguay;South America;3;CANCI√ìN CON YANDEL;Yandel, Bad Bunny;LAS QUE NO IBAN A SALIR;1;209
+Paraguay;South America;4;Inolvidable;Ovy On The Drums, Be√©le;Inolvidable;0;225
 Paraguay;South America;5;PORFA;Feid, Justin Quiles;FERXXO (VOL 1: M.O.R);0;232
 Paraguay;South America;6;Tattoo;Rauw Alejandro;Tattoo;0;202
 Paraguay;South America;7;Ignorantes;Bad Bunny, Sech;YHLQMDLG;1;210
@@ -2211,40 +2211,40 @@ Paraguay;South America;9;Yo Perreo Sola;Bad Bunny;YHLQMDLG;0;172
 Paraguay;South America;10;BYE ME FUI;Bad Bunny;LAS QUE NO IBAN A SALIR;1;178
 Paraguay;South America;11;Diosa;Myke Towers;Easy Money Baby;1;214
 Paraguay;South America;12;Favorito;Camilo;Por Primera Vez;0;209
-Paraguay;South America;13;Hola - Remix;Dalex, Lenny Tav·rez, Chencho Corleone, Juhn, DÌmelo Flow;Hola (Remix);0;249
-Paraguay;South America;14;RelaciÛn;Sech;1 of 1;0;184
-Paraguay;South America;15;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
-Paraguay;South America;16;Sigues Con El;DÌmelo Flow, Arcangel, Sech;Sigues Con El;0;226
-Paraguay;South America;17;Si Veo a Tu Mam·;Bad Bunny;YHLQMDLG;0;170
-Paraguay;South America;18;Mejor;Dalex, Sech;Modo AviÛn;1;201
-Paraguay;South America;19;Bellaquita - Remix;Dalex, Lenny Tav·rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo AviÛn;1;304
+Paraguay;South America;13;Hola - Remix;Dalex, Lenny Tav√°rez, Chencho Corleone, Juhn, D√≠melo Flow;Hola (Remix);0;249
+Paraguay;South America;14;Relaci√≥n;Sech;1 of 1;0;184
+Paraguay;South America;15;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
+Paraguay;South America;16;Sigues Con El;D√≠melo Flow, Arcangel, Sech;Sigues Con El;0;226
+Paraguay;South America;17;Si Veo a Tu Mam√°;Bad Bunny;YHLQMDLG;0;170
+Paraguay;South America;18;Mejor;Dalex, Sech;Modo Avi√≥n;1;201
+Paraguay;South America;19;Bellaquita - Remix;Dalex, Lenny Tav√°rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo Avi√≥n;1;304
 Paraguay;South America;20;Skechers;DripReport;Skechers;1;106
 Paraguay;South America;21;El Efecto - Remix;Rauw Alejandro, Chencho Corleone, KEVVO, Bryant Myers, Lyanno, Dalex;El Efecto (Remix);1;289
 Paraguay;South America;22;Sigues Con El - Remix;Arcangel, Sech, Romeo Santos;Sigues Con El (Remix);0;189
-Paraguay;South America;23;C”MO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C”MO SE SIENTE (Remix);1;227
-Paraguay;South America;24;Jangueo;Alex Rose, Rafa Pabˆn;LOST;0;259
-Paraguay;South America;25;M¡S DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
+Paraguay;South America;23;C√ìMO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C√ìMO SE SIENTE (Remix);1;227
+Paraguay;South America;24;Jangueo;Alex Rose, Rafa Pab√∂n;LOST;0;259
+Paraguay;South America;25;M√ÅS DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
 Paraguay;South America;26;Locura;Cali Y El Dandee, Sebastian Yatra;Colegio;0;209
 Paraguay;South America;27;Fantasias;Rauw Alejandro, Farruko;Fantasias;0;199
 Paraguay;South America;28;Follow;KAROL G, Anuel AA;Follow;0;203
 Paraguay;South America;29;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
-Paraguay;South America;30;QuiÈreme Mientras Se Pueda;Manuel Turizo;QuiÈreme Mientras Se Pueda;0;191
+Paraguay;South America;30;Qui√©reme Mientras Se Pueda;Manuel Turizo;Qui√©reme Mientras Se Pueda;0;191
 Paraguay;South America;31;Vete;Bad Bunny;YHLQMDLG;1;192
 Paraguay;South America;32;Blinding Lights;The Weeknd;After Hours;0;200
 Paraguay;South America;33;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
 Paraguay;South America;34;Amarillo;J Balvin;Colores;0;157
-Paraguay;South America;35;Loco - Remix;Farruko, BeÈle, Natti Natasha, Manuel Turizo;Loco (Remix);0;248
+Paraguay;South America;35;Loco - Remix;Farruko, Be√©le, Natti Natasha, Manuel Turizo;Loco (Remix);0;248
 Paraguay;South America;36;Keii;Anuel AA;Keii;0;210
 Paraguay;South America;37;Girl;Myke Towers;Easy Money Baby;1;186
 Paraguay;South America;38;Morado;J Balvin;Colores;0;200
 Paraguay;South America;39;La Santa;Bad Bunny, Daddy Yankee;YHLQMDLG;1;206
 Paraguay;South America;40;Bajo La Mesa;Morat, Sebastian Yatra;Bajo La Mesa;0;157
-Paraguay;South America;41;Quizas;Rich Music LTD, Sech, Dalex, Justin Quiles, Lenny Tav·rez, Feid, Wisin, Zion;The Academy;1;216
+Paraguay;South America;41;Quizas;Rich Music LTD, Sech, Dalex, Justin Quiles, Lenny Tav√°rez, Feid, Wisin, Zion;The Academy;1;216
 Paraguay;South America;42;Adicto (with Anuel AA & Ozuna);Tainy, Anuel AA, Ozuna;Adicto (with Anuel AA & Ozuna);0;270
 Paraguay;South America;43;Mi Error - Remix;Eladio Carrion, Zion & Lennox, Wisin & Yandel, Lunay;Sauce Boyz;1;315
 Paraguay;South America;44;BAD CON NICKY;Bad Bunny, Nicky Jam;LAS QUE NO IBAN A SALIR;1;202
 Paraguay;South America;45;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
-Paraguay;South America;46;LA CANCI”N;J Balvin, Bad Bunny;OASIS;0;242
+Paraguay;South America;46;LA CANCI√ìN;J Balvin, Bad Bunny;OASIS;0;242
 Paraguay;South America;47;Por Primera Vez;Camilo, Evaluna Montaner;Por Primera Vez;0;182
 Paraguay;South America;48;PA' ROMPERLA;Bad Bunny, Don Omar;LAS QUE NO IBAN A SALIR;1;194
 Paraguay;South America;49;La Cama - Remix;Lunay, Myke Towers, Ozuna, Chencho Corleone, Rauw Alejandro;La Cama (Remix);0;330
@@ -2252,16 +2252,16 @@ Paraguay;South America;50;Pa' Olvidarme De Ella;Piso 21, Christian Nodal;Pa' Olv
 Peru;South America;1;Favorito;Camilo;Por Primera Vez;0;209
 Peru;South America;2;Safaera;Bad Bunny, Jowell & Randy, Nengo Flow;YHLQMDLG;1;295
 Peru;South America;3;Yo Perreo Sola;Bad Bunny;YHLQMDLG;0;172
-Peru;South America;4;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
+Peru;South America;4;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
 Peru;South America;5;Tattoo;Rauw Alejandro;Tattoo;0;202
 Peru;South America;6;Por Primera Vez;Camilo, Evaluna Montaner;Por Primera Vez;0;182
 Peru;South America;7;Blinding Lights;The Weeknd;After Hours;0;200
-Peru;South America;8;Hola - Remix;Dalex, Lenny Tav·rez, Chencho Corleone, Juhn, DÌmelo Flow;Hola (Remix);0;249
+Peru;South America;8;Hola - Remix;Dalex, Lenny Tav√°rez, Chencho Corleone, Juhn, D√≠melo Flow;Hola (Remix);0;249
 Peru;South America;9;PORFA;Feid, Justin Quiles;FERXXO (VOL 1: M.O.R);0;232
 Peru;South America;10;Diosa;Myke Towers;Easy Money Baby;1;214
 Peru;South America;11;El Efecto - Remix;Rauw Alejandro, Chencho Corleone, KEVVO, Bryant Myers, Lyanno, Dalex;El Efecto (Remix);1;289
 Peru;South America;12;Rojo;J Balvin;Colores;0;150
-Peru;South America;13;RelaciÛn;Sech;1 of 1;0;184
+Peru;South America;13;Relaci√≥n;Sech;1 of 1;0;184
 Peru;South America;14;Locura;Cali Y El Dandee, Sebastian Yatra;Colegio;0;209
 Peru;South America;15;Djadja;Aya Nakamura;NAKAMURA;0;171
 Peru;South America;16;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
@@ -2270,34 +2270,34 @@ Peru;South America;18;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 Peru;South America;19;Bajo La Mesa;Morat, Sebastian Yatra;Bajo La Mesa;0;157
 Peru;South America;20;Morado;J Balvin;Colores;0;200
 Peru;South America;21;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
-Peru;South America;22;Sigues Con El;DÌmelo Flow, Arcangel, Sech;Sigues Con El;0;226
-Peru;South America;23;Si Veo a Tu Mam·;Bad Bunny;YHLQMDLG;0;170
+Peru;South America;22;Sigues Con El;D√≠melo Flow, Arcangel, Sech;Sigues Con El;0;226
+Peru;South America;23;Si Veo a Tu Mam√°;Bad Bunny;YHLQMDLG;0;170
 Peru;South America;24;Fantasias;Rauw Alejandro, Farruko;Fantasias;0;199
-Peru;South America;25;Jangueo;Alex Rose, Rafa Pabˆn;LOST;0;259
-Peru;South America;26;Bellaquita - Remix;Dalex, Lenny Tav·rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo AviÛn;1;304
+Peru;South America;25;Jangueo;Alex Rose, Rafa Pab√∂n;LOST;0;259
+Peru;South America;26;Bellaquita - Remix;Dalex, Lenny Tav√°rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo Avi√≥n;1;304
 Peru;South America;27;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 Peru;South America;28;Ignorantes;Bad Bunny, Sech;YHLQMDLG;1;210
-Peru;South America;29;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
+Peru;South America;29;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
 Peru;South America;30;Amarillo;J Balvin;Colores;0;157
 Peru;South America;31;BYE ME FUI;Bad Bunny;LAS QUE NO IBAN A SALIR;1;178
-Peru;South America;32;Si Me Dices Que SÌ;Reik, Farruko, Camilo;Si Me Dices Que SÌ;0;211
+Peru;South America;32;Si Me Dices Que S√≠;Reik, Farruko, Camilo;Si Me Dices Que S√≠;0;211
 Peru;South America;33;El Efecto;Rauw Alejandro, Chencho Corleone;El Efecto;0;217
 Peru;South America;34;Los Besos;Greeicy;Los Besos;0;202
-Peru;South America;35;Loco - Remix;Farruko, BeÈle, Natti Natasha, Manuel Turizo;Loco (Remix);0;248
-Peru;South America;36;Tutu;Camilo, Pedro CapÛ;Por Primera Vez;0;179
-Peru;South America;37;Detente;Mike BahÌa, Danny Ocean;Navegando;0;181
-Peru;South America;38;La DifÌcil;Camilo;Por Primera Vez;0;158
+Peru;South America;35;Loco - Remix;Farruko, Be√©le, Natti Natasha, Manuel Turizo;Loco (Remix);0;248
+Peru;South America;36;Tutu;Camilo, Pedro Cap√≥;Por Primera Vez;0;179
+Peru;South America;37;Detente;Mike Bah√≠a, Danny Ocean;Navegando;0;181
+Peru;South America;38;La Dif√≠cil;Camilo;Por Primera Vez;0;158
 Peru;South America;39;Fantasias - Remix;Rauw Alejandro, Anuel AA, Natti Natasha, Farruko, Lunay;Fantasias (Remix) [feat. Farruko & Lunay];0;267
 Peru;South America;40;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Peru;South America;41;BAD CON NICKY;Bad Bunny, Nicky Jam;LAS QUE NO IBAN A SALIR;1;202
 Peru;South America;42;China;Anuel AA, Daddy Yankee, KAROL G, J Balvin, Ozuna;China;0;301
-Peru;South America;43;DJ No Pare (feat. Zion, Dalex, Lenny Tav·rez) - Remix;Justin Quiles, Natti Natasha, Farruko, Dalex, Lenny Tav·rez, Zion;DJ No Pare (feat. Zion, Dalex, Lenny Tav·rez) [Remix];0;258
+Peru;South America;43;DJ No Pare (feat. Zion, Dalex, Lenny Tav√°rez) - Remix;Justin Quiles, Natti Natasha, Farruko, Dalex, Lenny Tav√°rez, Zion;DJ No Pare (feat. Zion, Dalex, Lenny Tav√°rez) [Remix];0;258
 Peru;South America;44;Dream Girl - Remix;Ir Sais, Rauw Alejandro;Dream Girl (Remix);1;192
 Peru;South America;45;Desconocidos;Mau y Ricky, Manuel Turizo, Camilo;Para Aventuras y Curiosidades;1;204
 Peru;South America;46;Girl;Myke Towers;Easy Money Baby;1;186
 Peru;South America;47;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
 Peru;South America;48;Te Vi;Piso 21, Micro TDH;Te Vi;0;231
-Peru;South America;49;QuiÈreme Mientras Se Pueda;Manuel Turizo;QuiÈreme Mientras Se Pueda;0;191
+Peru;South America;49;Qui√©reme Mientras Se Pueda;Manuel Turizo;Qui√©reme Mientras Se Pueda;0;191
 Peru;South America;50;No Me Conoce - Remix;Jhay Cortez, J Balvin, Bad Bunny;Famouz;0;309
 Philippines;Asia;1;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Philippines;Asia;2;Teka Lang;Emman;Teka Lang;0;196
@@ -2318,7 +2318,7 @@ Philippines;Asia;16;Make It With You;Ben&Ben;Make It With You;0;209
 Philippines;Asia;17;Break My Heart;Dua Lipa;Future Nostalgia;0;221
 Philippines;Asia;18;10,000 Hours (with Justin Bieber);Dan + Shay, Justin Bieber;10,000 Hours (with Justin Bieber);0;167
 Philippines;Asia;19;eight(Prod.&Feat. SUGA of BTS);IU, SUGA;eight;0;167
-Philippines;Asia;20;Savage Remix (feat. BeyoncÈ);Megan Thee Stallion, BeyoncÈ;Savage Remix (feat. BeyoncÈ);1;242
+Philippines;Asia;20;Savage Remix (feat. Beyonc√©);Megan Thee Stallion, Beyonc√©;Savage Remix (feat. Beyonc√©);1;242
 Philippines;Asia;21;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 Philippines;Asia;22;Sa Susunod na Habang Buhay;Ben&Ben;Sa Susunod na Habang Buhay;0;288
 Philippines;Asia;23;Circles;Post Malone;Hollywood's Bleeding;0;215
@@ -2356,7 +2356,7 @@ Poland;Europe;4;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On
 Poland;Europe;5;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
 Poland;Europe;6;TOKYO2020;Quebonafide, Taco Hemingway;ROMANTIC PSYCHO;0;193
 Poland;Europe;7;Impreza;Sobel, Lezter;Impreza;1;165
-Poland;Europe;8;Szampan;sanah;KrÛlowa dram;0;200
+Poland;Europe;8;Szampan;sanah;Kr√≥lowa dram;0;200
 Poland;Europe;9;SZUBIENICAPESTYCYDYBRO?;Quebonafide;ROMANTIC PSYCHO;0;231
 Poland;Europe;10;Niedost?pny (prod. by Olek) (feat. DMN);Malik Montana, OLEK, DMN;Niedost?pny (prod. by Olek) (feat. DMN);0;152
 Poland;Europe;11;In Your Eyes;The Weeknd;After Hours;1;237
@@ -2372,26 +2372,26 @@ Poland;Europe;20;Supalonely;BENEE, Gus Dapperton;STELLA & STEVE;1;223
 Poland;Europe;21;100 dni do matury;Mata;100 dni do matury;0;301
 Poland;Europe;22;Stuck with U (with Justin Bieber);Ariana Grande, Justin Bieber;Stuck with U;0;228
 Poland;Europe;23;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
-Poland;Europe;24;Melodia;sanah;KrÛlowa dram;0;183
+Poland;Europe;24;Melodia;sanah;Kr√≥lowa dram;0;183
 Poland;Europe;25;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 Poland;Europe;26;Watermelon Sugar;Harry Styles;Fine Line;0;174
 Poland;Europe;27;Breaking Me;Topic, A7S;Breaking Me;0;166
 Poland;Europe;28;Toosie Slide;Drake;Dark Lane Demo Tapes;1;247
 Poland;Europe;29;Rainman;Tymek, TEDE, Trill Pem, Micha? Graczyk, 2K;FIT;1;225
-Poland;Europe;30;BLUE;TiÎsto, Stevie Appleton;The London Sessions;0;167
+Poland;Europe;30;BLUE;Ti√´sto, Stevie Appleton;The London Sessions;0;167
 Poland;Europe;31;Patointeligencja;Mata;100 dni do matury;0;257
 Poland;Europe;32;Say So;Doja Cat;Hot Pink;1;237
 Poland;Europe;33;Boss Bitch;Doja Cat;Boss Bitch;0;134
 Poland;Europe;34;NIEP?ACZ?PONOTREDAME;Quebonafide, Bedoes;ROMANTIC PSYCHO;0;212
-Poland;Europe;35;VOGUE;Bedoes, Lanek;Opowie?ci z Doliny SmokÛw;0;218
+Poland;Europe;35;VOGUE;Bedoes, Lanek;Opowie?ci z Doliny Smok√≥w;0;218
 Poland;Europe;36;Surfer;Be Vis;duch czasu;1;155
 Poland;Europe;37;Drift;Bialas, Mata, Lanek;H8;0;166
-Poland;Europe;38;W PI?TKI LE?? W WANNIE;Taco Hemingway, Dawid Podsiad?o;POCZT”WKA Z WWA, LATO '19;0;220
-Poland;Europe;39;KrÛlowa dram;sanah;KrÛlowa dram;0;185
+Poland;Europe;38;W PI?TKI LE?? W WANNIE;Taco Hemingway, Dawid Podsiad?o;POCZT√ìWKA Z WWA, LATO '19;0;220
+Poland;Europe;39;Kr√≥lowa dram;sanah;Kr√≥lowa dram;0;185
 Poland;Europe;40;J?zyk cia?a;Tymek, Big Scythe;Klubowe;1;201
 Poland;Europe;41;GOMBAO 33;Mata, Wygu?, Szczepan, Adam;100 dni do matury;0;340
 Poland;Europe;42;ASPARTAM;Quebonafide, Mata;ROMANTIC PSYCHO;0;204
-Poland;Europe;43;GAZPROM;Quebonafide, SokÛ?, Czarny HIFI;ROMANTIC PSYCHO;0;194
+Poland;Europe;43;GAZPROM;Quebonafide, Sok√≥?, Czarny HIFI;ROMANTIC PSYCHO;0;194
 Poland;Europe;44;Kings & Queens;Ava Max;Kings & Queens;0;162
 Poland;Europe;45;Play Date;Melanie Martinez;Cry Baby (Deluxe Edition);1;179
 Poland;Europe;46;Daechwita;Agust D;D-2;1;225
@@ -2404,7 +2404,7 @@ Portugal;Europe;2;Blinding Lights;The Weeknd;After Hours;0;200
 Portugal;Europe;3;THE SCOTTS;THE SCOTTS, Travis Scott, Kid Cudi;THE SCOTTS;1;165
 Portugal;Europe;4;ROCKSTAR (feat. Roddy Ricch);DaBaby, Roddy Ricch;BLAME IT ON BABY;1;181
 Portugal;Europe;5;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
-Portugal;Europe;6;Tempo (feat. TÛy TÛy T-Rex, LON3R JOHNY & BISPO);FRANKIEONTHEGUITAR, TÛy TÛy T-Rex, LON3R JOHNY, Bispo;Tempo (feat. TÛy TÛy T-Rex, LON3R JOHNY & BISPO);0;250
+Portugal;Europe;6;Tempo (feat. T√≥y T√≥y T-Rex, LON3R JOHNY & BISPO);FRANKIEONTHEGUITAR, T√≥y T√≥y T-Rex, LON3R JOHNY, Bispo;Tempo (feat. T√≥y T√≥y T-Rex, LON3R JOHNY & BISPO);0;250
 Portugal;Europe;7;Tudo no Sigilo;Vytinho NG, MC Bianca;Tudo no Sigilo;1;156
 Portugal;Europe;8;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
 Portugal;Europe;9;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
@@ -2412,12 +2412,12 @@ Portugal;Europe;10;La Bella Mafia;Wet Bed Gang;La Bella Mafia;1;240
 Portugal;Europe;11;The Box;Roddy Ricch;Please Excuse Me For Being Antisocial;1;196
 Portugal;Europe;12;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Portugal;Europe;13;Blueberry Faygo;Lil Mosey;Certified Hitmaker;1;162
-Portugal;Europe;14;Conclus„o;Julinho Ksd;Conclus„o;0;147
+Portugal;Europe;14;Conclus√£o;Julinho Ksd;Conclus√£o;0;147
 Portugal;Europe;15;Life Is Good (feat. Drake);Future, Drake;High Off Life;1;237
 Portugal;Europe;16;Lembrei-me;Bispo;Mais Antigo;0;206
 Portugal;Europe;17;Mama Ta Xinti;Julinho Ksd;Mama Ta Xinti;0;181
 Portugal;Europe;18;menina solta;Giulia Be;menina solta;0;150
-Portugal;Europe;19;Somos Iguais;PlutÛnio;SacrifÌcio: Sangue, L·grimas, Suor;0;237
+Portugal;Europe;19;Somos Iguais;Plut√≥nio;Sacrif√≠cio: Sangue, L√°grimas, Suor;0;237
 Portugal;Europe;20;HIGHEST IN THE ROOM;Travis Scott;HIGHEST IN THE ROOM;1;175
 Portugal;Europe;21;Breaking Me;Topic, A7S;Breaking Me;0;166
 Portugal;Europe;22;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
@@ -2429,9 +2429,9 @@ Portugal;Europe;27;Hoji N'ka ta Rola;Julinho Ksd;Hoji N'ka ta Rola;0;236
 Portugal;Europe;28;Stuck with U (with Justin Bieber);Ariana Grande, Justin Bieber;Stuck with U;0;228
 Portugal;Europe;29;GOOBA;6ix9ine;GOOBA;1;132
 Portugal;Europe;30;ROXANNE;Arizona Zervas;ROXANNE;1;163
-Portugal;Europe;31;Eterna Sacanagem;MC JottaPÍ, MC Kekel, MC Kevinho;Eterna Sacanagem;0;168
+Portugal;Europe;31;Eterna Sacanagem;MC JottaP√™, MC Kekel, MC Kevinho;Eterna Sacanagem;0;168
 Portugal;Europe;32;SICKO MODE;Travis Scott;ASTROWORLD;1;312
-Portugal;Europe;33;Tranquilo;Arag„o;Tranquilo;1;263
+Portugal;Europe;33;Tranquilo;Arag√£o;Tranquilo;1;263
 Portugal;Europe;34;ily (i love you baby) (feat. Emilee);Surf Mesa, Emilee;ily (i love you baby) (feat. Emilee);0;176
 Portugal;Europe;35;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 Portugal;Europe;36;Sunday Best;Surfaces;Where the Light Is;0;158
@@ -2527,7 +2527,7 @@ Singapore;Asia;25;Sunday Best;Surfaces;Where the Light Is;0;158
 Singapore;Asia;26;"?????????(???""???""???)";831;"?????????(???""???""???)";0;239
 Singapore;Asia;27;In Your Eyes;The Weeknd;After Hours;1;237
 Singapore;Asia;28;???;Eric Chou;?????? (Deluxe);0;321
-Singapore;Asia;29;SeÒorita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
+Singapore;Asia;29;Se√±orita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
 Singapore;Asia;30;????;Jay Chou, Ashin Chen;????;0;222
 Singapore;Asia;31;THE SCOTTS;THE SCOTTS, Travis Scott, Kid Cudi;THE SCOTTS;1;165
 Singapore;Asia;32;Lose Somebody;Kygo, OneRepublic;Lose Somebody;0;199
@@ -2535,7 +2535,7 @@ Singapore;Asia;33;Falling;Trevor Daniel;Nicotine;0;159
 Singapore;Asia;34;Say So;Doja Cat;Hot Pink;1;237
 Singapore;Asia;35;Daisies;Katy Perry;Daisies;0;173
 Singapore;Asia;36;Suasana Di Hari Raya;Anuar & Ellina;Suasana Di Hari Raya;0;195
-Singapore;Asia;37;Savage Remix (feat. BeyoncÈ);Megan Thee Stallion, BeyoncÈ;Savage Remix (feat. BeyoncÈ);1;242
+Singapore;Asia;37;Savage Remix (feat. Beyonc√©);Megan Thee Stallion, Beyonc√©;Savage Remix (feat. Beyonc√©);1;242
 Singapore;Asia;38;ROXANNE;Arizona Zervas;ROXANNE;1;163
 Singapore;Asia;39;10,000 Hours (with Justin Bieber);Dan + Shay, Justin Bieber;10,000 Hours (with Justin Bieber);0;167
 Singapore;Asia;40;WANNABE;ITZY;IT'z ME;0;191
@@ -2555,7 +2555,7 @@ Slovakia;Europe;3;Blinding Lights;The Weeknd;After Hours;0;200
 Slovakia;Europe;4;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Slovakia;Europe;5;THE SCOTTS;THE SCOTTS, Travis Scott, Kid Cudi;THE SCOTTS;1;165
 Slovakia;Europe;6;Breaking Me;Topic, A7S;Breaking Me;0;166
-Slovakia;Europe;7;Viac;Nerieö, Separ;OK;1;212
+Slovakia;Europe;7;Viac;Nerie¬ö, Separ;OK;1;212
 Slovakia;Europe;8;ROCKSTAR (feat. Roddy Ricch);DaBaby, Roddy Ricch;BLAME IT ON BABY;1;181
 Slovakia;Europe;9;Ahoj Ahoj ?o Ty;Separ;Og;1;135
 Slovakia;Europe;10;Og;Separ;Og;1;202
@@ -2563,8 +2563,8 @@ Slovakia;Europe;11;Origami;Separ, Ben Cristovao;Og;1;230
 Slovakia;Europe;12;Toosie Slide;Drake;Dark Lane Demo Tapes;1;247
 Slovakia;Europe;13;?o Odo M?a Chcete;Separ, Karlo, Nik Tendo, Yzomandias;Og;1;237
 Slovakia;Europe;14;The Box;Roddy Ricch;Please Excuse Me For Being Antisocial;1;196
-Slovakia;Europe;15;Str˝ko Separ;Separ;Og;1;134
-Slovakia;Europe;16;?o Sa D·;Separ;Og;1;144
+Slovakia;Europe;15;Str√Ωko Separ;Separ;Og;1;134
+Slovakia;Europe;16;?o Sa D√°;Separ;Og;1;144
 Slovakia;Europe;17;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
 Slovakia;Europe;18;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 Slovakia;Europe;19;Falling;Trevor Daniel;Nicotine;0;159
@@ -2572,8 +2572,8 @@ Slovakia;Europe;20;ily (i love you baby) (feat. Emilee);Surf Mesa, Emilee;ily (i
 Slovakia;Europe;21;Boss Bitch;Doja Cat;Boss Bitch;0;134
 Slovakia;Europe;22;Break My Heart;Dua Lipa;Future Nostalgia;0;221
 Slovakia;Europe;23;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
-Slovakia;Europe;24;Vöetci Za JednÈho;Separ, Tina;Og;0;238
-Slovakia;Europe;25;Pinokio;Separ, Dano Kapit·n;Og;0;217
+Slovakia;Europe;24;V¬öetci Za Jedn√©ho;Separ, Tina;Og;0;238
+Slovakia;Europe;25;Pinokio;Separ, Dano Kapit√°n;Og;0;217
 Slovakia;Europe;26;Stuck with U (with Justin Bieber);Ariana Grande, Justin Bieber;Stuck with U;0;228
 Slovakia;Europe;27;Blueberry Faygo;Lil Mosey;Certified Hitmaker;1;162
 Slovakia;Europe;28;Supalonely;BENEE, Gus Dapperton;STELLA & STEVE;1;223
@@ -2582,9 +2582,9 @@ Slovakia;Europe;30;In Your Eyes;The Weeknd;After Hours;1;237
 Slovakia;Europe;31;Watermelon Sugar;Harry Styles;Fine Line;0;174
 Slovakia;Europe;32;Sunday Best;Surfaces;Where the Light Is;0;158
 Slovakia;Europe;33;J Lo;Kontrafakt, Dalyb, Dokkeytino, Mirez, Zayo;Real Newz;1;212
-Slovakia;Europe;34;Ruka Na Volante;Nerieö;OK;0;172
+Slovakia;Europe;34;Ruka Na Volante;Nerie¬ö;OK;0;172
 Slovakia;Europe;35;Circles;Post Malone;Hollywood's Bleeding;0;215
-Slovakia;Europe;36;SchÌza;Separ, DMS;Og;1;216
+Slovakia;Europe;36;Sch√≠za;Separ, DMS;Og;1;216
 Slovakia;Europe;37;SICKO MODE;Travis Scott;ASTROWORLD;1;312
 Slovakia;Europe;38;goosebumps;Travis Scott;Birds In The Trap Sing McKnight;1;243
 Slovakia;Europe;39;Snake Moves;Separ, Yzomandias;Og;1;152
@@ -2597,7 +2597,7 @@ Slovakia;Europe;45;Ruky Pre?;Separ, Bitman, Rest;Og;1;233
 Slovakia;Europe;46;So Mnou;Separ;Og;1;147
 Slovakia;Europe;47;Someone You Loved;Lewis Capaldi;Divinely Uninspired To A Hellish Extent;0;182
 Slovakia;Europe;48;Salt;Ava Max;Salt;0;180
-Slovakia;Europe;49;Vietor;Separ, Nerieö;Og;1;164
+Slovakia;Europe;49;Vietor;Separ, Nerie¬ö;Og;1;164
 Slovakia;Europe;50;Hood Hero;Separ;Og;1;148
 South Africa;Africa;1;Blinding Lights;The Weeknd;After Hours;0;200
 South Africa;Africa;2;Toosie Slide;Drake;Dark Lane Demo Tapes;1;247
@@ -2617,7 +2617,7 @@ South Africa;Africa;15;death bed (coffee for your head) (feat. beabadoobee);Powf
 South Africa;Africa;16;Someone You Loved;Lewis Capaldi;Divinely Uninspired To A Hellish Extent;0;182
 South Africa;Africa;17;Stuck with U (with Justin Bieber);Ariana Grande, Justin Bieber;Stuck with U;0;228
 South Africa;Africa;18;Falling;Trevor Daniel;Nicotine;0;159
-South Africa;Africa;19;Savage Remix (feat. BeyoncÈ);Megan Thee Stallion, BeyoncÈ;Savage Remix (feat. BeyoncÈ);1;242
+South Africa;Africa;19;Savage Remix (feat. Beyonc√©);Megan Thee Stallion, Beyonc√©;Savage Remix (feat. Beyonc√©);1;242
 South Africa;Africa;20;WHATS POPPIN;Jack Harlow;Sweet Action;1;139
 South Africa;Africa;21;Memories;Maroon 5;Memories;0;189
 South Africa;Africa;22;You're the One;Elaine;Elements;0;200
@@ -2644,7 +2644,7 @@ South Africa;Africa;42;"I Need You - From the Netflix original series ""Blood & 
 South Africa;Africa;43;After Party;Don Toliver;Heaven Or Hell;1;167
 South Africa;Africa;44;Godzilla (feat. Juice WRLD);Eminem, Juice WRLD;Music To Be Murdered By;1;210
 South Africa;Africa;45;Before You Go;Lewis Capaldi;Divinely Uninspired To A Hellish Extent (Extended Edition);0;215
-South Africa;Africa;46;SeÒorita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
+South Africa;Africa;46;Se√±orita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
 South Africa;Africa;47;Sunflower - Spider-Man: Into the Spider-Verse;Post Malone, Swae Lee;Hollywood's Bleeding;0;157
 South Africa;Africa;48;Breaking Me;Topic, A7S;Breaking Me;0;166
 South Africa;Africa;49;I Don't Care (with Justin Bieber);Ed Sheeran, Justin Bieber;No.6 Collaborations Project;0;219
@@ -2652,7 +2652,7 @@ South Africa;Africa;50;BELIEVE IT;PARTYNEXTDOOR, Rihanna;PARTYMOBILE;1;183
 Spain;Europe;1;PAM;Justin Quiles, Daddy Yankee, El Alfa;PAM;1;201
 Spain;Europe;2;La Jeepeta - Remix;Nio Garcia, Anuel AA, Myke Towers, Brray, Juanka;La Jeepeta (Remix);1;345
 Spain;Europe;3;Nunca Estoy;C. Tangana;Nunca Estoy;0;162
-Spain;Europe;4;Sola & VacÌa;Casper Magico, Anuel AA;Sola & VacÌa;1;182
+Spain;Europe;4;Sola & Vac√≠a;Casper Magico, Anuel AA;Sola & Vac√≠a;1;182
 Spain;Europe;5;PA' ROMPERLA;Bad Bunny, Don Omar;LAS QUE NO IBAN A SALIR;1;194
 Spain;Europe;6;Mil Tequilas;Chema Rivas;Mil Tequilas;0;255
 Spain;Europe;7;Favorito;Camilo;Por Primera Vez;0;209
@@ -2663,36 +2663,36 @@ Spain;Europe;11;PORFA;Feid, Justin Quiles;FERXXO (VOL 1: M.O.R);0;232
 Spain;Europe;12;Dime Bbsita;Robledo, Alex Martini;Dime Bbsita;0;174
 Spain;Europe;13;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
 Spain;Europe;14;4 besos;Lola Indigo, Rauw Alejandro, Lalo Ebratt;4 besos;0;232
-Spain;Europe;15;M¡S DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
-Spain;Europe;16;RelaciÛn;Sech;1 of 1;0;184
+Spain;Europe;15;M√ÅS DE UNA CITA;Bad Bunny, Zion & Lennox;LAS QUE NO IBAN A SALIR;1;183
+Spain;Europe;16;Relaci√≥n;Sech;1 of 1;0;184
 Spain;Europe;17;Rojo;J Balvin;Colores;0;150
 Spain;Europe;18;Yo Perreo Sola;Bad Bunny;YHLQMDLG;0;172
 Spain;Europe;19;BAD CON NICKY;Bad Bunny, Nicky Jam;LAS QUE NO IBAN A SALIR;1;202
-Spain;Europe;20;Loco;BeÈle;Loco;0;204
+Spain;Europe;20;Loco;Be√©le;Loco;0;204
 Spain;Europe;21;Una Mala (Remix);El Completo Rd, Chimbala;Una Mala (Remix);0;184
-Spain;Europe;22;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
+Spain;Europe;22;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
 Spain;Europe;23;Se iluminaba;Fred De Palma, Ana Mena;Uebe;0;174
 Spain;Europe;24;Tattoo;Rauw Alejandro;Tattoo;0;202
-Spain;Europe;25;C”MO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C”MO SE SIENTE (Remix);1;227
+Spain;Europe;25;C√ìMO SE SIENTE - Remix;Jhay Cortez, Bad Bunny;C√ìMO SE SIENTE (Remix);1;227
 Spain;Europe;26;Tak Tiki Tak;Harry Nach;Tak Tiki Tak;1;212
 Spain;Europe;27;El Efecto;Rauw Alejandro, Chencho Corleone;El Efecto;0;217
 Spain;Europe;28;Sur y Norte;Nengo Flow, Anuel AA;The Goat;1;215
 Spain;Europe;29;Enemigos;Aitana, Reik;Enemigos;0;197
 Spain;Europe;30;Diosa;Myke Towers;Easy Money Baby;1;214
-Spain;Europe;31;ConfÌa;Sech, Daddy Yankee;1 of 1;0;202
-Spain;Europe;32;AtrÈvete;Yago Roche;AtrÈvete;0;190
+Spain;Europe;31;Conf√≠a;Sech, Daddy Yankee;1 of 1;0;202
+Spain;Europe;32;Atr√©vete;Yago Roche;Atr√©vete;0;190
 Spain;Europe;33;Tu Eres Un Bom Bom - Remix;Kafu Banton, Bad Gyal;Tu Eres Un Bom Bom (Remix);0;173
 Spain;Europe;34;Morado;J Balvin;Colores;0;200
 Spain;Europe;35;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
 Spain;Europe;36;Blinding Lights;The Weeknd;After Hours;0;200
-Spain;Europe;37;Si T˙ La Quieres;David Bisbal, Aitana;Si T˙ La Quieres;0;224
-Spain;Europe;38;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
+Spain;Europe;37;Si T√∫ La Quieres;David Bisbal, Aitana;Si T√∫ La Quieres;0;224
+Spain;Europe;38;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
 Spain;Europe;39;La Cama - Remix;Lunay, Myke Towers, Ozuna, Chencho Corleone, Rauw Alejandro;La Cama (Remix);0;330
 Spain;Europe;40;Fantasias - Remix;Rauw Alejandro, Anuel AA, Natti Natasha, Farruko, Lunay;Fantasias (Remix) [feat. Farruko & Lunay];0;267
 Spain;Europe;41;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 Spain;Europe;42;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Spain;Europe;43;Follow;KAROL G, Anuel AA;Follow;0;203
-Spain;Europe;44;Pegamos Tela;LÈrica, Omar Montes, Abraham Mateo;Pegamos Tela;0;187
+Spain;Europe;44;Pegamos Tela;L√©rica, Omar Montes, Abraham Mateo;Pegamos Tela;0;187
 Spain;Europe;45;Locura;Cali Y El Dandee, Sebastian Yatra;Colegio;0;209
 Spain;Europe;46;Prendio (Remix);Rvfv, Omar Montes, Daviles de Novelda;Prendio (Remix);0;191
 Spain;Europe;47;Ponte Pa' Mi;Rauw Alejandro, Myke Towers, Sky Rompiendo;Ponte Pa' Mi;1;184
@@ -2715,12 +2715,12 @@ Sweden;Europe;13;GOOBA;6ix9ine;GOOBA;1;132
 Sweden;Europe;14;Amen;Yasin;98.01.11;1;147
 Sweden;Europe;15;Drownin;Yasin;98.01.11;1;144
 Sweden;Europe;16;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
-Sweden;Europe;17;En s‰ng av rosor;Darin;En s‰ng av rosor;0;222
+Sweden;Europe;17;En s√§ng av rosor;Darin;En s√§ng av rosor;0;222
 Sweden;Europe;18;In Your Eyes;The Weeknd;After Hours;1;237
 Sweden;Europe;19;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
-Sweden;Europe;20;Kanske var vi r‰tt bra ‰ndÂ;Newkid;Kanske var vi r‰tt bra ‰ndÂ;0;153
-Sweden;Europe;21;Ghetto Mamacita;Ein·r, Dree Low;Welcome To Sweden;1;185
-Sweden;Europe;22;Lev nu dˆ sen;Miss Li;Lev nu dˆ sen;0;182
+Sweden;Europe;20;Kanske var vi r√§tt bra √§nd√•;Newkid;Kanske var vi r√§tt bra √§nd√•;0;153
+Sweden;Europe;21;Ghetto Mamacita;Ein√°r, Dree Low;Welcome To Sweden;1;185
+Sweden;Europe;22;Lev nu d√∂ sen;Miss Li;Lev nu d√∂ sen;0;182
 Sweden;Europe;23;Passa dig;Miriam Bryant;Passa dig;0;227
 Sweden;Europe;24;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 Sweden;Europe;25;Lose Somebody;Kygo, OneRepublic;Lose Somebody;0;199
@@ -2732,22 +2732,22 @@ Sweden;Europe;30;Sykepleierinnen (Sykehuset 2020);El Papi;Sykepleierinnen (Sykeh
 Sweden;Europe;31;THE SCOTTS;THE SCOTTS, Travis Scott, Kid Cudi;THE SCOTTS;1;165
 Sweden;Europe;32;BLod;Asme;BLod;1;168
 Sweden;Europe;33;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
-Sweden;Europe;34;Welcome To Sweden;Ein·r;Welcome To Sweden;1;168
+Sweden;Europe;34;Welcome To Sweden;Ein√°r;Welcome To Sweden;1;168
 Sweden;Europe;35;PIPPI;Dree Low;FLAWLESS;1;164
 Sweden;Europe;36;Rover (feat. DTG);S1mba, DTG;Rover (feat. DTG);1;167
 Sweden;Europe;37;Blueberry Faygo;Lil Mosey;Certified Hitmaker;1;162
 Sweden;Europe;38;Det Kommer Bli Bra;Laleh;Det Kommer Bli Bra;0;231
 Sweden;Europe;39;Kings & Queens;Ava Max;Kings & Queens;0;162
 Sweden;Europe;40;ily (i love you baby) (feat. Emilee);Surf Mesa, Emilee;ily (i love you baby) (feat. Emilee);0;176
-Sweden;Europe;41;Va h‰ndish;Ein·r, Thrife;Welcome To Sweden;1;156
-Sweden;Europe;42;Think About Things;Dai Freyr;Think About Things;0;173
-Sweden;Europe;43;NÂn av oss;Miriam Bryant;NÂn av oss;0;227
+Sweden;Europe;41;Va h√§ndish;Ein√°r, Thrife;Welcome To Sweden;1;156
+Sweden;Europe;42;Think About Things;Da√∞i Freyr;Think About Things;0;173
+Sweden;Europe;43;N√•n av oss;Miriam Bryant;N√•n av oss;0;227
 Sweden;Europe;44;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 Sweden;Europe;45;Break My Heart;Dua Lipa;Future Nostalgia;0;221
 Sweden;Europe;46;Chambea;Newkid;Chambea;0;170
 Sweden;Europe;47;Apelsinskal (feat. Newkid);Tjuvjakt, Newkid;Apelsinskal (feat. Newkid);1;158
 Sweden;Europe;48;Like It Is;Kygo, Zara Larsson, Tyga;Like It Is;0;183
-Sweden;Europe;49;Alla drˆmmar ‰r uppfyllda;HÂkan Hellstrˆm;Rampljus Vol. 1;0;320
+Sweden;Europe;49;Alla dr√∂mmar √§r uppfyllda;H√•kan Hellstr√∂m;Rampljus Vol. 1;0;320
 Sweden;Europe;50;Salt;Ava Max;Salt;0;180
 Switzerland;Europe;1;ROCKSTAR (feat. Roddy Ricch);DaBaby, Roddy Ricch;BLAME IT ON BABY;1;181
 Switzerland;Europe;2;Komm Komm;Capital Bra;Komm Komm;0;160
@@ -2783,7 +2783,7 @@ Switzerland;Europe;31;Blueberry Faygo;Lil Mosey;Certified Hitmaker;1;162
 Switzerland;Europe;32;HIGHEST IN THE ROOM;Travis Scott;HIGHEST IN THE ROOM;1;175
 Switzerland;Europe;33;Roller;Apache 207;Platte;1;157
 Switzerland;Europe;34;Modela;Ardian Bujupi;Modela;0;154
-Switzerland;Europe;35;JAUN…;Booba, Zed;JAUN…;1;215
+Switzerland;Europe;35;JAUN√â;Booba, Zed;JAUN√â;1;215
 Switzerland;Europe;36;Before You Go;Lewis Capaldi;Divinely Uninspired To A Hellish Extent (Extended Edition);0;215
 Switzerland;Europe;37;Life Is Good (feat. Drake);Future, Drake;High Off Life;1;237
 Switzerland;Europe;38;Ride It;Regard;Ride It;0;157
@@ -2821,7 +2821,7 @@ Taiwan;Asia;19;????;Yisa Yu;????;0;247
 Taiwan;Asia;20;Lose Somebody;Kygo, OneRepublic;Lose Somebody;0;199
 Taiwan;Asia;21;Say So (feat. Nicki Minaj);Doja Cat, Nicki Minaj;Say So (feat. Nicki Minaj);1;206
 Taiwan;Asia;22;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
-Taiwan;Asia;23;SeÒorita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
+Taiwan;Asia;23;Se√±orita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
 Taiwan;Asia;24;??;Shirley Chen;??;0;269
 Taiwan;Asia;25;Why You Gonna Lie;??? OSN;#osnrap;0;174
 Taiwan;Asia;26;???;EggPlantEgg;???????;0;253
@@ -2887,7 +2887,7 @@ Thailand;Asia;35;????????;Wanyai;????????;0;277
 Thailand;Asia;36;??????????? - ?????????????????? ?????????..??????????? ??????????????;The Toys;?????????????????? ?????????..??????????? ??????????????;0;150
 Thailand;Asia;37;????????????? (Forgot to forget);Getsunova;????????????? (Forgot to forget);0;213
 Thailand;Asia;38;Be Kind (with Halsey);Marshmello, Halsey;Be Kind (with Halsey);0;172
-Thailand;Asia;39;Psycho;Red Velvet;ëThe ReVe Festivalí Finale;0;210
+Thailand;Asia;39;Psycho;Red Velvet;¬ëThe ReVe Festival¬í Finale;0;210
 Thailand;Asia;40;??????...??;The Parkinson;???;0;229
 Thailand;Asia;41;Say So (feat. Nicki Minaj);Doja Cat, Nicki Minaj;Say So (feat. Nicki Minaj);1;206
 Thailand;Asia;42;??????;Wanyai;??????;0;223
@@ -2902,7 +2902,7 @@ Thailand;Asia;50;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 Turkey;Europe;1;Spacejump;BEGE;Spacejump;0;118
 Turkey;Europe;2;Her Mevsim Yaz?m;Zeynep Bast?k;Her Mevsim Yaz?m;0;193
 Turkey;Europe;3;Bi Sonraki Hayat?mda Gel;Murda, Ezhel;Bi Sonraki Hayat?mda Gel;0;167
-Turkey;Europe;4;Unutulacak D¸nler;Gazapizm;H?ZA;0;295
+Turkey;Europe;4;Unutulacak D√ºnler;Gazapizm;H?ZA;0;295
 Turkey;Europe;5;Darbe;Emir Can ??rek, Patron;Darbe;0;160
 Turkey;Europe;6;ALEV ALEV;Zen-G, Ati242;ALEV ALEV;1;174
 Turkey;Europe;7;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
@@ -2910,9 +2910,9 @@ Turkey;Europe;8;Sa?? Solu Kes;Gazapizm;H?ZA;0;264
 Turkey;Europe;9;kan sahibi;Contra;kan sahibi;1;177
 Turkey;Europe;10;Sar Bu ?ehri (Akustik);Canozan;Dolunay;0;204
 Turkey;Europe;11;ily (i love you baby) (feat. Emilee);Surf Mesa, Emilee;ily (i love you baby) (feat. Emilee);0;176
-Turkey;Europe;12;Gˆr¸nce D¸nyam?n Y?k?ld???n?;?an??er;Gˆr¸nce D¸nyam?n Y?k?ld???n?;0;220
-Turkey;Europe;13;Daha Mutlu Olamam;mor ve ˆtesi;G¸l Kendine;0;220
-Turkey;Europe;14;Kaz?l? Kuyum;Y¸zy¸zeyken Konu?uruz;Kaz?l? Kuyum;0;208
+Turkey;Europe;12;G√∂r√ºnce D√ºnyam?n Y?k?ld???n?;?an??er;G√∂r√ºnce D√ºnyam?n Y?k?ld???n?;0;220
+Turkey;Europe;13;Daha Mutlu Olamam;mor ve √∂tesi;G√ºl Kendine;0;220
+Turkey;Europe;14;Kaz?l? Kuyum;Y√ºzy√ºzeyken Konu?uruz;Kaz?l? Kuyum;0;208
 Turkey;Europe;15;Djadja;Aya Nakamura;NAKAMURA;0;171
 Turkey;Europe;16;Uslanm?yor Bu;Zeynep Bast?k;Uslanm?yor Bu;0;193
 Turkey;Europe;17;Ya?murlar;An?l Piyanc?, Perdenin Ard?ndakiler;Ya?murlar;0;237
@@ -2921,34 +2921,34 @@ Turkey;Europe;19;Leila;Reynmen;RnBesk;0;169
 Turkey;Europe;20;Boss Bitch;Doja Cat;Boss Bitch;0;134
 Turkey;Europe;21;Kalmam;Ebru Ya?ar;Kalmam;0;208
 Turkey;Europe;22;AYA;Murda, Ezhel;AYA;0;196
-Turkey;Europe;23;B¸t¸n Istanbul Biliyo;?kiye On Kala;B¸t¸n Istanbul Biliyo;0;150
+Turkey;Europe;23;B√ºt√ºn Istanbul Biliyo;?kiye On Kala;B√ºt√ºn Istanbul Biliyo;0;150
 Turkey;Europe;24;S?k? Dur;Ben Fero, An?l Piyanc?;S?k? Dur;0;230
 Turkey;Europe;25;Ben De Yoluma Giderim;Sezen Aksu;Ben De Yoluma Giderim;0;200
-Turkey;Europe;26;Mert KIYAK - Gel;Mert Kiyak, «a?r? Kaymak;Mert KIYAK - Gel;0;172
+Turkey;Europe;26;Mert KIYAK - Gel;Mert Kiyak, √áa?r? Kaymak;Mert KIYAK - Gel;0;172
 Turkey;Europe;27;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
-Turkey;Europe;28;El-¬lem;Tu?Áe Kandemir;El-¬lem;0;172
+Turkey;Europe;28;El-√Çlem;Tu?√ße Kandemir;El-√Çlem;0;172
 Turkey;Europe;29;Peri?an?m;Edis;Peri?an?m;0;192
 Turkey;Europe;30;THE SCOTTS;THE SCOTTS, Travis Scott, Kid Cudi;THE SCOTTS;1;165
 Turkey;Europe;31;Eskimi? Senelere;Aspova;Hell;0;195
 Turkey;Europe;32;Neyin Nesi;Dolu Kadehi Ters Tut;Neyin Nesi;0;196
-Turkey;Europe;33;Dinle Beni Bi';Y¸zy¸zeyken Konu?uruz;Akustik Travma;0;144
-Turkey;Europe;34;Bˆyle Sever;Kahraman Deniz;19;0;244
-Turkey;Europe;35;Tuzaklara D¸?t¸m;Kahraman Deniz;Tuzaklara D¸?t¸m;0;223
+Turkey;Europe;33;Dinle Beni Bi';Y√ºzy√ºzeyken Konu?uruz;Akustik Travma;0;144
+Turkey;Europe;34;B√∂yle Sever;Kahraman Deniz;19;0;244
+Turkey;Europe;35;Tuzaklara D√º?t√ºm;Kahraman Deniz;Tuzaklara D√º?t√ºm;0;223
 Turkey;Europe;36;The Box;Roddy Ricch;Please Excuse Me For Being Antisocial;1;196
 Turkey;Europe;37;Teni Tenime;Sena ?ener;Teni Tenime;0;196
 Turkey;Europe;38;Yalan;Aleyna Tilki;Yalan;0;212
 Turkey;Europe;39;Nalan;Emir Can ??rek;Nalan;0;199
-Turkey;Europe;40;Ac?n?n ?lac?;Adamlar;R¸yalarda Buru?mu?uz;0;287
+Turkey;Europe;40;Ac?n?n ?lac?;Adamlar;R√ºyalarda Buru?mu?uz;0;287
 Turkey;Europe;41;Blinding Lights;The Weeknd;After Hours;0;200
 Turkey;Europe;42;Beni Kendinden Kurtar;Perdenin Ard?ndakiler;Beni Kendinden Kurtar;0;206
 Turkey;Europe;43;Hokkabazlar;Heijan, Muti;Hokkabazlar;0;178
 Turkey;Europe;44;?lerle;BEGE;?lerle;1;207
-Turkey;Europe;45;÷lsem Yeridir;Y¸zy¸zeyken Konu?uruz;÷lsem Yeridir;0;232
-Turkey;Europe;46;G¸ne?;Murda, Zeynep Bast?k, Idaly;DO?A;0;165
+Turkey;Europe;45;√ñlsem Yeridir;Y√ºzy√ºzeyken Konu?uruz;√ñlsem Yeridir;0;232
+Turkey;Europe;46;G√ºne?;Murda, Zeynep Bast?k, Idaly;DO?A;0;165
 Turkey;Europe;47;Pahal?;Murda;DO?A;1;132
 Turkey;Europe;48;Falling;Trevor Daniel;Nicotine;0;159
 Turkey;Europe;49;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
-Turkey;Europe;50;G¸zel K?zlar Patron Dinler;Patron;Sosyo Pat;0;175
+Turkey;Europe;50;G√ºzel K?zlar Patron Dinler;Patron;Sosyo Pat;0;175
 United Kingdom;Europe;1;ROCKSTAR (feat. Roddy Ricch);DaBaby, Roddy Ricch;BLAME IT ON BABY;1;181
 United Kingdom;Europe;2;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 United Kingdom;Europe;3;Blinding Lights;The Weeknd;After Hours;0;200
@@ -2970,7 +2970,7 @@ United Kingdom;Europe;18;Watermelon Sugar;Harry Styles;Fine Line;0;174
 United Kingdom;Europe;19;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 United Kingdom;Europe;20;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
 United Kingdom;Europe;21;THE SCOTTS;THE SCOTTS, Travis Scott, Kid Cudi;THE SCOTTS;1;165
-United Kingdom;Europe;22;Savage Remix (feat. BeyoncÈ);Megan Thee Stallion, BeyoncÈ;Savage Remix (feat. BeyoncÈ);1;242
+United Kingdom;Europe;22;Savage Remix (feat. Beyonc√©);Megan Thee Stallion, Beyonc√©;Savage Remix (feat. Beyonc√©);1;242
 United Kingdom;Europe;23;GOOBA;6ix9ine;GOOBA;1;132
 United Kingdom;Europe;24;The Box;Roddy Ricch;Please Excuse Me For Being Antisocial;1;196
 United Kingdom;Europe;25;Breaking Me;Topic, A7S;Breaking Me;0;166
@@ -2979,7 +2979,7 @@ United Kingdom;Europe;27;Someone You Loved;Lewis Capaldi;Divinely Uninspired To 
 United Kingdom;Europe;28;Bad Lil Vibe (feat. Jeremih);KSI, Jeremih;Dissimulation;1;137
 United Kingdom;Europe;29;Supalonely;BENEE, Gus Dapperton;STELLA & STEVE;1;223
 United Kingdom;Europe;30;Millions;KSI;Dissimulation;1;193
-United Kingdom;Europe;31;Donít Need Love (with GRACEY);220 KID, GRACEY;Don't Need Love;0;195
+United Kingdom;Europe;31;Don¬ít Need Love (with GRACEY);220 KID, GRACEY;Don't Need Love;0;195
 United Kingdom;Europe;32;Say So;Doja Cat;Hot Pink;1;237
 United Kingdom;Europe;33;What You Been On;KSI;Dissimulation;1;119
 United Kingdom;Europe;34;Domain;KSI;Dissimulation;1;180
@@ -3008,7 +3008,7 @@ United States;North America;6;Toosie Slide;Drake;Dark Lane Demo Tapes;1;247
 United States;North America;7;The Box;Roddy Ricch;Please Excuse Me For Being Antisocial;1;196
 United States;North America;8;Party Girl;StaySolidRocky;Party Girl;0;147
 United States;North America;9;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
-United States;North America;10;Savage Remix (feat. BeyoncÈ);Megan Thee Stallion, BeyoncÈ;Savage Remix (feat. BeyoncÈ);1;242
+United States;North America;10;Savage Remix (feat. Beyonc√©);Megan Thee Stallion, Beyonc√©;Savage Remix (feat. Beyonc√©);1;242
 United States;North America;11;WHATS POPPIN;Jack Harlow;Sweet Action;1;139
 United States;North America;12;COOLER THAN A BITCH (feat. Roddy Ricch);Gunna, Roddy Ricch;WUNNA;1;197
 United States;North America;13;GOOBA;6ix9ine;GOOBA;1;132
@@ -3053,53 +3053,53 @@ Uruguay;South America;1;Favorito;Camilo;Por Primera Vez;0;209
 Uruguay;South America;2;PORFA;Feid, Justin Quiles;FERXXO (VOL 1: M.O.R);0;232
 Uruguay;South America;3;Yo Perreo Sola;Bad Bunny;YHLQMDLG;0;172
 Uruguay;South America;4;Rojo;J Balvin;Colores;0;150
-Uruguay;South America;5;ElegÌ (feat. DÌmelo Flow);Rauw Alejandro, Dalex, Lenny Tav·rez, DÌmelo Flow;ElegÌ (feat. DÌmelo Flow);0;197
+Uruguay;South America;5;Eleg√≠ (feat. D√≠melo Flow);Rauw Alejandro, Dalex, Lenny Tav√°rez, D√≠melo Flow;Eleg√≠ (feat. D√≠melo Flow);0;197
 Uruguay;South America;6;Colocao;Nicki Nicole;Colocao;1;179
 Uruguay;South America;7;Safaera;Bad Bunny, Jowell & Randy, Nengo Flow;YHLQMDLG;1;295
 Uruguay;South America;8;Tattoo;Rauw Alejandro;Tattoo;0;202
 Uruguay;South America;9;La Jeepeta - Remix;Nio Garcia, Anuel AA, Myke Towers, Brray, Juanka;La Jeepeta (Remix);1;345
-Uruguay;South America;10;RelaciÛn;Sech;1 of 1;0;184
+Uruguay;South America;10;Relaci√≥n;Sech;1 of 1;0;184
 Uruguay;South America;11;Por Primera Vez;Camilo, Evaluna Montaner;Por Primera Vez;0;182
 Uruguay;South America;12;Tusa;KAROL G, Nicki Minaj;Tusa;0;200
-Uruguay;South America;13;Inolvidable;Ovy On The Drums, BeÈle;Inolvidable;0;225
+Uruguay;South America;13;Inolvidable;Ovy On The Drums, Be√©le;Inolvidable;0;225
 Uruguay;South America;14;C.R.O: Bzrp Music Session, Vol. 29;Bizarrap, C.R.O;C.R.O: Bzrp Music Session, Vol. 29;0;146
 Uruguay;South America;15;Diosa;Myke Towers;Easy Money Baby;1;214
-Uruguay;South America;16;Hola - Remix;Dalex, Lenny Tav·rez, Chencho Corleone, Juhn, DÌmelo Flow;Hola (Remix);0;249
+Uruguay;South America;16;Hola - Remix;Dalex, Lenny Tav√°rez, Chencho Corleone, Juhn, D√≠melo Flow;Hola (Remix);0;249
 Uruguay;South America;17;Locura;Cali Y El Dandee, Sebastian Yatra;Colegio;0;209
 Uruguay;South America;18;Morado;J Balvin;Colores;0;200
 Uruguay;South America;19;Amarillo;J Balvin;Colores;0;157
 Uruguay;South America;20;Fantasias;Rauw Alejandro, Farruko;Fantasias;0;199
-Uruguay;South America;21;La DifÌcil;Bad Bunny;YHLQMDLG;1;163
-Uruguay;South America;22;Si Me Dices Que SÌ;Reik, Farruko, Camilo;Si Me Dices Que SÌ;0;211
+Uruguay;South America;21;La Dif√≠cil;Bad Bunny;YHLQMDLG;1;163
+Uruguay;South America;22;Si Me Dices Que S√≠;Reik, Farruko, Camilo;Si Me Dices Que S√≠;0;211
 Uruguay;South America;23;El Efecto - Remix;Rauw Alejandro, Chencho Corleone, KEVVO, Bryant Myers, Lyanno, Dalex;El Efecto (Remix);1;289
 Uruguay;South America;24;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
-Uruguay;South America;25;Sigues Con El;DÌmelo Flow, Arcangel, Sech;Sigues Con El;0;226
+Uruguay;South America;25;Sigues Con El;D√≠melo Flow, Arcangel, Sech;Sigues Con El;0;226
 Uruguay;South America;26;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Uruguay;South America;27;Tak Tiki Tak;Harry Nach;Tak Tiki Tak;1;212
-Uruguay;South America;28;Tutu;Camilo, Pedro CapÛ;Por Primera Vez;0;179
+Uruguay;South America;28;Tutu;Camilo, Pedro Cap√≥;Por Primera Vez;0;179
 Uruguay;South America;29;Ignorantes;Bad Bunny, Sech;YHLQMDLG;1;210
-Uruguay;South America;30;MuÈvelo;Nicky Jam, Daddy Yankee;MuÈvelo;0;194
-Uruguay;South America;31;Loco;BeÈle;Loco;0;204
+Uruguay;South America;30;Mu√©velo;Nicky Jam, Daddy Yankee;Mu√©velo;0;194
+Uruguay;South America;31;Loco;Be√©le;Loco;0;204
 Uruguay;South America;32;Follow;KAROL G, Anuel AA;Follow;0;203
-Uruguay;South America;33;Bellaquita - Remix;Dalex, Lenny Tav·rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo AviÛn;1;304
-Uruguay;South America;34;Loco - Remix;Farruko, BeÈle, Natti Natasha, Manuel Turizo;Loco (Remix);0;248
-Uruguay;South America;35;Ya No M·s;Fer Palacio, DJ Alex, Santiago Saez;Ya No M·s;0;158
+Uruguay;South America;33;Bellaquita - Remix;Dalex, Lenny Tav√°rez, Anitta, Natti Natasha, Farruko, Justin Quiles;Modo Avi√≥n;1;304
+Uruguay;South America;34;Loco - Remix;Farruko, Be√©le, Natti Natasha, Manuel Turizo;Loco (Remix);0;248
+Uruguay;South America;35;Ya No M√°s;Fer Palacio, DJ Alex, Santiago Saez;Ya No M√°s;0;158
 Uruguay;South America;36;Roses - Imanbek Remix;SAINt JHN, Imanbek;Roses (Imanbek Remix);1;176
-Uruguay;South America;37;La Pared 360;Lenny Tav·rez, Justin Quiles;La Pared 360;1;154
-Uruguay;South America;38;Mejor;Dalex, Sech;Modo AviÛn;1;201
+Uruguay;South America;37;La Pared 360;Lenny Tav√°rez, Justin Quiles;La Pared 360;1;154
+Uruguay;South America;38;Mejor;Dalex, Sech;Modo Avi√≥n;1;201
 Uruguay;South America;39;Bajo La Mesa;Morat, Sebastian Yatra;Bajo La Mesa;0;157
 Uruguay;South America;40;Keii;Anuel AA;Keii;0;210
 Uruguay;South America;41;La Cama - Remix;Lunay, Myke Towers, Ozuna, Chencho Corleone, Rauw Alejandro;La Cama (Remix);0;330
 Uruguay;South America;42;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 Uruguay;South America;43;BAD CON NICKY;Bad Bunny, Nicky Jam;LAS QUE NO IBAN A SALIR;1;202
-Uruguay;South America;44;ConfÌa;Sech, Daddy Yankee;1 of 1;0;202
+Uruguay;South America;44;Conf√≠a;Sech, Daddy Yankee;1 of 1;0;202
 Uruguay;South America;45;Azul;J Balvin;Colores;0;205
-Uruguay;South America;46;La DifÌcil;Camilo;Por Primera Vez;0;158
+Uruguay;South America;46;La Dif√≠cil;Camilo;Por Primera Vez;0;158
 Uruguay;South America;47;TBT;Sebastian Yatra, Rauw Alejandro, Manuel Turizo;TBT;0;239
 Uruguay;South America;48;BYE ME FUI;Bad Bunny;LAS QUE NO IBAN A SALIR;1;178
 Uruguay;South America;49;High;Maria Becerra;High;1;187
 Uruguay;South America;50;Blinding Lights;The Weeknd;After Hours;0;200
-Vietnam;Asia;1;em b? h˙t thu?c ch?a?;Bich Phuong, traitimtrongvang;t‚m tr?ng tan h?i ch?m m?t ch˙t;0;216
+Vietnam;Asia;1;em b? h√∫t thu?c ch?a?;Bich Phuong, traitimtrongvang;t√¢m tr?ng tan h?i ch?m m?t ch√∫t;0;216
 Vietnam;Asia;2;Play Date;Melanie Martinez;Cry Baby (Deluxe Edition);1;179
 Vietnam;Asia;3;Rain On Me (with Ariana Grande);Lady Gaga, Ariana Grande;Rain On Me (with Ariana Grande);0;182
 Vietnam;Asia;4;Daechwita;Agust D;D-2;1;225
@@ -3108,23 +3108,23 @@ Vietnam;Asia;6;Stuck with U (with Justin Bieber);Ariana Grande, Justin Bieber;St
 Vietnam;Asia;7;eight(Prod.&Feat. SUGA of BTS);IU, SUGA;eight;0;167
 Vietnam;Asia;8;death bed (coffee for your head) (feat. beabadoobee);Powfu, beabadoobee;death bed (coffee for your head) (feat. beabadoobee);0;173
 Vietnam;Asia;9;Mascara;Chillies;Mascara;0;295
-Vietnam;Asia;10;V˘ng K˝ ?c;Chillies;V˘ng K˝ ?c;0;298
-Vietnam;Asia;11;L?i Nh?;?en, Ph??ng Anh ?‡o;L?i Nh?;0;252
+Vietnam;Asia;10;V√πng K√Ω ?c;Chillies;V√πng K√Ω ?c;0;298
+Vietnam;Asia;11;L?i Nh?;?en, Ph??ng Anh ?√†o;L?i Nh?;0;252
 Vietnam;Asia;12;Intentions (feat. Quavo);Justin Bieber, Quavo;Changes;0;212
 Vietnam;Asia;13;What do you think?;Agust D;D-2;1;182
-Vietnam;Asia;14;B‡i N‡y Chill Ph?t;?en, Min;B‡i N‡y Chill Ph?t;0;276
+Vietnam;Asia;14;B√†i N√†y Chill Ph?t;?en, Min;B√†i N√†y Chill Ph?t;0;276
 Vietnam;Asia;15;People;Agust D;D-2;0;197
 Vietnam;Asia;16;Strange;Agust D, RM;D-2;0;196
 Vietnam;Asia;17;Be Kind (with Halsey);Marshmello, Halsey;Be Kind (with Halsey);0;172
 Vietnam;Asia;18;Break My Heart;Dua Lipa;Future Nostalgia;0;221
 Vietnam;Asia;19;28;Agust D, NiiHWA;D-2;0;133
 Vietnam;Asia;20;Thanh Xuan;Da LAB;Thanh Xuan;0;220
-Vietnam;Asia;21;SeÒorita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
+Vietnam;Asia;21;Se√±orita;Shawn Mendes, Camila Cabello;Shawn Mendes (Deluxe);0;190
 Vietnam;Asia;22;Memories;Maroon 5;Memories;0;189
 Vietnam;Asia;23;Moonlight;Agust D;D-2;1;163
 Vietnam;Asia;24;ily (i love you baby) (feat. Emilee);Surf Mesa, Emilee;ily (i love you baby) (feat. Emilee);0;176
 Vietnam;Asia;25;Burn It;Agust D, MAX;D-2;0;192
-Vietnam;Asia;26;CÛ Em ??i B?ng Vui;Chillies;CÛ Em ??i B?ng Vui;0;247
+Vietnam;Asia;26;C√≥ Em ??i B?ng Vui;Chillies;C√≥ Em ??i B?ng Vui;0;247
 Vietnam;Asia;27;Dear my friend (feat. Kim Jong Wan of NELL);Agust D, Kim Jong Wan;D-2;1;292
 Vietnam;Asia;28;Say So (feat. Nicki Minaj);Doja Cat, Nicki Minaj;Say So (feat. Nicki Minaj);1;206
 Vietnam;Asia;29;Someone You Loved;Lewis Capaldi;Divinely Uninspired To A Hellish Extent;0;182
@@ -3132,20 +3132,20 @@ Vietnam;Asia;30;Don't Start Now;Dua Lipa;Future Nostalgia;0;183
 Vietnam;Asia;31;Honsool;Agust D;D-2;1;219
 Vietnam;Asia;32;Duyen Am;Hoang Thuy Linh;Hoang;0;179
 Vietnam;Asia;33;Dance Monkey;Tones And I;Dance Monkey (Stripped Back) / Dance Monkey;0;209
-Vietnam;Asia;34;V‡ Th? L‡ H?t;Chillies;V‡ Th? L‡ H?t;0;291
-Vietnam;Asia;35;C?n GÏ H?n;Tien Tien, JustaTee;C?n GÏ H?n;0;206
+Vietnam;Asia;34;V√† Th? L√† H?t;Chillies;V√† Th? L√† H?t;0;291
+Vietnam;Asia;35;C?n G√¨ H?n;Tien Tien, JustaTee;C?n G√¨ H?n;0;206
 Vietnam;Asia;36;Interlude : Set me free;Agust D;D-2;0;140
-Vietnam;Asia;37;H„y Trao Cho Anh;S?n T˘ng M-TP, Snoop Dogg;H„y Trao Cho Anh;0;245
+Vietnam;Asia;37;H√£y Trao Cho Anh;S?n T√πng M-TP, Snoop Dogg;H√£y Trao Cho Anh;0;245
 Vietnam;Asia;38;7 rings;Ariana Grande;thank u, next;1;178
 Vietnam;Asia;39;Can We Kiss Forever?;Kina, Adriana Proenza;Can We Kiss Forever?;0;187
 Vietnam;Asia;40;Let Me Down Slowly;Alec Benjamin;Narrated For You;0;169
 Vietnam;Asia;41;bad guy;Billie Eilish;WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?;0;194
 Vietnam;Asia;42;comethru (bonus track);Jeremy Zucker;love is not dying;0;181
-Vietnam;Asia;43;L?N CU?I (?i bÍn em xÛt xa ng??i ?i);Ng?t;3 (tuy?n t?p nh?c Ng?t m?i tr? sÙi ??ng 2019);0;222
+Vietnam;Asia;43;L?N CU?I (?i b√™n em x√≥t xa ng??i ?i);Ng?t;3 (tuy?n t?p nh?c Ng?t m?i tr? s√¥i ??ng 2019);0;222
 Vietnam;Asia;44;Em Day Chang Phai Thuy Kieu;Hoang Thuy Linh;Hoang;0;214
 Vietnam;Asia;45;Say So;Doja Cat;Hot Pink;1;237
-Vietnam;Asia;46;?√ T?NG L¿;V?.;?√ T?NG L¿;0;260
-Vietnam;Asia;47;M??n R??u T? TÏnh;BigDaddy, Emily;M??n R??u T? TÏnh;0;198
-Vietnam;Asia;48;Ng‡y T?n Th?;TÛc TiÍn, Da LAB, Touliver;Ng‡y T?n Th?;0;232
+Vietnam;Asia;46;?√É T?NG L√Ä;V?.;?√É T?NG L√Ä;0;260
+Vietnam;Asia;47;M??n R??u T? T√¨nh;BigDaddy, Emily;M??n R??u T? T√¨nh;0;198
+Vietnam;Asia;48;Ng√†y T?n Th?;T√≥c Ti√™n, Da LAB, Touliver;Ng√†y T?n Th?;0;232
 Vietnam;Asia;49;?i ?u ??a ?i;Bich Phuong;?i ?u ??a ?i;0;220
 Vietnam;Asia;50;Blinding Lights;The Weeknd;After Hours;0;200
