@@ -3,7 +3,7 @@
 Our project uses Spotify datasets that have been previously cleaned, along with artificially generated data. This data is sent to Grafana through an API.
 You can start the project using the following commands:
 
->uvicorn main:app --reloadd
+>uvicorn main:app --reload
 >
 >ngrok http 8000
 
